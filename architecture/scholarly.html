@@ -5,6 +5,10 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Vinyl scholarly</title>
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css">
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.16.0/umd/popper.min.js"></script>
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js"></script>
     <style>
         #report-title {
             text-align: center;
@@ -99,6 +103,39 @@
                 <h3>2.4 User Interface</h3>
                 <p>We will design an intuitive and user-friendly interface where users can input preferences, view recommendations, create and share playlists with friends.
                 Also will provide a visually appealing display of recommended vinyl records with cover images, song information, and any other significant details</p>
+                <div id="myCarousel" class="carousel slide" data-ride="carousel">
+                    <!-- Indicators -->
+                    <ul class="carousel-indicators">
+                      <li data-target="#myCarousel" data-slide-to="0" class="active"></li>
+                      <li data-target="#myCarousel" data-slide-to="1"></li>
+                      <li data-target="#myCarousel" data-slide-to="2"></li>
+                      <li data-target="#myCarousel" data-slide-to="3"></li>
+                    </ul>
+                  
+                    <!-- Slides -->
+                    <div class="carousel-inner">
+                      <div class="carousel-item active">
+                        <img src="user-interface/home.PNG" alt="Image 1">
+                      </div>
+                      <div class="carousel-item">
+                        <img src="user-interface/playlists.PNG" alt="Image 2">
+                      </div>
+                      <div class="carousel-item">
+                        <img src="user-interface/recommandation.PNG" alt="Image 3">
+                      </div>
+                      <div class="carousel-item">
+                        <img src="user-interface/history.PNG" alt="Image 4">
+                      </div>
+                    </div>
+                  
+                    <!-- Controls -->
+                    <a class="carousel-control-prev" href="#myCarousel" data-slide="prev">
+                      <span class="carousel-control-prev-icon"></span>
+                    </a>
+                    <a class="carousel-control-next" href="#myCarousel" data-slide="next">
+                      <span class="carousel-control-next-icon"></span>
+                    </a>
+                </div>
             </section>
         </section>
 
