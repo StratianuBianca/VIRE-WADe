@@ -44,28 +44,29 @@
             <ul>
                 <li><a href="#abstract">Abstract</a></li>
                 <li><a href="#introduction">1. Introduction</a></li>
-                <li><a href="#internal-data-structures">2. Internal Data Structures/Models</a></li>
+                <li><a href="#architecture">2. Architecture</a></li>
+                <li><a href="#internal-data-structures">3. Internal Data Structures/Models</a></li>
                     <ul>
-                        <li><a href="#internal-overview">2.1 Overview</a></li>
-                        <li><a href="#data-model-1">2.2 Data Model</a></li>
-                        <li><a href="#data-model-2">2.3 Recommandation Service</a></li>
-                        <li><a href="#considerations">2.4 User Interface</a></li> 
+                        <li><a href="#internal-overview">3.1 Overview</a></li>
+                        <li><a href="#data-model-1">3.2 Data Model</a></li>
+                        <li><a href="#data-model-2">3.3 Recommandation Service</a></li>
+                        <li><a href="#considerations">3.4 User Interface</a></li> 
                     </ul>
                 </li>
-                <li><a href="#external-data-sources">3. External Data Sources</a></li>
+                <li><a href="#external-data-sources">4. External Data Sources</a></li>
                     <ul>
           
-                        <li><a href="#external-overview">3.1 Overview</a></li>
-                        <li><a href="#data-model">3.2 Data Source</a></li>
-                        <li><a href="#data-integration">3.3 Data Integration</a></li>
+                        <li><a href="#external-overview">4.1 Overview</a></li>
+                        <li><a href="#data-model">4.2 Data Source</a></li>
+                        <li><a href="#data-integration">4.3 Data Integration</a></li>
                     </ul>
                 </li>
-                <li><a href="#linked-data-principles">4. Linked Data Principles</a></li>
-                <li><a href="#conclusion">5. Conclusion</a></li>
-                <li><a href="#future-work">6. Future Work</a></li>
-                <li><a href="#references">7. References</a></li>
-                <li><a href="#acknowledgments">8. Acknowledgments</a></li>
-                <li><a href="#appendices">9. Appendices</a></li>
+                <li><a href="#linked-data-principles">5. Linked Data Principles</a></li>
+                <li><a href="#conclusion">6. Conclusion</a></li>
+                <li><a href="#future-work">7. Future Work</a></li>
+                <li><a href="#references">8. References</a></li>
+                <li><a href="#acknowledgments">9. Acknowledgments</a></li>
+                <li><a href="#appendices">10. Appendices</a></li>
             </ul>
         </nav>
         <section id="abstract">
@@ -78,16 +79,63 @@
             <p></p>
         </section>
 
+        <section id="architecture">  
+            <h2>2. Architecture</h2>
+            <p>General architecture:</p>
+            <div class="item">
+                <img src="C3/wadeService.png" alt="wadeService" style="width:100%;">
+            </div>
+            <p>C3 diagrams:</p>
+            <div id="myCarousel" class="carousel slide" data-ride="carousel">
+                <!-- Indicators -->
+                <ul class="carousel-indicators">
+                  <li data-target="#myCarousel" data-slide-to="0" class="active"></li>
+                  <li data-target="#myCarousel" data-slide-to="1"></li>
+                  <li data-target="#myCarousel" data-slide-to="2"></li>
+                </ul>
+              
+                <!-- Slides -->
+                <div class="carousel-inner">
+                  <div class="carousel-item active">
+                    <img src="C3/C1Vinyl.png" alt="Image 1">
+                  </div>
+                  <div class="carousel-item">
+                    <img src="C3/C2Vinyl.png" alt="Image 2">
+                  </div>
+                  <div class="carousel-item">
+                    <img src="C3/C3Vinyl.png" alt="Image 3">
+                  </div>
+                </div>
+              
+                <!-- Controls -->
+                <a class="carousel-control-prev" href="#myCarousel" data-slide="prev">
+                  <span class="carousel-control-prev-icon"></span>
+                </a>
+                <a class="carousel-control-next" href="#myCarousel" data-slide="next">
+                  <span class="carousel-control-next-icon"></span>
+                </a>
+            </div>
+            <p>Use Case Diagram</p>
+            <div>How the user will interact with the application:</div>
+            <div class="item">
+                <img src="useCase/UseCase.png" alt="useCase" style="width:100%;">
+            </div>
+            <p>Task flows diagram:</p>
+            <div class="item">
+                <img src="useCase/Taskflows.png" alt="Taskflows" style="width:100%;">
+            </div>
+        </section>
+
         <section id="internal-data-structures">
-            <h2>2. Internal Data Structures/Models</h2>
+            <h2>3. Internal Data Structures/Models</h2>
 
             <section id="internal-overview"> 
-                <h3>2.1 Overview</h3>
+                <h3>3.1 Overview</h3>
                 <p>We use internal data model to manage and organise the data within the application, enabling efficient storage, updates and retrieval of the store data</p>
             </section>
 
             <section id="data-model-1">
-                <h3>2.2 Data Model</h3> 
+                <h3>3.2 Data Model</h3> 
                 <p>User Model includes attributes such as username, email, password, and any other relevant user information.</p>
                 <p>Vinyl Model used to store informations about each vinyl. Can include attributes such as name, description, duration.</p>
                 <p>Playlist Model includes information about the owner and the name of the playlist.</p>
@@ -95,12 +143,12 @@
             </section>
 
             <section id="data-model-2">
-                <h3>2.3 Recommandation Service</h3>
+                <h3>3.3 Recommandation Service</h3>
                     This module will provide vinyl recomandations for an user based on multiple criterias such as user preferences and maybe considering user generated playlists or share playlist from his social network
             </section>
 
             <section id="considerations">
-                <h3>2.4 User Interface</h3>
+                <h3>3.4 User Interface</h3>
                 <p>We will design an intuitive and user-friendly interface where users can input preferences, view recommendations, create and share playlists with friends.
                 Also will provide a visually appealing display of recommended vinyl records with cover images, song information, and any other significant details</p>
                 <div id="myCarousel" class="carousel slide" data-ride="carousel">
@@ -140,29 +188,29 @@
         </section>
 
         <section id="external-data-sources">
-            <h2>3. External Data Sources</h2>
+            <h2>4. External Data Sources</h2>
 
             <section id="external-overview">
-                <h3>3.1 Overview</h3>
+                <h3>4.1 Overview</h3>
                    <p>We are gonna use external data sources such us external APIs and models so that users have a much better and fuller experience when they have to choose and find new songs to add to playlist and to significantly enhance the creativite of our music recommendation service.</p>
             
                    <section id="data-source">
-                <h3>3.2 Data Source</h3>
+                <h3>4.2 Data Source</h3>
                     <p>Music Ontology provides a vocabulary for publishing and linking a wide range of music-related data on the Web. Music Ontology data can be published by anyone as part of a web site or an API and linked with existing data, therefore creating a music-related web of data.</p>
                     <p>Last.fm is a music recommendation service that tracks user listening habits and provides personalized recommendations. Also allows to fetch user data including playlists and user recommendations. So we are gonna use it for receiving vinyl recomandations based on playlist that user build or share in common with his network.</p>
                     <p>Discogs is a comprehensive database of music releases, including vinyl records. We will use Discogs API that allows us to access and retrive informations such as album cover, genres, realease dates and tracklists.</p>
                 </section>
 
             <section id="data-integration">
-                <h3>3.3 Data Integration</h3>
+                <h3>4.3 Data Integration</h3>
             </section>
         </section>
 
         <section id="linked-data-principles">
-            <h2>4. Linked Data Principles</h2>
+            <h2>5. Linked Data Principles</h2>
 
             <section id="linked-data-explanation">
-                <h3>4.1 Explanation of Linked Data</h3>
+                <h3>5.1 Explanation of Linked Data</h3>
                 <p>Linked Data is a set of principles and best practices for publishing, connecting, and interlinking structured data on the web.The key principles of Linked Data are designed to make data more discoverable, usable, and interconnected. </p>
                 Here are the core principles:
                     <ul>
@@ -175,7 +223,7 @@
             </section>
 
             <section id="conformance-explanation">
-                <h3>4.2 How the Solution Conforms</h3>
+                <h3>5.2 How the Solution Conforms</h3>
                 <p>We are gonna use these principles in the following manners:</p>
                 <ul>
                     <li>
@@ -198,23 +246,23 @@
         </section>
 
         <section id="conclusion">
-            <h2>5. Conclusion</h2>
+            <h2>6. Conclusion</h2>
         </section>
 
         <section id="future-work">
-            <h2>6. Future Work</h2>
+            <h2>7. Future Work</h2>
         </section>
 
         <section id="references">
-            <h2>7. References</h2>
+            <h2>8. References</h2>
         </section>
 
         <section id="acknowledgments">
-            <h2>8. Acknowledgments</h2>
+            <h2>9. Acknowledgments</h2>
         </section>
 
         <section id="appendices">
-            <h2>9. Appendices</h2>
+            <h2>10. Appendices</h2>
         </section>
     </div>
 
