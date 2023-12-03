@@ -1,14 +1,14 @@
 From: <Saved by Blink>
 Snapshot-Content-Location: https://editor.swagger.io/
 Subject: Swagger Editor
-Date: Sun, 3 Dec 2023 15:46:07 +0200
+Date: Sun, 3 Dec 2023 22:10:12 +0200
 MIME-Version: 1.0
 Content-Type: multipart/related;
 	type="text/html";
-	boundary="----MultipartBoundary--TYHCsn4wmh4BWMdgU9NGcN2iJP7UTzVRwN3lCjpxvB----"
+	boundary="----MultipartBoundary--QslLSVFPyX99rz3CHOEhNNfkennGjGBm3OjIyCeVbe----"
 
 
-------MultipartBoundary--TYHCsn4wmh4BWMdgU9NGcN2iJP7UTzVRwN3lCjpxvB----
+------MultipartBoundary--QslLSVFPyX99rz3CHOEhNNfkennGjGBm3OjIyCeVbe----
 Content-Type: text/html
 Content-ID: <frame-A2B4E109340DE5C502B0195AFA18494A@mhtml.blink>
 Content-Transfer-Encoding: quoted-printable
@@ -18,17 +18,17 @@ Content-Location: https://editor.swagger.io/
 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 S=
 afari/537.36"><head><meta http-equiv=3D"Content-Type" content=3D"text/html;=
  charset=3DUTF-8"><link rel=3D"stylesheet" type=3D"text/css" href=3D"cid:cs=
-s-5ca8a9fa-0871-4c8f-b0ee-7bd4e14ae139@mhtml.blink" /><link rel=3D"styleshe=
-et" type=3D"text/css" href=3D"cid:css-fbbd2a99-a5cc-4b6a-b96b-943a2481f50e@=
-mhtml.blink" /><link rel=3D"stylesheet" type=3D"text/css" href=3D"cid:css-2=
-52da3a5-b8d8-48ac-8348-7f762fdef654@mhtml.blink" /><link rel=3D"stylesheet"=
- type=3D"text/css" href=3D"cid:css-8cc15368-9c33-4152-9ee5-2cd3005d5445@mht=
-ml.blink" /><link rel=3D"stylesheet" type=3D"text/css" href=3D"cid:css-4a3c=
-26a3-5c22-4c47-800c-85885a968aa9@mhtml.blink" /><link rel=3D"stylesheet" ty=
-pe=3D"text/css" href=3D"cid:css-3d168e99-3e8d-4714-ab96-e275d71dec0f@mhtml.=
-blink" /><link rel=3D"stylesheet" type=3D"text/css" href=3D"cid:css-31c30ee=
-5-084e-41f7-81d7-65bbc5b61271@mhtml.blink" /><link rel=3D"stylesheet" type=
-=3D"text/css" href=3D"cid:css-14e783d0-72b1-4a04-a0ba-d50d99af87fa@mhtml.bl=
+s-51fc5d4a-d824-492f-aff1-51841a259066@mhtml.blink" /><link rel=3D"styleshe=
+et" type=3D"text/css" href=3D"cid:css-17484b5b-56ca-41a3-abd8-58910b28b5d3@=
+mhtml.blink" /><link rel=3D"stylesheet" type=3D"text/css" href=3D"cid:css-5=
+56f46d3-53d8-4850-8725-732a722dddd9@mhtml.blink" /><link rel=3D"stylesheet"=
+ type=3D"text/css" href=3D"cid:css-9ee246cf-5dd4-4cdc-9f82-982419ee3701@mht=
+ml.blink" /><link rel=3D"stylesheet" type=3D"text/css" href=3D"cid:css-c1aa=
+606b-73c0-4bc6-9ce0-fbbe310bc594@mhtml.blink" /><link rel=3D"stylesheet" ty=
+pe=3D"text/css" href=3D"cid:css-d3c19972-bb83-4161-a497-a676a403fdec@mhtml.=
+blink" /><link rel=3D"stylesheet" type=3D"text/css" href=3D"cid:css-ff90668=
+c-3976-4e0c-bdd2-5121eb6fbe2e@mhtml.blink" /><link rel=3D"stylesheet" type=
+=3D"text/css" href=3D"cid:css-d050f8c7-ac1a-4593-ba16-78874052a654@mhtml.bl=
 ink" />
   <!-- Google Tag Manager -->
 
@@ -390,15 +390,15 @@ pper" class=3D"editor-wrapper"><div id=3D"ace-editor" class=3D" ace_editor =
 ace-tomorrow-night-eighties ace_dark ace_focus" draggable=3D"false" style=
 =3D"width: 100%; height: 100%; font-size: 14px;"><textarea class=3D"ace_tex=
 t-input" wrap=3D"off" autocorrect=3D"off" autocapitalize=3D"off" spellcheck=
-=3D"false" style=3D"opacity: 0; height: 16px; width: 7.6975px; left: 353.50=
-5px; top: 352px;"></textarea><div class=3D"ace_gutter" aria-hidden=3D"true"=
-><div class=3D"ace_layer ace_gutter-layer ace_folding-enabled" style=3D"mar=
-gin-top: 0px; height: 728px; width: 57px;"><div class=3D"ace_gutter-cell " =
-style=3D"height: 16px;">1</div><div class=3D"ace_gutter-cell " style=3D"hei=
-ght: 16px;">2<span class=3D"ace_fold-widget ace_start ace_open" style=3D"he=
-ight: 16px;"></span></div><div class=3D"ace_gutter-cell " style=3D"height: =
-16px;">3</div><div class=3D"ace_gutter-cell " style=3D"height: 16px;">4</di=
-v><div class=3D"ace_gutter-cell " style=3D"height: 16px;">5</div><div class=
+=3D"false" style=3D"opacity: 0; height: 16px; width: 7.6975px; left: 245.74=
+px; top: 208px;"></textarea><div class=3D"ace_gutter" aria-hidden=3D"true">=
+<div class=3D"ace_layer ace_gutter-layer ace_folding-enabled" style=3D"marg=
+in-top: 0px; height: 728px; width: 57px;"><div class=3D"ace_gutter-cell " s=
+tyle=3D"height: 16px;">1</div><div class=3D"ace_gutter-cell " style=3D"heig=
+ht: 16px;">2<span class=3D"ace_fold-widget ace_start ace_open" style=3D"hei=
+ght: 16px;"></span></div><div class=3D"ace_gutter-cell " style=3D"height: 1=
+6px;">3</div><div class=3D"ace_gutter-cell " style=3D"height: 16px;">4</div=
+><div class=3D"ace_gutter-cell " style=3D"height: 16px;">5</div><div class=
 =3D"ace_gutter-cell " style=3D"height: 16px;">6<span class=3D"ace_fold-widg=
 et ace_start ace_open" style=3D"height: 16px;"></span></div><div class=3D"a=
 ce_gutter-cell " style=3D"height: 16px;">7</div><div class=3D"ace_gutter-ce=
@@ -448,300 +448,423 @@ e=3D"height: 16px;">207<span class=3D"ace_fold-widget ace_start ace_closed"=
  style=3D"height: 16px;"></span></div><div class=3D"ace_gutter-cell " style=
 =3D"height: 16px;">224<span class=3D"ace_fold-widget ace_start ace_closed" =
 style=3D"height: 16px;"></span></div><div class=3D"ace_gutter-cell " style=
-=3D"height: 16px;">322<span class=3D"ace_fold-widget ace_start ace_open" st=
+=3D"height: 16px;">322<span class=3D"ace_fold-widget ace_start ace_closed" =
+style=3D"height: 16px;"></span></div><div class=3D"ace_gutter-cell " style=
+=3D"height: 16px;">420<span class=3D"ace_fold-widget ace_start ace_closed" =
+style=3D"height: 16px;"></span></div><div class=3D"ace_gutter-cell " style=
+=3D"height: 16px;">480<span class=3D"ace_fold-widget ace_start ace_closed" =
+style=3D"height: 16px;"></span></div><div class=3D"ace_gutter-cell " style=
+=3D"height: 16px;">499<span class=3D"ace_fold-widget ace_start ace_closed" =
+style=3D"height: 16px;"></span></div><div class=3D"ace_gutter-cell " style=
+=3D"height: 16px;">518<span class=3D"ace_fold-widget ace_start ace_closed" =
+style=3D"height: 16px;"></span></div><div class=3D"ace_gutter-cell " style=
+=3D"height: 16px;">537<span class=3D"ace_fold-widget ace_start ace_closed" =
+style=3D"height: 16px;"></span></div><div class=3D"ace_gutter-cell " style=
+=3D"height: 16px;">565<span class=3D"ace_fold-widget ace_start ace_open" st=
 yle=3D"height: 16px;"></span></div><div class=3D"ace_gutter-cell " style=3D=
-"height: 16px;">323<span class=3D"ace_fold-widget ace_start ace_closed" sty=
-le=3D"height: 16px;"></span></div><div class=3D"ace_gutter-cell " style=3D"=
-height: 16px;">350<span class=3D"ace_fold-widget ace_start ace_closed" styl=
-e=3D"height: 16px;"></span></div><div class=3D"ace_gutter-cell " style=3D"h=
-eight: 16px;">375<span class=3D"ace_fold-widget ace_start ace_closed" style=
+"height: 16px;">566<span class=3D"ace_fold-widget ace_start ace_open" style=
 =3D"height: 16px;"></span></div><div class=3D"ace_gutter-cell " style=3D"he=
-ight: 16px;">393<span class=3D"ace_fold-widget ace_start ace_closed" style=
-=3D"height: 16px;"></span></div><div class=3D"ace_gutter-cell " style=3D"he=
-ight: 16px;">420<span class=3D"ace_fold-widget ace_start ace_open" style=3D=
-"height: 16px;"></span></div><div class=3D"ace_gutter-cell " style=3D"heigh=
-t: 16px;">421<span class=3D"ace_fold-widget ace_start ace_closed" style=3D"=
-height: 16px;"></span></div><div class=3D"ace_gutter-cell " style=3D"height=
-: 16px;">446<span class=3D"ace_fold-widget ace_start ace_open" style=3D"hei=
-ght: 16px;"></span></div><div class=3D"ace_gutter-cell " style=3D"height: 1=
-6px;">447<span class=3D"ace_fold-widget ace_start ace_open" style=3D"height=
-: 16px;"></span></div></div><div class=3D"ace_gutter-active-line" style=3D"=
-top: 352px; height: 16px;"></div></div><div class=3D"ace_scroller" style=3D=
-"left: 57px; right: 17px; bottom: 0px;"><div class=3D"ace_content" style=3D=
-"margin-top: 0px; width: 675px; height: 728px; margin-left: 0px;"><div clas=
-s=3D"ace_layer ace_print-margin-layer"><div class=3D"ace_print-margin" styl=
-e=3D"left: 665.985px; visibility: visible;"></div></div><div class=3D"ace_l=
-ayer ace_marker-layer"><div class=3D"ace_active-line" style=3D"height:16px;=
-top:352px;left:0;right:0;"></div></div><div class=3D"ace_layer ace_text-lay=
-er" style=3D"padding: 0px 4px;"><div class=3D"ace_line_group" style=3D"heig=
-ht:16px"><div class=3D"ace_line" style=3D"height:16px"><span class=3D"ace_m=
-eta ace_tag">openapi</span><span class=3D"ace_keyword">:</span> <span class=
-=3D"ace_constant ace_numeric">3.0.3</span></div></div><div class=3D"ace_lin=
-e_group" style=3D"height:16px"><div class=3D"ace_line" style=3D"height:16px=
-"><span class=3D"ace_meta ace_tag">info</span><span class=3D"ace_keyword">:=
-</span></div></div><div class=3D"ace_line_group" style=3D"height:16px"><div=
- class=3D"ace_line" style=3D"height:16px"><span class=3D"ace_meta ace_tag">=
-  title</span><span class=3D"ace_keyword">:</span> Swagger Vinyl - OpenAPI =
-<span class=3D"ace_constant ace_numeric">3.0</span></div></div><div class=
-=3D"ace_line_group" style=3D"height:16px"><div class=3D"ace_line" style=3D"=
-height:16px"><span class=3D"ace_meta ace_tag">  description</span><span cla=
-ss=3D"ace_keyword">:</span> This is Vinyl Server based on the OpenAPI <span=
- class=3D"ace_constant ace_numeric">3.0</span> specification.</div></div><d=
-iv class=3D"ace_line_group" style=3D"height:16px"><div class=3D"ace_line" s=
-tyle=3D"height:16px"><span class=3D"ace_meta ace_tag">  termsOfService</spa=
-n><span class=3D"ace_keyword">:</span> http://swagger.io/terms/</div></div>=
-<div class=3D"ace_line_group" style=3D"height:16px"><div class=3D"ace_line"=
- style=3D"height:16px"><span class=3D"ace_meta ace_tag">  contact</span><sp=
-an class=3D"ace_keyword">:</span></div></div><div class=3D"ace_line_group" =
-style=3D"height:16px"><div class=3D"ace_line" style=3D"height:16px"><span c=
-lass=3D"ace_indent-guide">  </span><span class=3D"ace_meta ace_tag">  email=
-</span><span class=3D"ace_keyword">:</span> apiteam@swagger.io</div></div><=
-div class=3D"ace_line_group" style=3D"height:16px"><div class=3D"ace_line" =
-style=3D"height:16px"><span class=3D"ace_meta ace_tag">  license</span><spa=
-n class=3D"ace_keyword">:</span></div></div><div class=3D"ace_line_group" s=
-tyle=3D"height:16px"><div class=3D"ace_line" style=3D"height:16px"><span cl=
-ass=3D"ace_indent-guide">  </span><span class=3D"ace_meta ace_tag">  name</=
-span><span class=3D"ace_keyword">:</span> Apache <span class=3D"ace_constan=
-t ace_numeric">2.0</span></div></div><div class=3D"ace_line_group" style=3D=
-"height:16px"><div class=3D"ace_line" style=3D"height:16px"><span class=3D"=
-ace_indent-guide">  </span><span class=3D"ace_meta ace_tag">  url</span><sp=
-an class=3D"ace_keyword">:</span> http://www.apache.org/licenses/LICENSE-2.=
-0.html</div></div><div class=3D"ace_line_group" style=3D"height:16px"><div =
-class=3D"ace_line" style=3D"height:16px"><span class=3D"ace_meta ace_tag"> =
- version</span><span class=3D"ace_keyword">:</span> <span class=3D"ace_cons=
-tant ace_numeric">1.0.11</span></div></div><div class=3D"ace_line_group" st=
-yle=3D"height:16px"><div class=3D"ace_line" style=3D"height:16px"><span cla=
-ss=3D"ace_meta ace_tag">externalDocs</span><span class=3D"ace_keyword">:</s=
-pan></div></div><div class=3D"ace_line_group" style=3D"height:16px"><div cl=
-ass=3D"ace_line" style=3D"height:16px"><span class=3D"ace_meta ace_tag">  d=
-escription</span><span class=3D"ace_keyword">:</span> Find out more about S=
-wagger</div></div><div class=3D"ace_line_group" style=3D"height:16px"><div =
-class=3D"ace_line" style=3D"height:16px"><span class=3D"ace_meta ace_tag"> =
- url</span><span class=3D"ace_keyword">:</span> http://swagger.io</div></di=
-v><div class=3D"ace_line_group" style=3D"height:16px"><div class=3D"ace_lin=
-e" style=3D"height:16px"><span class=3D"ace_meta ace_tag">servers</span><sp=
-an class=3D"ace_keyword">:</span></div></div><div class=3D"ace_line_group" =
-style=3D"height:16px"><div class=3D"ace_line" style=3D"height:16px"><span c=
-lass=3D"ace_list ace_markup">  - </span><span class=3D"ace_meta ace_tag">ur=
-l</span><span class=3D"ace_keyword">:</span> https://vinylswagger.io/api/</=
-div></div><div class=3D"ace_line_group" style=3D"height:16px"><div class=3D=
-"ace_line" style=3D"height:16px"><span class=3D"ace_meta ace_tag">tags</spa=
-n><span class=3D"ace_keyword">:</span></div></div><div class=3D"ace_line_gr=
-oup" style=3D"height:16px"><div class=3D"ace_line" style=3D"height:16px"><s=
-pan class=3D"ace_list ace_markup">  - </span><span class=3D"ace_meta ace_ta=
-g">name</span><span class=3D"ace_keyword">:</span> user</div></div><div cla=
-ss=3D"ace_line_group" style=3D"height:16px"><div class=3D"ace_line" style=
+ight: 16px;">567<span class=3D"ace_fold-widget ace_start ace_open" style=3D=
+"height: 16px;"></span></div></div><div class=3D"ace_gutter-active-line" st=
+yle=3D"top: 208px; height: 16px;"></div></div><div class=3D"ace_scroller" s=
+tyle=3D"left: 57px; right: 17px; bottom: 0px;"><div class=3D"ace_content" s=
+tyle=3D"margin-top: 0px; width: 675px; height: 728px; margin-left: 0px;"><d=
+iv class=3D"ace_layer ace_print-margin-layer"><div class=3D"ace_print-margi=
+n" style=3D"left: 665.985px; visibility: visible;"></div></div><div class=
+=3D"ace_layer ace_marker-layer"><div class=3D"ace_active-line" style=3D"hei=
+ght:16px;top:208px;left:0;right:0;"></div></div><div class=3D"ace_layer ace=
+_text-layer" style=3D"padding: 0px 4px;"><div class=3D"ace_line_group" styl=
+e=3D"height: 16px;"><div class=3D"ace_line" style=3D"height:16px"><span cla=
+ss=3D"ace_meta ace_tag">openapi</span><span class=3D"ace_keyword">:</span> =
+<span class=3D"ace_constant ace_numeric">3.0.3</span></div></div><div class=
+=3D"ace_line_group" style=3D"height: 16px;"><div class=3D"ace_line" style=
+=3D"height:16px"><span class=3D"ace_meta ace_tag">info</span><span class=3D=
+"ace_keyword">:</span></div></div><div class=3D"ace_line_group" style=3D"he=
+ight: 16px;"><div class=3D"ace_line" style=3D"height:16px"><span class=3D"a=
+ce_meta ace_tag">  title</span><span class=3D"ace_keyword">:</span> Swagger=
+ Vinyl - OpenAPI <span class=3D"ace_constant ace_numeric">3.0</span></div><=
+/div><div class=3D"ace_line_group" style=3D"height: 16px;"><div class=3D"ac=
+e_line" style=3D"height:16px"><span class=3D"ace_meta ace_tag">  descriptio=
+n</span><span class=3D"ace_keyword">:</span> This is Vinyl Server based on =
+the OpenAPI <span class=3D"ace_constant ace_numeric">3.0</span> specificati=
+on.</div></div><div class=3D"ace_line_group" style=3D"height: 16px;"><div c=
+lass=3D"ace_line" style=3D"height:16px"><span class=3D"ace_meta ace_tag">  =
+termsOfService</span><span class=3D"ace_keyword">:</span> http://swagger.io=
+/terms/</div></div><div class=3D"ace_line_group" style=3D"height: 16px;"><d=
+iv class=3D"ace_line" style=3D"height:16px"><span class=3D"ace_meta ace_tag=
+">  contact</span><span class=3D"ace_keyword">:</span></div></div><div clas=
+s=3D"ace_line_group" style=3D"height: 16px;"><div class=3D"ace_line" style=
 =3D"height:16px"><span class=3D"ace_indent-guide">  </span><span class=3D"a=
-ce_meta ace_tag">  description</span><span class=3D"ace_keyword">:</span> O=
-perations about user</div></div><div class=3D"ace_line_group" style=3D"heig=
-ht:16px"><div class=3D"ace_line" style=3D"height:16px"><span class=3D"ace_l=
-ist ace_markup">  - </span><span class=3D"ace_meta ace_tag">name</span><spa=
-n class=3D"ace_keyword">:</span> spotify</div></div><div class=3D"ace_line_=
-group" style=3D"height:16px"><div class=3D"ace_line" style=3D"height:16px">=
-<span class=3D"ace_indent-guide">  </span><span class=3D"ace_meta ace_tag">=
-  description</span><span class=3D"ace_keyword">:</span> Connect on spotify=
- account</div></div><div class=3D"ace_line_group" style=3D"height:16px"><di=
-v class=3D"ace_line" style=3D"height:16px"><span class=3D"ace_list ace_mark=
-up">  - </span><span class=3D"ace_meta ace_tag">name</span><span class=3D"a=
-ce_keyword">:</span> song</div></div><div class=3D"ace_line_group" style=3D=
-"height:16px"><div class=3D"ace_line" style=3D"height:16px"><span class=3D"=
-ace_indent-guide">  </span><span class=3D"ace_meta ace_tag">  description</=
-span><span class=3D"ace_keyword">:</span> Operations about song</div></div>=
-<div class=3D"ace_line_group" style=3D"height:16px"><div class=3D"ace_line"=
- style=3D"height:16px"><span class=3D"ace_list ace_markup">  - </span><span=
- class=3D"ace_meta ace_tag">name</span><span class=3D"ace_keyword">:</span>=
- playlist</div></div><div class=3D"ace_line_group" style=3D"height:16px"><d=
-iv class=3D"ace_line" style=3D"height:16px"><span class=3D"ace_indent-guide=
-">  </span><span class=3D"ace_meta ace_tag">  description</span><span class=
-=3D"ace_keyword">:</span> Operations about playlist</div></div><div class=
-=3D"ace_line_group" style=3D"height:16px"><div class=3D"ace_line" style=3D"=
-height:16px"><span class=3D"ace_meta ace_tag">paths</span><span class=3D"ac=
-e_keyword">:</span></div></div><div class=3D"ace_line_group" style=3D"heigh=
-t:16px"><div class=3D"ace_line" style=3D"height:16px">  /register:<span cla=
-ss=3D"ace_fold" style=3D"width:23.0925px;">...</span></div></div><div class=
-=3D"ace_line_group" style=3D"height:16px"><div class=3D"ace_line" style=3D"=
-height:16px">  /login:<span class=3D"ace_fold" style=3D"width:23.0925px;">.=
-..</span></div></div><div class=3D"ace_line_group" style=3D"height:16px"><d=
-iv class=3D"ace_line" style=3D"height:16px">  /api/logout:<span class=3D"ac=
-e_fold" style=3D"width:23.0925px;">...</span></div></div><div class=3D"ace_=
-line_group" style=3D"height:16px"><div class=3D"ace_line" style=3D"height:1=
-6px">  /api/updateUser:<span class=3D"ace_fold" style=3D"width:23.0925px;">=
-...</span></div></div><div class=3D"ace_line_group" style=3D"height:16px"><=
-div class=3D"ace_line" style=3D"height:16px">  /api/user/playlists:<span cl=
-ass=3D"ace_fold" style=3D"width:23.0925px;">...</span></div></div><div clas=
-s=3D"ace_line_group" style=3D"height:16px"><div class=3D"ace_line" style=3D=
-"height:16px">  /api/spotify/login:<span class=3D"ace_fold" style=3D"width:=
-23.0925px;">...</span></div></div><div class=3D"ace_line_group" style=3D"he=
-ight:16px"><div class=3D"ace_line" style=3D"height:16px">  /api/spotify/get=
-Token:<span class=3D"ace_fold" style=3D"width:23.0925px;">...</span></div><=
-/div><div class=3D"ace_line_group" style=3D"height:16px"><div class=3D"ace_=
-line" style=3D"height:16px">  /api/lastfm/login:<span class=3D"ace_fold" st=
-yle=3D"width:23.0925px;">...</span></div></div><div class=3D"ace_line_group=
-" style=3D"height:16px"><div class=3D"ace_line" style=3D"height:16px">  /ap=
-i/lastfm/getToken:<span class=3D"ace_fold" style=3D"width:23.0925px;">...</=
-span></div></div><div class=3D"ace_line_group" style=3D"height:16px"><div c=
-lass=3D"ace_line" style=3D"height:16px">  /api/song:<span class=3D"ace_fold=
+ce_meta ace_tag">  email</span><span class=3D"ace_keyword">:</span> apiteam=
+@swagger.io</div></div><div class=3D"ace_line_group" style=3D"height: 16px;=
+"><div class=3D"ace_line" style=3D"height:16px"><span class=3D"ace_meta ace=
+_tag">  license</span><span class=3D"ace_keyword">:</span></div></div><div =
+class=3D"ace_line_group" style=3D"height: 16px;"><div class=3D"ace_line" st=
+yle=3D"height:16px"><span class=3D"ace_indent-guide">  </span><span class=
+=3D"ace_meta ace_tag">  name</span><span class=3D"ace_keyword">:</span> Apa=
+che <span class=3D"ace_constant ace_numeric">2.0</span></div></div><div cla=
+ss=3D"ace_line_group" style=3D"height: 16px;"><div class=3D"ace_line" style=
+=3D"height:16px"><span class=3D"ace_indent-guide">  </span><span class=3D"a=
+ce_meta ace_tag">  url</span><span class=3D"ace_keyword">:</span> http://ww=
+w.apache.org/licenses/LICENSE-2.0.html</div></div><div class=3D"ace_line_gr=
+oup" style=3D"height: 16px;"><div class=3D"ace_line" style=3D"height:16px">=
+<span class=3D"ace_meta ace_tag">  version</span><span class=3D"ace_keyword=
+">:</span> <span class=3D"ace_constant ace_numeric">1.0.11</span></div></di=
+v><div class=3D"ace_line_group" style=3D"height: 16px;"><div class=3D"ace_l=
+ine" style=3D"height:16px"><span class=3D"ace_meta ace_tag">externalDocs</s=
+pan><span class=3D"ace_keyword">:</span></div></div><div class=3D"ace_line_=
+group" style=3D"height: 16px;"><div class=3D"ace_line" style=3D"height:16px=
+"><span class=3D"ace_meta ace_tag">  description</span><span class=3D"ace_k=
+eyword">:</span> Find out more about Swagger</div></div><div class=3D"ace_l=
+ine_group" style=3D"height: 16px;"><div class=3D"ace_line" style=3D"height:=
+16px"><span class=3D"ace_meta ace_tag">  url</span><span class=3D"ace_keywo=
+rd">:</span> http://swagger.io</div></div><div class=3D"ace_line_group" sty=
+le=3D"height: 16px;"><div class=3D"ace_line" style=3D"height:16px"><span cl=
+ass=3D"ace_meta ace_tag">servers</span><span class=3D"ace_keyword">:</span>=
+</div></div><div class=3D"ace_line_group" style=3D"height: 16px;"><div clas=
+s=3D"ace_line" style=3D"height:16px"><span class=3D"ace_list ace_markup">  =
+- </span><span class=3D"ace_meta ace_tag">url</span><span class=3D"ace_keyw=
+ord">:</span> https://vinylswagger.io/api/</div></div><div class=3D"ace_lin=
+e_group" style=3D"height: 16px;"><div class=3D"ace_line" style=3D"height:16=
+px"><span class=3D"ace_meta ace_tag">tags</span><span class=3D"ace_keyword"=
+>:</span></div></div><div class=3D"ace_line_group" style=3D"height: 16px;">=
+<div class=3D"ace_line" style=3D"height:16px"><span class=3D"ace_list ace_m=
+arkup">  - </span><span class=3D"ace_meta ace_tag">name</span><span class=
+=3D"ace_keyword">:</span> user</div></div><div class=3D"ace_line_group" sty=
+le=3D"height: 16px;"><div class=3D"ace_line" style=3D"height:16px"><span cl=
+ass=3D"ace_indent-guide">  </span><span class=3D"ace_meta ace_tag">  descri=
+ption</span><span class=3D"ace_keyword">:</span> Operations about user</div=
+></div><div class=3D"ace_line_group" style=3D"height: 16px;"><div class=3D"=
+ace_line" style=3D"height:16px"><span class=3D"ace_list ace_markup">  - </s=
+pan><span class=3D"ace_meta ace_tag">name</span><span class=3D"ace_keyword"=
+>:</span> spotify</div></div><div class=3D"ace_line_group" style=3D"height:=
+ 16px;"><div class=3D"ace_line" style=3D"height:16px"><span class=3D"ace_in=
+dent-guide">  </span><span class=3D"ace_meta ace_tag">  description</span><=
+span class=3D"ace_keyword">:</span> Connect on spotify account</div></div><=
+div class=3D"ace_line_group" style=3D"height: 16px;"><div class=3D"ace_line=
+" style=3D"height:16px"><span class=3D"ace_list ace_markup">  - </span><spa=
+n class=3D"ace_meta ace_tag">name</span><span class=3D"ace_keyword">:</span=
+> song</div></div><div class=3D"ace_line_group" style=3D"height: 16px;"><di=
+v class=3D"ace_line" style=3D"height:16px"><span class=3D"ace_indent-guide"=
+>  </span><span class=3D"ace_meta ace_tag">  description</span><span class=
+=3D"ace_keyword">:</span> Operations about song</div></div><div class=3D"ac=
+e_line_group" style=3D"height: 16px;"><div class=3D"ace_line" style=3D"heig=
+ht:16px"><span class=3D"ace_list ace_markup">  - </span><span class=3D"ace_=
+meta ace_tag">name</span><span class=3D"ace_keyword">:</span> playlist</div=
+></div><div class=3D"ace_line_group" style=3D"height: 16px;"><div class=3D"=
+ace_line" style=3D"height:16px"><span class=3D"ace_indent-guide">  </span><=
+span class=3D"ace_meta ace_tag">  description</span><span class=3D"ace_keyw=
+ord">:</span> Operations about playlist</div></div><div class=3D"ace_line_g=
+roup" style=3D"height: 16px;"><div class=3D"ace_line" style=3D"height:16px"=
+><span class=3D"ace_meta ace_tag">paths</span><span class=3D"ace_keyword">:=
+</span></div></div><div class=3D"ace_line_group" style=3D"height: 16px;"><d=
+iv class=3D"ace_line" style=3D"height:16px">  /register:<span class=3D"ace_=
+fold" style=3D"width:23.0925px;">...</span></div></div><div class=3D"ace_li=
+ne_group" style=3D"height: 16px;"><div class=3D"ace_line" style=3D"height:1=
+6px">  /login:<span class=3D"ace_fold" style=3D"width:23.0925px;">...</span=
+></div></div><div class=3D"ace_line_group" style=3D"height: 16px;"><div cla=
+ss=3D"ace_line" style=3D"height:16px">  /api/logout:<span class=3D"ace_fold=
 " style=3D"width:23.0925px;">...</span></div></div><div class=3D"ace_line_g=
-roup" style=3D"height:16px"><div class=3D"ace_line" style=3D"height:16px"> =
- /api/playlist:</div></div><div class=3D"ace_line_group" style=3D"height:16=
-px"><div class=3D"ace_line" style=3D"height:16px"><span class=3D"ace_indent=
--guide">  </span><span class=3D"ace_meta ace_tag">  post</span><span class=
-=3D"ace_keyword">:</span><span class=3D"ace_fold" style=3D"width:23.0925px;=
-">...</span></div></div><div class=3D"ace_line_group" style=3D"height:16px"=
-><div class=3D"ace_line" style=3D"height:16px"><span class=3D"ace_indent-gu=
-ide">  </span><span class=3D"ace_meta ace_tag">  get</span><span class=3D"a=
-ce_keyword">:</span><span class=3D"ace_fold" style=3D"width:23.0925px;">...=
-</span></div></div><div class=3D"ace_line_group" style=3D"height:16px"><div=
- class=3D"ace_line" style=3D"height:16px"><span class=3D"ace_indent-guide">=
-  </span><span class=3D"ace_meta ace_tag">  delete</span><span class=3D"ace=
-_keyword">:</span><span class=3D"ace_fold" style=3D"width:23.0925px;">...</=
-span></div></div><div class=3D"ace_line_group" style=3D"height:16px"><div c=
-lass=3D"ace_line" style=3D"height:16px"><span class=3D"ace_indent-guide">  =
-</span><span class=3D"ace_meta ace_tag">  put</span><span class=3D"ace_keyw=
-ord">:</span><span class=3D"ace_fold" style=3D"width:23.0925px;">...</span>=
-</div></div><div class=3D"ace_line_group" style=3D"height:16px"><div class=
-=3D"ace_line" style=3D"height:16px">  /api/playlist/song:</div></div><div c=
-lass=3D"ace_line_group" style=3D"height:16px"><div class=3D"ace_line" style=
-=3D"height:16px"><span class=3D"ace_indent-guide">  </span><span class=3D"a=
-ce_meta ace_tag">  get</span><span class=3D"ace_keyword">:</span><span clas=
+roup" style=3D"height: 16px;"><div class=3D"ace_line" style=3D"height:16px"=
+>  /api/updateUser:<span class=3D"ace_fold" style=3D"width:23.0925px;">...<=
+/span></div></div><div class=3D"ace_line_group" style=3D"height: 16px;"><di=
+v class=3D"ace_line" style=3D"height:16px">  /api/user/playlists:<span clas=
 s=3D"ace_fold" style=3D"width:23.0925px;">...</span></div></div><div class=
-=3D"ace_line_group" style=3D"height:16px"><div class=3D"ace_line" style=3D"=
-height:16px"><span class=3D"ace_indent-guide">  </span><span class=3D"ace_m=
-eta ace_tag">  put</span><span class=3D"ace_keyword">:</span></div></div><d=
-iv class=3D"ace_line_group" style=3D"height:16px"><div class=3D"ace_line" s=
-tyle=3D"height:16px"><span class=3D"ace_indent-guide">  </span><span class=
-=3D"ace_indent-guide">  </span><span class=3D"ace_meta ace_tag">  tags</spa=
-n><span class=3D"ace_keyword">:</span></div></div></div><div class=3D"ace_l=
-ayer ace_marker-layer"></div><div class=3D"ace_layer ace_cursor-layer ace_s=
-mooth-blinking"><div class=3D"ace_cursor" style=3D"left: 296.505px; top: 35=
-2px; width: 7.6975px; height: 16px;"></div></div></div></div><div class=3D"=
-ace_scrollbar ace_scrollbar-v" style=3D"width: 22px; bottom: 0px;"><div cla=
-ss=3D"ace_scrollbar-inner" style=3D"width: 22px; height: 3632px;"></div></d=
-iv><div class=3D"ace_scrollbar ace_scrollbar-h" style=3D"display: none; hei=
-ght: 22px; left: 57px; right: 17px;"><div class=3D"ace_scrollbar-inner" sty=
-le=3D"height: 22px; width: 675px;"></div></div><div style=3D"height: auto; =
-width: auto; top: 0px; left: 0px; visibility: hidden; position: absolute; w=
-hite-space: pre; font: inherit; overflow: hidden;"><div style=3D"height: au=
+=3D"ace_line_group" style=3D"height: 16px;"><div class=3D"ace_line" style=
+=3D"height:16px">  /api/spotify/login:<span class=3D"ace_fold" style=3D"wid=
+th:23.0925px;">...</span></div></div><div class=3D"ace_line_group" style=3D=
+"height: 16px;"><div class=3D"ace_line" style=3D"height:16px">  /api/spotif=
+y/getToken:<span class=3D"ace_fold" style=3D"width:23.0925px;">...</span></=
+div></div><div class=3D"ace_line_group" style=3D"height: 16px;"><div class=
+=3D"ace_line" style=3D"height:16px">  /api/lastfm/login:<span class=3D"ace_=
+fold" style=3D"width:23.0925px;">...</span></div></div><div class=3D"ace_li=
+ne_group" style=3D"height: 16px;"><div class=3D"ace_line" style=3D"height:1=
+6px">  /api/lastfm/getToken:<span class=3D"ace_fold" style=3D"width:23.0925=
+px;">...</span></div></div><div class=3D"ace_line_group" style=3D"height: 1=
+6px;"><div class=3D"ace_line" style=3D"height:16px">  /api/song:<span class=
+=3D"ace_fold" style=3D"width:23.0925px;">...</span></div></div><div class=
+=3D"ace_line_group" style=3D"height: 16px;"><div class=3D"ace_line" style=
+=3D"height:16px">  /api/playlist:<span class=3D"ace_fold" style=3D"width:23=
+.0925px;">...</span></div></div><div class=3D"ace_line_group" style=3D"heig=
+ht: 16px;"><div class=3D"ace_line" style=3D"height:16px">  /api/playlist/so=
+ng:<span class=3D"ace_fold" style=3D"width:23.0925px;">...</span></div></di=
+v><div class=3D"ace_line_group" style=3D"height: 16px;"><div class=3D"ace_l=
+ine" style=3D"height:16px">  /api/recommandation/song:<span class=3D"ace_fo=
+ld" style=3D"width:23.0925px;">...</span></div></div><div class=3D"ace_line=
+_group" style=3D"height: 16px;"><div class=3D"ace_line" style=3D"height:16p=
+x">  /api/recommandation/playlist:<span class=3D"ace_fold" style=3D"width:2=
+3.0925px;">...</span></div></div><div class=3D"ace_line_group" style=3D"hei=
+ght: 16px;"><div class=3D"ace_line" style=3D"height:16px">  /api/recommanda=
+tion/musicStores:<span class=3D"ace_fold" style=3D"width:23.0925px;">...</s=
+pan></div></div><div class=3D"ace_line_group" style=3D"height: 16px;"><div =
+class=3D"ace_line" style=3D"height:16px">  /api/recommandation/input:<span =
+class=3D"ace_fold" style=3D"width:23.0925px;">...</span></div></div><div cl=
+ass=3D"ace_line_group" style=3D"height: 16px;"><div class=3D"ace_line" styl=
+e=3D"height:16px">  /api/share/playlist:</div></div><div class=3D"ace_line_=
+group" style=3D"height: 16px;"><div class=3D"ace_line" style=3D"height:16px=
+"><span class=3D"ace_indent-guide">  </span><span class=3D"ace_meta ace_tag=
+">  get</span><span class=3D"ace_keyword">:</span></div></div><div class=3D=
+"ace_line_group" style=3D"height: 16px;"><div class=3D"ace_line" style=3D"h=
+eight:16px"><span class=3D"ace_indent-guide">  </span><span class=3D"ace_in=
+dent-guide">  </span><span class=3D"ace_meta ace_tag">  tags</span><span cl=
+ass=3D"ace_keyword">:</span></div></div></div><div class=3D"ace_layer ace_m=
+arker-layer"></div><div class=3D"ace_layer ace_cursor-layer ace_smooth-blin=
+king"><div class=3D"ace_cursor" style=3D"left: 188.74px; top: 208px; width:=
+ 7.6975px; height: 16px;"></div></div></div></div><div class=3D"ace_scrollb=
+ar ace_scrollbar-v" style=3D"width: 22px; bottom: 0px;"><div class=3D"ace_s=
+crollbar-inner" style=3D"width: 22px; height: 3232px;"></div></div><div cla=
+ss=3D"ace_scrollbar ace_scrollbar-h" style=3D"display: none; height: 22px; =
+left: 57px; right: 17px;"><div class=3D"ace_scrollbar-inner" style=3D"heigh=
+t: 22px; width: 675px;"></div></div><div style=3D"height: auto; width: auto=
+; top: 0px; left: 0px; visibility: hidden; position: absolute; white-space:=
+ pre; font: inherit; overflow: hidden;"><div style=3D"height: auto; width: =
+auto; top: 0px; left: 0px; visibility: hidden; position: absolute; white-sp=
+ace: pre; font: inherit; overflow: visible;"></div><div style=3D"height: au=
 to; width: auto; top: 0px; left: 0px; visibility: hidden; position: absolut=
-e; white-space: pre; font: inherit; overflow: visible;"></div><div style=3D=
-"height: auto; width: auto; top: 0px; left: 0px; visibility: hidden; positi=
-on: absolute; white-space: pre; font-style: inherit; font-variant: inherit;=
- font-stretch: inherit; font-size: inherit; line-height: inherit; font-fami=
-ly: inherit; font-optical-sizing: inherit; font-kerning: inherit; font-feat=
-ure-settings: inherit; font-variation-settings: inherit; overflow: visible;=
-">XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX</div></div><div class=
-=3D"ace_tooltip" style=3D"display: none; left: 39px; top: 536px;">Definitio=
-n was declared but never used in document</div></div></div></div><span role=
-=3D"presentation" class=3D"Resizer vertical " style=3D"flex: 0 0 auto; posi=
-tion: relative; background: rgb(0, 0, 0); opacity: 0.2; width: 11px; cursor=
-: col-resize;"></span><div class=3D"Pane vertical Pane2  " style=3D"flex: 0=
- 0 auto; position: relative; outline: none; width: 776px;"><div class=3D"sw=
-agger-ui"><div><svg xmlns=3D"http://www.w3.org/2000/svg" xmlns:xlink=3D"htt=
-p://www.w3.org/1999/xlink" class=3D"svg-assets"><defs><symbol viewBox=3D"0 =
-0 20 20" id=3D"unlocked"><path d=3D"M15.8 8H14V5.6C14 2.703 12.665 1 10 1 7=
-.334 1 6 2.703 6 5.6V6h2v-.801C8 3.754 8.797 3 10 3c1.203 0 2 .754 2 2.199V=
-8H4c-.553 0-1 .646-1 1.199V17c0 .549.428 1.139.951 1.307l1.197.387C5.672 18=
-.861 6.55 19 7.1 19h5.8c.549 0 1.428-.139 1.951-.307l1.196-.387c.524-.167.9=
-53-.757.953-1.306V9.199C17 8.646 16.352 8 15.8 8z"></path></symbol><symbol =
-viewBox=3D"0 0 20 20" id=3D"locked"><path d=3D"M15.8 8H14V5.6C14 2.703 12.6=
-65 1 10 1 7.334 1 6 2.703 6 5.6V8H4c-.553 0-1 .646-1 1.199V17c0 .549.428 1.=
-139.951 1.307l1.197.387C5.672 18.861 6.55 19 7.1 19h5.8c.549 0 1.428-.139 1=
-.951-.307l1.196-.387c.524-.167.953-.757.953-1.306V9.199C17 8.646 16.352 8 1=
-5.8 8zM12 8H8V5.199C8 3.754 8.797 3 10 3c1.203 0 2 .754 2 2.199V8z"></path>=
-</symbol><symbol viewBox=3D"0 0 20 20" id=3D"close"><path d=3D"M14.348 14.8=
-49c-.469.469-1.229.469-1.697 0L10 11.819l-2.651 3.029c-.469.469-1.229.469-1=
-.697 0-.469-.469-.469-1.229 0-1.697l2.758-3.15-2.759-3.152c-.469-.469-.469-=
-1.228 0-1.697.469-.469 1.228-.469 1.697 0L10 8.183l2.651-3.031c.469-.469 1.=
-228-.469 1.697 0 .469.469.469 1.229 0 1.697l-2.758 3.152 2.758 3.15c.469.46=
-9.469 1.229 0 1.698z"></path></symbol><symbol viewBox=3D"0 0 20 20" id=3D"l=
-arge-arrow"><path d=3D"M13.25 10L6.109 2.58c-.268-.27-.268-.707 0-.979.268-=
-.27.701-.27.969 0l7.83 7.908c.268.271.268.709 0 .979l-7.83 7.908c-.268.271-=
-.701.27-.969 0-.268-.269-.268-.707 0-.979L13.25 10z"></path></symbol><symbo=
-l viewBox=3D"0 0 20 20" id=3D"large-arrow-down"><path d=3D"M17.418 6.109c.2=
-72-.268.709-.268.979 0s.271.701 0 .969l-7.908 7.83c-.27.268-.707.268-.979 0=
-l-7.908-7.83c-.27-.268-.27-.701 0-.969.271-.268.709-.268.979 0L10 13.25l7.4=
-18-7.141z"></path></symbol><symbol viewBox=3D"0 0 20 20" id=3D"large-arrow-=
-up"><path d=3D"M 17.418 14.908 C 17.69 15.176 18.127 15.176 18.397 14.908 C=
- 18.667 14.64 18.668 14.207 18.397 13.939 L 10.489 6.109 C 10.219 5.841 9.7=
-82 5.841 9.51 6.109 L 1.602 13.939 C 1.332 14.207 1.332 14.64 1.602 14.908 =
-C 1.873 15.176 2.311 15.176 2.581 14.908 L 10 7.767 L 17.418 14.908 Z"></pa=
-th></symbol><symbol viewBox=3D"0 0 24 24" id=3D"jump-to"><path d=3D"M19 7v4=
-H5.83l3.58-3.59L8 6l-6 6 6 6 1.41-1.41L5.83 13H21V7z"></path></symbol><symb=
-ol viewBox=3D"0 0 24 24" id=3D"expand"><path d=3D"M10 18h4v-2h-4v2zM3 6v2h1=
-8V6H3zm3 7h12v-2H6v2z"></path></symbol><symbol viewBox=3D"0 0 15 16" id=3D"=
-copy"><g transform=3D"translate(2, -1)"><path fill=3D"#ffffff" fill-rule=3D=
-"evenodd" d=3D"M2 13h4v1H2v-1zm5-6H2v1h5V7zm2 3V8l-3 3 3 3v-2h5v-2H9zM4.5 9=
-H2v1h2.5V9zM2 12h2.5v-1H2v1zm9 1h1v2c-.02.28-.11.52-.3.7-.19.18-.42.28-.7.3=
-H1c-.55 0-1-.45-1-1V4c0-.55.45-1 1-1h3c0-1.11.89-2 2-2 1.11 0 2 .89 2 2h3c.=
-55 0 1 .45 1 1v5h-1V6H1v9h10v-2zM2 5h8c0-.55-.45-1-1-1H8c-.55 0-1-.45-1-1s-=
-.45-1-1-1-1 .45-1 1-.45 1-1 1H3c-.55 0-1 .45-1 1z"></path></g></symbol></de=
-fs></svg></div><div><div class=3D"information-container wrapper"><section c=
-lass=3D"block col-12"><div><div class=3D"info"><hgroup class=3D"main"><h2 c=
-lass=3D"title">Swagger Vinyl - OpenAPI 3.0<span><small><pre class=3D"versio=
-n"> 1.0.11 </pre></small><small class=3D"version-stamp"><pre class=3D"versi=
-on">OAS 3.0</pre></small></span></h2></hgroup><div class=3D"description"><d=
-iv class=3D"renderedMarkdown"><p>This is Vinyl Server based on the OpenAPI =
-3.0 specification.</p></div></div><div class=3D"info__tos"><a target=3D"_bl=
-ank" href=3D"http://swagger.io/terms/" rel=3D"noopener noreferrer" class=3D=
-"link">Terms of service</a></div><div class=3D"info__contact"><a href=3D"ma=
-ilto:apiteam@swagger.io" rel=3D"noopener noreferrer" class=3D"link">Contact=
- the developer</a></div><div class=3D"info__license"><div class=3D"info__li=
-cense__url"><a target=3D"_blank" href=3D"http://www.apache.org/licenses/LIC=
-ENSE-2.0.html" rel=3D"noopener noreferrer" class=3D"link">Apache 2.0</a></d=
-iv></div><a class=3D"info__extdocs link" target=3D"_blank" href=3D"http://s=
-wagger.io/" rel=3D"noopener noreferrer">Find out more about Swagger</a></di=
-v></div></section></div><div class=3D"scheme-container"><section class=3D"s=
-chemes wrapper block col-12"><div><span class=3D"servers-title">Servers</sp=
-an><div class=3D"servers"><label for=3D"servers"><select><option value=3D"h=
-ttps://vinylswagger.io/api/">https://vinylswagger.io/api/</option></select>=
-</label></div></div></section></div><div></div><div class=3D"wrapper"><sect=
-ion class=3D"block col-12 block-desktop col-12-desktop"><div><span><div cla=
-ss=3D"opblock-tag-section is-open"><h3 class=3D"opblock-tag" id=3D"operatio=
-ns-tag-user" data-tag=3D"user" data-is-open=3D"true"><a class=3D"nostyle"><=
-span>user</span></a><small><div class=3D"renderedMarkdown"><p>Operations ab=
-out user</p></div></small><button aria-expanded=3D"true" class=3D"expand-op=
-eration" title=3D"Collapse operation"><svg xmlns=3D"http://www.w3.org/2000/=
-svg" viewBox=3D"0 0 20 20" class=3D"arrow" width=3D"20" height=3D"20" aria-=
-hidden=3D"true" focusable=3D"false"><path d=3D"M 17.418 14.908 C 17.69 15.1=
-76 18.127 15.176 18.397 14.908 C 18.667 14.64 18.668 14.207 18.397 13.939 L=
- 10.489 6.109 C 10.219 5.841 9.782 5.841 9.51 6.109 L 1.602 13.939 C 1.332 =
-14.207 1.332 14.64 1.602 14.908 C 1.873 15.176 2.311 15.176 2.581 14.908 L =
-10 7.767 L 17.418 14.908 Z"></path></svg></button></h3><div class=3D"no-mar=
-gin"> <div class=3D"operation-tag-content"><span><div class=3D"opblock opbl=
-ock-post" id=3D"operations-user-createUser"><div class=3D"opblock-summary o=
-pblock-summary-post"><button aria-label=3D"post =E2=80=8B/register" aria-ex=
-panded=3D"false" class=3D"opblock-summary-control"><span class=3D"opblock-s=
-ummary-method">POST</span><span class=3D"opblock-summary-path" data-path=3D=
-"/register"><a class=3D"nostyle"><span>/register</span></a></span><div clas=
-s=3D"opblock-summary-description">Create user</div></button><div class=3D"v=
-iew-line-link copy-to-clipboard" title=3D"Copy to clipboard"><svg xmlns=3D"=
-http://www.w3.org/2000/svg" viewBox=3D"0 0 15 16" width=3D"15" height=3D"16=
-" aria-hidden=3D"true" focusable=3D"false"><g transform=3D"translate(2, -1)=
-"><path fill=3D"#ffffff" fill-rule=3D"evenodd" d=3D"M2 13h4v1H2v-1zm5-6H2v1=
-h5V7zm2 3V8l-3 3 3 3v-2h5v-2H9zM4.5 9H2v1h2.5V9zM2 12h2.5v-1H2v1zm9 1h1v2c-=
-.02.28-.11.52-.3.7-.19.18-.42.28-.7.3H1c-.55 0-1-.45-1-1V4c0-.55.45-1 1-1h3=
-c0-1.11.89-2 2-2 1.11 0 2 .89 2 2h3c.55 0 1 .45 1 1v5h-1V6H1v9h10v-2zM2 5h8=
-c0-.55-.45-1-1-1H8c-.55 0-1-.45-1-1s-.45-1-1-1-1 .45-1 1-.45 1-1 1H3c-.55 0=
--1 .45-1 1z"></path></g></svg></div><img src=3D"data:image/svg+xml;base64,P=
-HN2ZyB2ZXJzaW9uPSIxLjEiIGlkPSJMYXllcl8xIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcv=
-MjAwMC9zdmciIHhtbG5zOnhsaW5rPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5L3hsaW5rIiB4PSI=
-wcHgiIHk9IjBweCIgdmlld0JveD0iMCAwIDI0IDI0IiBlbmFibGUtYmFja2dyb3VuZD0ibmV3ID=
-AgMCAyNCAyNCIgeG1sOnNwYWNlPSJwcmVzZXJ2ZSI+CjxwYXRoIGQ9Ik0xOSA3djRINS44M2wzL=
-jU4LTMuNTlMOCA2bC02IDYgNiA2IDEuNDEtMS40MUw1LjgzIDEzSDIxVjd6Ii8+Cjwvc3ZnPgo=
-=3D" class=3D"view-line-link" title=3D"Jump to definition"><button aria-lab=
-el=3D"post =E2=80=8B/register" class=3D"opblock-control-arrow" aria-expande=
-d=3D"false" tabindex=3D"-1"><svg xmlns=3D"http://www.w3.org/2000/svg" viewB=
-ox=3D"0 0 20 20" class=3D"arrow" width=3D"20" height=3D"20" aria-hidden=3D"=
-true" focusable=3D"false"><path d=3D"M17.418 6.109c.272-.268.709-.268.979 0=
-s.271.701 0 .969l-7.908 7.83c-.27.268-.707.268-.979 0l-7.908-7.83c-.27-.268=
--.27-.701 0-.969.271-.268.709-.268.979 0L10 13.25l7.418-7.141z"></path></sv=
-g></button></div></div></span><span><div class=3D"opblock opblock-post" id=
-=3D"operations-user-loginUser"><div class=3D"opblock-summary opblock-summar=
-y-post"><button aria-label=3D"post =E2=80=8B/login" aria-expanded=3D"false"=
- class=3D"opblock-summary-control"><span class=3D"opblock-summary-method">P=
-OST</span><span class=3D"opblock-summary-path" data-path=3D"/login"><a clas=
-s=3D"nostyle"><span>/login</span></a></span><div class=3D"opblock-summary-d=
-escription">Logs user into the system</div></button><div class=3D"view-line=
+e; white-space: pre; font-style: inherit; font-variant: inherit; font-stret=
+ch: inherit; font-size: inherit; line-height: inherit; font-family: inherit=
+; font-optical-sizing: inherit; font-kerning: inherit; font-feature-setting=
+s: inherit; font-variation-settings: inherit; overflow: visible;">XXXXXXXXX=
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX</div></div><div class=3D"ace_tool=
+tip" style=3D"display: none; left: 39px; top: 536px;">Definition was declar=
+ed but never used in document</div></div></div></div><span role=3D"presenta=
+tion" class=3D"Resizer vertical " style=3D"flex: 0 0 auto; position: relati=
+ve; background: rgb(0, 0, 0); opacity: 0.2; width: 11px; cursor: col-resize=
+;"></span><div class=3D"Pane vertical Pane2  " style=3D"flex: 0 0 auto; pos=
+ition: relative; outline: none; width: 776px;"><div class=3D"swagger-ui"><d=
+iv><svg xmlns=3D"http://www.w3.org/2000/svg" xmlns:xlink=3D"http://www.w3.o=
+rg/1999/xlink" class=3D"svg-assets"><defs><symbol viewBox=3D"0 0 20 20" id=
+=3D"unlocked"><path d=3D"M15.8 8H14V5.6C14 2.703 12.665 1 10 1 7.334 1 6 2.=
+703 6 5.6V6h2v-.801C8 3.754 8.797 3 10 3c1.203 0 2 .754 2 2.199V8H4c-.553 0=
+-1 .646-1 1.199V17c0 .549.428 1.139.951 1.307l1.197.387C5.672 18.861 6.55 1=
+9 7.1 19h5.8c.549 0 1.428-.139 1.951-.307l1.196-.387c.524-.167.953-.757.953=
+-1.306V9.199C17 8.646 16.352 8 15.8 8z"></path></symbol><symbol viewBox=3D"=
+0 0 20 20" id=3D"locked"><path d=3D"M15.8 8H14V5.6C14 2.703 12.665 1 10 1 7=
+.334 1 6 2.703 6 5.6V8H4c-.553 0-1 .646-1 1.199V17c0 .549.428 1.139.951 1.3=
+07l1.197.387C5.672 18.861 6.55 19 7.1 19h5.8c.549 0 1.428-.139 1.951-.307l1=
+.196-.387c.524-.167.953-.757.953-1.306V9.199C17 8.646 16.352 8 15.8 8zM12 8=
+H8V5.199C8 3.754 8.797 3 10 3c1.203 0 2 .754 2 2.199V8z"></path></symbol><s=
+ymbol viewBox=3D"0 0 20 20" id=3D"close"><path d=3D"M14.348 14.849c-.469.46=
+9-1.229.469-1.697 0L10 11.819l-2.651 3.029c-.469.469-1.229.469-1.697 0-.469=
+-.469-.469-1.229 0-1.697l2.758-3.15-2.759-3.152c-.469-.469-.469-1.228 0-1.6=
+97.469-.469 1.228-.469 1.697 0L10 8.183l2.651-3.031c.469-.469 1.228-.469 1.=
+697 0 .469.469.469 1.229 0 1.697l-2.758 3.152 2.758 3.15c.469.469.469 1.229=
+ 0 1.698z"></path></symbol><symbol viewBox=3D"0 0 20 20" id=3D"large-arrow"=
+><path d=3D"M13.25 10L6.109 2.58c-.268-.27-.268-.707 0-.979.268-.27.701-.27=
+.969 0l7.83 7.908c.268.271.268.709 0 .979l-7.83 7.908c-.268.271-.701.27-.96=
+9 0-.268-.269-.268-.707 0-.979L13.25 10z"></path></symbol><symbol viewBox=
+=3D"0 0 20 20" id=3D"large-arrow-down"><path d=3D"M17.418 6.109c.272-.268.7=
+09-.268.979 0s.271.701 0 .969l-7.908 7.83c-.27.268-.707.268-.979 0l-7.908-7=
+.83c-.27-.268-.27-.701 0-.969.271-.268.709-.268.979 0L10 13.25l7.418-7.141z=
+"></path></symbol><symbol viewBox=3D"0 0 20 20" id=3D"large-arrow-up"><path=
+ d=3D"M 17.418 14.908 C 17.69 15.176 18.127 15.176 18.397 14.908 C 18.667 1=
+4.64 18.668 14.207 18.397 13.939 L 10.489 6.109 C 10.219 5.841 9.782 5.841 =
+9.51 6.109 L 1.602 13.939 C 1.332 14.207 1.332 14.64 1.602 14.908 C 1.873 1=
+5.176 2.311 15.176 2.581 14.908 L 10 7.767 L 17.418 14.908 Z"></path></symb=
+ol><symbol viewBox=3D"0 0 24 24" id=3D"jump-to"><path d=3D"M19 7v4H5.83l3.5=
+8-3.59L8 6l-6 6 6 6 1.41-1.41L5.83 13H21V7z"></path></symbol><symbol viewBo=
+x=3D"0 0 24 24" id=3D"expand"><path d=3D"M10 18h4v-2h-4v2zM3 6v2h18V6H3zm3 =
+7h12v-2H6v2z"></path></symbol><symbol viewBox=3D"0 0 15 16" id=3D"copy"><g =
+transform=3D"translate(2, -1)"><path fill=3D"#ffffff" fill-rule=3D"evenodd"=
+ d=3D"M2 13h4v1H2v-1zm5-6H2v1h5V7zm2 3V8l-3 3 3 3v-2h5v-2H9zM4.5 9H2v1h2.5V=
+9zM2 12h2.5v-1H2v1zm9 1h1v2c-.02.28-.11.52-.3.7-.19.18-.42.28-.7.3H1c-.55 0=
+-1-.45-1-1V4c0-.55.45-1 1-1h3c0-1.11.89-2 2-2 1.11 0 2 .89 2 2h3c.55 0 1 .4=
+5 1 1v5h-1V6H1v9h10v-2zM2 5h8c0-.55-.45-1-1-1H8c-.55 0-1-.45-1-1s-.45-1-1-1=
+-1 .45-1 1-.45 1-1 1H3c-.55 0-1 .45-1 1z"></path></g></symbol></defs></svg>=
+</div><div><div class=3D"information-container wrapper"><section class=3D"b=
+lock col-12"><div><div class=3D"info"><hgroup class=3D"main"><h2 class=3D"t=
+itle">Swagger Vinyl - OpenAPI 3.0<span><small><pre class=3D"version"> 1.0.1=
+1 </pre></small><small class=3D"version-stamp"><pre class=3D"version">OAS 3=
+.0</pre></small></span></h2></hgroup><div class=3D"description"><div class=
+=3D"renderedMarkdown"><p>This is Vinyl Server based on the OpenAPI 3.0 spec=
+ification.</p></div></div><div class=3D"info__tos"><a target=3D"_blank" hre=
+f=3D"http://swagger.io/terms/" rel=3D"noopener noreferrer" class=3D"link">T=
+erms of service</a></div><div class=3D"info__contact"><a href=3D"mailto:api=
+team@swagger.io" rel=3D"noopener noreferrer" class=3D"link">Contact the dev=
+eloper</a></div><div class=3D"info__license"><div class=3D"info__license__u=
+rl"><a target=3D"_blank" href=3D"http://www.apache.org/licenses/LICENSE-2.0=
+.html" rel=3D"noopener noreferrer" class=3D"link">Apache 2.0</a></div></div=
+><a class=3D"info__extdocs link" target=3D"_blank" href=3D"http://swagger.i=
+o/" rel=3D"noopener noreferrer">Find out more about Swagger</a></div></div>=
+</section></div><div class=3D"scheme-container"><section class=3D"schemes w=
+rapper block col-12"><div><span class=3D"servers-title">Servers</span><div =
+class=3D"servers"><label for=3D"servers"><select><option value=3D"https://v=
+inylswagger.io/api/">https://vinylswagger.io/api/</option></select></label>=
+</div></div></section></div><div></div><div class=3D"wrapper"><section clas=
+s=3D"block col-12 block-desktop col-12-desktop"><div><span><div class=3D"op=
+block-tag-section is-open"><h3 class=3D"opblock-tag" id=3D"operations-tag-u=
+ser" data-tag=3D"user" data-is-open=3D"true"><a class=3D"nostyle"><span>use=
+r</span></a><small><div class=3D"renderedMarkdown"><p>Operations about user=
+</p></div></small><button aria-expanded=3D"true" class=3D"expand-operation"=
+ title=3D"Collapse operation"><svg xmlns=3D"http://www.w3.org/2000/svg" vie=
+wBox=3D"0 0 20 20" class=3D"arrow" width=3D"20" height=3D"20" aria-hidden=
+=3D"true" focusable=3D"false"><path d=3D"M 17.418 14.908 C 17.69 15.176 18.=
+127 15.176 18.397 14.908 C 18.667 14.64 18.668 14.207 18.397 13.939 L 10.48=
+9 6.109 C 10.219 5.841 9.782 5.841 9.51 6.109 L 1.602 13.939 C 1.332 14.207=
+ 1.332 14.64 1.602 14.908 C 1.873 15.176 2.311 15.176 2.581 14.908 L 10 7.7=
+67 L 17.418 14.908 Z"></path></svg></button></h3><div class=3D"no-margin"> =
+<div class=3D"operation-tag-content"><span><div class=3D"opblock opblock-po=
+st" id=3D"operations-user-createUser"><div class=3D"opblock-summary opblock=
+-summary-post"><button aria-label=3D"post =E2=80=8B/register" aria-expanded=
+=3D"false" class=3D"opblock-summary-control"><span class=3D"opblock-summary=
+-method">POST</span><span class=3D"opblock-summary-path" data-path=3D"/regi=
+ster"><a class=3D"nostyle"><span>/register</span></a></span><div class=3D"o=
+pblock-summary-description">Create user</div></button><div class=3D"view-li=
+ne-link copy-to-clipboard" title=3D"Copy to clipboard"><svg xmlns=3D"http:/=
+/www.w3.org/2000/svg" viewBox=3D"0 0 15 16" width=3D"15" height=3D"16" aria=
+-hidden=3D"true" focusable=3D"false"><g transform=3D"translate(2, -1)"><pat=
+h fill=3D"#ffffff" fill-rule=3D"evenodd" d=3D"M2 13h4v1H2v-1zm5-6H2v1h5V7zm=
+2 3V8l-3 3 3 3v-2h5v-2H9zM4.5 9H2v1h2.5V9zM2 12h2.5v-1H2v1zm9 1h1v2c-.02.28=
+-.11.52-.3.7-.19.18-.42.28-.7.3H1c-.55 0-1-.45-1-1V4c0-.55.45-1 1-1h3c0-1.1=
+1.89-2 2-2 1.11 0 2 .89 2 2h3c.55 0 1 .45 1 1v5h-1V6H1v9h10v-2zM2 5h8c0-.55=
+-.45-1-1-1H8c-.55 0-1-.45-1-1s-.45-1-1-1-1 .45-1 1-.45 1-1 1H3c-.55 0-1 .45=
+-1 1z"></path></g></svg></div><img src=3D"data:image/svg+xml;base64,PHN2ZyB=
+2ZXJzaW9uPSIxLjEiIGlkPSJMYXllcl8xIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC=
+9zdmciIHhtbG5zOnhsaW5rPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5L3hsaW5rIiB4PSIwcHgiI=
+Hk9IjBweCIgdmlld0JveD0iMCAwIDI0IDI0IiBlbmFibGUtYmFja2dyb3VuZD0ibmV3IDAgMCAy=
+NCAyNCIgeG1sOnNwYWNlPSJwcmVzZXJ2ZSI+CjxwYXRoIGQ9Ik0xOSA3djRINS44M2wzLjU4LTM=
+uNTlMOCA2bC02IDYgNiA2IDEuNDEtMS40MUw1LjgzIDEzSDIxVjd6Ii8+Cjwvc3ZnPgo=3D" cl=
+ass=3D"view-line-link" title=3D"Jump to definition"><button aria-label=3D"p=
+ost =E2=80=8B/register" class=3D"opblock-control-arrow" aria-expanded=3D"fa=
+lse" tabindex=3D"-1"><svg xmlns=3D"http://www.w3.org/2000/svg" viewBox=3D"0=
+ 0 20 20" class=3D"arrow" width=3D"20" height=3D"20" aria-hidden=3D"true" f=
+ocusable=3D"false"><path d=3D"M17.418 6.109c.272-.268.709-.268.979 0s.271.7=
+01 0 .969l-7.908 7.83c-.27.268-.707.268-.979 0l-7.908-7.83c-.27-.268-.27-.7=
+01 0-.969.271-.268.709-.268.979 0L10 13.25l7.418-7.141z"></path></svg></but=
+ton></div></div></span><span><div class=3D"opblock opblock-post" id=3D"oper=
+ations-user-loginUser"><div class=3D"opblock-summary opblock-summary-post">=
+<button aria-label=3D"post =E2=80=8B/login" aria-expanded=3D"false" class=
+=3D"opblock-summary-control"><span class=3D"opblock-summary-method">POST</s=
+pan><span class=3D"opblock-summary-path" data-path=3D"/login"><a class=3D"n=
+ostyle"><span>/login</span></a></span><div class=3D"opblock-summary-descrip=
+tion">Logs user into the system</div></button><div class=3D"view-line-link =
+copy-to-clipboard" title=3D"Copy to clipboard"><svg xmlns=3D"http://www.w3.=
+org/2000/svg" viewBox=3D"0 0 15 16" width=3D"15" height=3D"16" aria-hidden=
+=3D"true" focusable=3D"false"><g transform=3D"translate(2, -1)"><path fill=
+=3D"#ffffff" fill-rule=3D"evenodd" d=3D"M2 13h4v1H2v-1zm5-6H2v1h5V7zm2 3V8l=
+-3 3 3 3v-2h5v-2H9zM4.5 9H2v1h2.5V9zM2 12h2.5v-1H2v1zm9 1h1v2c-.02.28-.11.5=
+2-.3.7-.19.18-.42.28-.7.3H1c-.55 0-1-.45-1-1V4c0-.55.45-1 1-1h3c0-1.11.89-2=
+ 2-2 1.11 0 2 .89 2 2h3c.55 0 1 .45 1 1v5h-1V6H1v9h10v-2zM2 5h8c0-.55-.45-1=
+-1-1H8c-.55 0-1-.45-1-1s-.45-1-1-1-1 .45-1 1-.45 1-1 1H3c-.55 0-1 .45-1 1z"=
+></path></g></svg></div><img src=3D"data:image/svg+xml;base64,PHN2ZyB2ZXJza=
+W9uPSIxLjEiIGlkPSJMYXllcl8xIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmci=
+IHhtbG5zOnhsaW5rPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5L3hsaW5rIiB4PSIwcHgiIHk9IjB=
+weCIgdmlld0JveD0iMCAwIDI0IDI0IiBlbmFibGUtYmFja2dyb3VuZD0ibmV3IDAgMCAyNCAyNC=
+IgeG1sOnNwYWNlPSJwcmVzZXJ2ZSI+CjxwYXRoIGQ9Ik0xOSA3djRINS44M2wzLjU4LTMuNTlMO=
+CA2bC02IDYgNiA2IDEuNDEtMS40MUw1LjgzIDEzSDIxVjd6Ii8+Cjwvc3ZnPgo=3D" class=3D=
+"view-line-link" title=3D"Jump to definition"><button aria-label=3D"post =
+=E2=80=8B/login" class=3D"opblock-control-arrow" aria-expanded=3D"false" ta=
+bindex=3D"-1"><svg xmlns=3D"http://www.w3.org/2000/svg" viewBox=3D"0 0 20 2=
+0" class=3D"arrow" width=3D"20" height=3D"20" aria-hidden=3D"true" focusabl=
+e=3D"false"><path d=3D"M17.418 6.109c.272-.268.709-.268.979 0s.271.701 0 .9=
+69l-7.908 7.83c-.27.268-.707.268-.979 0l-7.908-7.83c-.27-.268-.27-.701 0-.9=
+69.271-.268.709-.268.979 0L10 13.25l7.418-7.141z"></path></svg></button></d=
+iv></div></span><span><div class=3D"opblock opblock-get" id=3D"operations-u=
+ser-logoutUser"><div class=3D"opblock-summary opblock-summary-get"><button =
+aria-label=3D"get =E2=80=8B/api=E2=80=8B/logout" aria-expanded=3D"false" cl=
+ass=3D"opblock-summary-control"><span class=3D"opblock-summary-method">GET<=
+/span><span class=3D"opblock-summary-path" data-path=3D"/api/logout"><a cla=
+ss=3D"nostyle"><span>/api<wbr>/logout</span></a></span><div class=3D"opbloc=
+k-summary-description">Logs out current logged in user session</div></butto=
+n><div class=3D"view-line-link copy-to-clipboard" title=3D"Copy to clipboar=
+d"><svg xmlns=3D"http://www.w3.org/2000/svg" viewBox=3D"0 0 15 16" width=3D=
+"15" height=3D"16" aria-hidden=3D"true" focusable=3D"false"><g transform=3D=
+"translate(2, -1)"><path fill=3D"#ffffff" fill-rule=3D"evenodd" d=3D"M2 13h=
+4v1H2v-1zm5-6H2v1h5V7zm2 3V8l-3 3 3 3v-2h5v-2H9zM4.5 9H2v1h2.5V9zM2 12h2.5v=
+-1H2v1zm9 1h1v2c-.02.28-.11.52-.3.7-.19.18-.42.28-.7.3H1c-.55 0-1-.45-1-1V4=
+c0-.55.45-1 1-1h3c0-1.11.89-2 2-2 1.11 0 2 .89 2 2h3c.55 0 1 .45 1 1v5h-1V6=
+H1v9h10v-2zM2 5h8c0-.55-.45-1-1-1H8c-.55 0-1-.45-1-1s-.45-1-1-1-1 .45-1 1-.=
+45 1-1 1H3c-.55 0-1 .45-1 1z"></path></g></svg></div><img src=3D"data:image=
+/svg+xml;base64,PHN2ZyB2ZXJzaW9uPSIxLjEiIGlkPSJMYXllcl8xIiB4bWxucz0iaHR0cDo=
+vL3d3dy53My5vcmcvMjAwMC9zdmciIHhtbG5zOnhsaW5rPSJodHRwOi8vd3d3LnczLm9yZy8xOT=
+k5L3hsaW5rIiB4PSIwcHgiIHk9IjBweCIgdmlld0JveD0iMCAwIDI0IDI0IiBlbmFibGUtYmFja=
+2dyb3VuZD0ibmV3IDAgMCAyNCAyNCIgeG1sOnNwYWNlPSJwcmVzZXJ2ZSI+CjxwYXRoIGQ9Ik0x=
+OSA3djRINS44M2wzLjU4LTMuNTlMOCA2bC02IDYgNiA2IDEuNDEtMS40MUw1LjgzIDEzSDIxVjd=
+6Ii8+Cjwvc3ZnPgo=3D" class=3D"view-line-link" title=3D"Jump to definition">=
+<button aria-label=3D"get =E2=80=8B/api=E2=80=8B/logout" class=3D"opblock-c=
+ontrol-arrow" aria-expanded=3D"false" tabindex=3D"-1"><svg xmlns=3D"http://=
+www.w3.org/2000/svg" viewBox=3D"0 0 20 20" class=3D"arrow" width=3D"20" hei=
+ght=3D"20" aria-hidden=3D"true" focusable=3D"false"><path d=3D"M17.418 6.10=
+9c.272-.268.709-.268.979 0s.271.701 0 .969l-7.908 7.83c-.27.268-.707.268-.9=
+79 0l-7.908-7.83c-.27-.268-.27-.701 0-.969.271-.268.709-.268.979 0L10 13.25=
+l7.418-7.141z"></path></svg></button></div></div></span><span><div class=3D=
+"opblock opblock-put" id=3D"operations-user-updateUser"><div class=3D"opblo=
+ck-summary opblock-summary-put"><button aria-label=3D"put =E2=80=8B/api=E2=
+=80=8B/updateUser" aria-expanded=3D"false" class=3D"opblock-summary-control=
+"><span class=3D"opblock-summary-method">PUT</span><span class=3D"opblock-s=
+ummary-path" data-path=3D"/api/updateUser"><a class=3D"nostyle"><span>/api<=
+wbr>/updateUser</span></a></span><div class=3D"opblock-summary-description"=
+>Update user</div></button><div class=3D"view-line-link copy-to-clipboard" =
+title=3D"Copy to clipboard"><svg xmlns=3D"http://www.w3.org/2000/svg" viewB=
+ox=3D"0 0 15 16" width=3D"15" height=3D"16" aria-hidden=3D"true" focusable=
+=3D"false"><g transform=3D"translate(2, -1)"><path fill=3D"#ffffff" fill-ru=
+le=3D"evenodd" d=3D"M2 13h4v1H2v-1zm5-6H2v1h5V7zm2 3V8l-3 3 3 3v-2h5v-2H9zM=
+4.5 9H2v1h2.5V9zM2 12h2.5v-1H2v1zm9 1h1v2c-.02.28-.11.52-.3.7-.19.18-.42.28=
+-.7.3H1c-.55 0-1-.45-1-1V4c0-.55.45-1 1-1h3c0-1.11.89-2 2-2 1.11 0 2 .89 2 =
+2h3c.55 0 1 .45 1 1v5h-1V6H1v9h10v-2zM2 5h8c0-.55-.45-1-1-1H8c-.55 0-1-.45-=
+1-1s-.45-1-1-1-1 .45-1 1-.45 1-1 1H3c-.55 0-1 .45-1 1z"></path></g></svg></=
+div><img src=3D"data:image/svg+xml;base64,PHN2ZyB2ZXJzaW9uPSIxLjEiIGlkPSJMY=
+Xllcl8xIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHhtbG5zOnhsaW5rPSJo=
+dHRwOi8vd3d3LnczLm9yZy8xOTk5L3hsaW5rIiB4PSIwcHgiIHk9IjBweCIgdmlld0JveD0iMCA=
+wIDI0IDI0IiBlbmFibGUtYmFja2dyb3VuZD0ibmV3IDAgMCAyNCAyNCIgeG1sOnNwYWNlPSJwcm=
+VzZXJ2ZSI+CjxwYXRoIGQ9Ik0xOSA3djRINS44M2wzLjU4LTMuNTlMOCA2bC02IDYgNiA2IDEuN=
+DEtMS40MUw1LjgzIDEzSDIxVjd6Ii8+Cjwvc3ZnPgo=3D" class=3D"view-line-link" tit=
+le=3D"Jump to definition"><button aria-label=3D"put =E2=80=8B/api=E2=80=8B/=
+updateUser" class=3D"opblock-control-arrow" aria-expanded=3D"false" tabinde=
+x=3D"-1"><svg xmlns=3D"http://www.w3.org/2000/svg" viewBox=3D"0 0 20 20" cl=
+ass=3D"arrow" width=3D"20" height=3D"20" aria-hidden=3D"true" focusable=3D"=
+false"><path d=3D"M17.418 6.109c.272-.268.709-.268.979 0s.271.701 0 .969l-7=
+.908 7.83c-.27.268-.707.268-.979 0l-7.908-7.83c-.27-.268-.27-.701 0-.969.27=
+1-.268.709-.268.979 0L10 13.25l7.418-7.141z"></path></svg></button></div></=
+div></span><span><div class=3D"opblock opblock-get" id=3D"operations-user-u=
+serPlaylist"><div class=3D"opblock-summary opblock-summary-get"><button ari=
+a-label=3D"get =E2=80=8B/api=E2=80=8B/user=E2=80=8B/playlists" aria-expande=
+d=3D"false" class=3D"opblock-summary-control"><span class=3D"opblock-summar=
+y-method">GET</span><span class=3D"opblock-summary-path" data-path=3D"/api/=
+user/playlists"><a class=3D"nostyle"><span>/api<wbr>/user<wbr>/playlists</s=
+pan></a></span><div class=3D"opblock-summary-description">Get user playlist=
+s</div></button><div class=3D"view-line-link copy-to-clipboard" title=3D"Co=
+py to clipboard"><svg xmlns=3D"http://www.w3.org/2000/svg" viewBox=3D"0 0 1=
+5 16" width=3D"15" height=3D"16" aria-hidden=3D"true" focusable=3D"false"><=
+g transform=3D"translate(2, -1)"><path fill=3D"#ffffff" fill-rule=3D"evenod=
+d" d=3D"M2 13h4v1H2v-1zm5-6H2v1h5V7zm2 3V8l-3 3 3 3v-2h5v-2H9zM4.5 9H2v1h2.=
+5V9zM2 12h2.5v-1H2v1zm9 1h1v2c-.02.28-.11.52-.3.7-.19.18-.42.28-.7.3H1c-.55=
+ 0-1-.45-1-1V4c0-.55.45-1 1-1h3c0-1.11.89-2 2-2 1.11 0 2 .89 2 2h3c.55 0 1 =
+.45 1 1v5h-1V6H1v9h10v-2zM2 5h8c0-.55-.45-1-1-1H8c-.55 0-1-.45-1-1s-.45-1-1=
+-1-1 .45-1 1-.45 1-1 1H3c-.55 0-1 .45-1 1z"></path></g></svg></div><img src=
+=3D"data:image/svg+xml;base64,PHN2ZyB2ZXJzaW9uPSIxLjEiIGlkPSJMYXllcl8xIiB4b=
+Wxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHhtbG5zOnhsaW5rPSJodHRwOi8vd3d3=
+LnczLm9yZy8xOTk5L3hsaW5rIiB4PSIwcHgiIHk9IjBweCIgdmlld0JveD0iMCAwIDI0IDI0IiB=
+lbmFibGUtYmFja2dyb3VuZD0ibmV3IDAgMCAyNCAyNCIgeG1sOnNwYWNlPSJwcmVzZXJ2ZSI+Cj=
+xwYXRoIGQ9Ik0xOSA3djRINS44M2wzLjU4LTMuNTlMOCA2bC02IDYgNiA2IDEuNDEtMS40MUw1L=
+jgzIDEzSDIxVjd6Ii8+Cjwvc3ZnPgo=3D" class=3D"view-line-link" title=3D"Jump t=
+o definition"><button aria-label=3D"get =E2=80=8B/api=E2=80=8B/user=E2=80=
+=8B/playlists" class=3D"opblock-control-arrow" aria-expanded=3D"false" tabi=
+ndex=3D"-1"><svg xmlns=3D"http://www.w3.org/2000/svg" viewBox=3D"0 0 20 20"=
+ class=3D"arrow" width=3D"20" height=3D"20" aria-hidden=3D"true" focusable=
+=3D"false"><path d=3D"M17.418 6.109c.272-.268.709-.268.979 0s.271.701 0 .96=
+9l-7.908 7.83c-.27.268-.707.268-.979 0l-7.908-7.83c-.27-.268-.27-.701 0-.96=
+9.271-.268.709-.268.979 0L10 13.25l7.418-7.141z"></path></svg></button></di=
+v></div></span></div> </div></div></span><span><div class=3D"opblock-tag-se=
+ction is-open"><h3 class=3D"opblock-tag" id=3D"operations-tag-spotify" data=
+-tag=3D"spotify" data-is-open=3D"true"><a class=3D"nostyle"><span>spotify</=
+span></a><small><div class=3D"renderedMarkdown"><p>Connect on spotify accou=
+nt</p></div></small><button aria-expanded=3D"true" class=3D"expand-operatio=
+n" title=3D"Collapse operation"><svg xmlns=3D"http://www.w3.org/2000/svg" v=
+iewBox=3D"0 0 20 20" class=3D"arrow" width=3D"20" height=3D"20" aria-hidden=
+=3D"true" focusable=3D"false"><path d=3D"M 17.418 14.908 C 17.69 15.176 18.=
+127 15.176 18.397 14.908 C 18.667 14.64 18.668 14.207 18.397 13.939 L 10.48=
+9 6.109 C 10.219 5.841 9.782 5.841 9.51 6.109 L 1.602 13.939 C 1.332 14.207=
+ 1.332 14.64 1.602 14.908 C 1.873 15.176 2.311 15.176 2.581 14.908 L 10 7.7=
+67 L 17.418 14.908 Z"></path></svg></button></h3><div class=3D"no-margin"> =
+<div class=3D"operation-tag-content"><span><div class=3D"opblock opblock-ge=
+t" id=3D"operations-spotify-spotifyLogin"><div class=3D"opblock-summary opb=
+lock-summary-get"><button aria-label=3D"get =E2=80=8B/api=E2=80=8B/spotify=
+=E2=80=8B/login" aria-expanded=3D"false" class=3D"opblock-summary-control">=
+<span class=3D"opblock-summary-method">GET</span><span class=3D"opblock-sum=
+mary-path" data-path=3D"/api/spotify/login"><a class=3D"nostyle"><span>/api=
+<wbr>/spotify<wbr>/login</span></a></span><div class=3D"opblock-summary-des=
+cription">Log user on spotify account</div></button><div class=3D"view-line=
 -link copy-to-clipboard" title=3D"Copy to clipboard"><svg xmlns=3D"http://w=
 ww.w3.org/2000/svg" viewBox=3D"0 0 15 16" width=3D"15" height=3D"16" aria-h=
 idden=3D"true" focusable=3D"false"><g transform=3D"translate(2, -1)"><path =
@@ -756,22 +879,120 @@ dmciIHhtbG5zOnhsaW5rPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5L3hsaW5rIiB4PSIwcHgiIHk=
 9IjBweCIgdmlld0JveD0iMCAwIDI0IDI0IiBlbmFibGUtYmFja2dyb3VuZD0ibmV3IDAgMCAyNC=
 AyNCIgeG1sOnNwYWNlPSJwcmVzZXJ2ZSI+CjxwYXRoIGQ9Ik0xOSA3djRINS44M2wzLjU4LTMuN=
 TlMOCA2bC02IDYgNiA2IDEuNDEtMS40MUw1LjgzIDEzSDIxVjd6Ii8+Cjwvc3ZnPgo=3D" clas=
-s=3D"view-line-link" title=3D"Jump to definition"><button aria-label=3D"pos=
-t =E2=80=8B/login" class=3D"opblock-control-arrow" aria-expanded=3D"false" =
-tabindex=3D"-1"><svg xmlns=3D"http://www.w3.org/2000/svg" viewBox=3D"0 0 20=
- 20" class=3D"arrow" width=3D"20" height=3D"20" aria-hidden=3D"true" focusa=
-ble=3D"false"><path d=3D"M17.418 6.109c.272-.268.709-.268.979 0s.271.701 0 =
-.969l-7.908 7.83c-.27.268-.707.268-.979 0l-7.908-7.83c-.27-.268-.27-.701 0-=
-.969.271-.268.709-.268.979 0L10 13.25l7.418-7.141z"></path></svg></button><=
-/div></div></span><span><div class=3D"opblock opblock-get" id=3D"operations=
--user-logoutUser"><div class=3D"opblock-summary opblock-summary-get"><butto=
-n aria-label=3D"get =E2=80=8B/api=E2=80=8B/logout" aria-expanded=3D"false" =
-class=3D"opblock-summary-control"><span class=3D"opblock-summary-method">GE=
-T</span><span class=3D"opblock-summary-path" data-path=3D"/api/logout"><a c=
-lass=3D"nostyle"><span>/api<wbr>/logout</span></a></span><div class=3D"opbl=
-ock-summary-description">Logs out current logged in user session</div></but=
-ton><div class=3D"view-line-link copy-to-clipboard" title=3D"Copy to clipbo=
-ard"><svg xmlns=3D"http://www.w3.org/2000/svg" viewBox=3D"0 0 15 16" width=
+s=3D"view-line-link" title=3D"Jump to definition"><button aria-label=3D"get=
+ =E2=80=8B/api=E2=80=8B/spotify=E2=80=8B/login" class=3D"opblock-control-ar=
+row" aria-expanded=3D"false" tabindex=3D"-1"><svg xmlns=3D"http://www.w3.or=
+g/2000/svg" viewBox=3D"0 0 20 20" class=3D"arrow" width=3D"20" height=3D"20=
+" aria-hidden=3D"true" focusable=3D"false"><path d=3D"M17.418 6.109c.272-.2=
+68.709-.268.979 0s.271.701 0 .969l-7.908 7.83c-.27.268-.707.268-.979 0l-7.9=
+08-7.83c-.27-.268-.27-.701 0-.969.271-.268.709-.268.979 0L10 13.25l7.418-7.=
+141z"></path></svg></button></div></div></span><span><div class=3D"opblock =
+opblock-get" id=3D"operations-spotify-spotifyToken"><div class=3D"opblock-s=
+ummary opblock-summary-get"><button aria-label=3D"get =E2=80=8B/api=E2=80=
+=8B/spotify=E2=80=8B/getToken" aria-expanded=3D"false" class=3D"opblock-sum=
+mary-control"><span class=3D"opblock-summary-method">GET</span><span class=
+=3D"opblock-summary-path" data-path=3D"/api/spotify/getToken"><a class=3D"n=
+ostyle"><span>/api<wbr>/spotify<wbr>/getToken</span></a></span><div class=
+=3D"opblock-summary-description">Get user token on spotify account</div></b=
+utton><div class=3D"view-line-link copy-to-clipboard" title=3D"Copy to clip=
+board"><svg xmlns=3D"http://www.w3.org/2000/svg" viewBox=3D"0 0 15 16" widt=
+h=3D"15" height=3D"16" aria-hidden=3D"true" focusable=3D"false"><g transfor=
+m=3D"translate(2, -1)"><path fill=3D"#ffffff" fill-rule=3D"evenodd" d=3D"M2=
+ 13h4v1H2v-1zm5-6H2v1h5V7zm2 3V8l-3 3 3 3v-2h5v-2H9zM4.5 9H2v1h2.5V9zM2 12h=
+2.5v-1H2v1zm9 1h1v2c-.02.28-.11.52-.3.7-.19.18-.42.28-.7.3H1c-.55 0-1-.45-1=
+-1V4c0-.55.45-1 1-1h3c0-1.11.89-2 2-2 1.11 0 2 .89 2 2h3c.55 0 1 .45 1 1v5h=
+-1V6H1v9h10v-2zM2 5h8c0-.55-.45-1-1-1H8c-.55 0-1-.45-1-1s-.45-1-1-1-1 .45-1=
+ 1-.45 1-1 1H3c-.55 0-1 .45-1 1z"></path></g></svg></div><img src=3D"data:i=
+mage/svg+xml;base64,PHN2ZyB2ZXJzaW9uPSIxLjEiIGlkPSJMYXllcl8xIiB4bWxucz0iaHR=
+0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHhtbG5zOnhsaW5rPSJodHRwOi8vd3d3LnczLm9yZy=
+8xOTk5L3hsaW5rIiB4PSIwcHgiIHk9IjBweCIgdmlld0JveD0iMCAwIDI0IDI0IiBlbmFibGUtY=
+mFja2dyb3VuZD0ibmV3IDAgMCAyNCAyNCIgeG1sOnNwYWNlPSJwcmVzZXJ2ZSI+CjxwYXRoIGQ9=
+Ik0xOSA3djRINS44M2wzLjU4LTMuNTlMOCA2bC02IDYgNiA2IDEuNDEtMS40MUw1LjgzIDEzSDI=
+xVjd6Ii8+Cjwvc3ZnPgo=3D" class=3D"view-line-link" title=3D"Jump to definiti=
+on"><button aria-label=3D"get =E2=80=8B/api=E2=80=8B/spotify=E2=80=8B/getTo=
+ken" class=3D"opblock-control-arrow" aria-expanded=3D"false" tabindex=3D"-1=
+"><svg xmlns=3D"http://www.w3.org/2000/svg" viewBox=3D"0 0 20 20" class=3D"=
+arrow" width=3D"20" height=3D"20" aria-hidden=3D"true" focusable=3D"false">=
+<path d=3D"M17.418 6.109c.272-.268.709-.268.979 0s.271.701 0 .969l-7.908 7.=
+83c-.27.268-.707.268-.979 0l-7.908-7.83c-.27-.268-.27-.701 0-.969.271-.268.=
+709-.268.979 0L10 13.25l7.418-7.141z"></path></svg></button></div></div></s=
+pan></div> </div></div></span><span><div class=3D"opblock-tag-section is-op=
+en"><h3 class=3D"opblock-tag" id=3D"operations-tag-song" data-tag=3D"song" =
+data-is-open=3D"true"><a class=3D"nostyle"><span>song</span></a><small><div=
+ class=3D"renderedMarkdown"><p>Operations about song</p></div></small><butt=
+on aria-expanded=3D"true" class=3D"expand-operation" title=3D"Collapse oper=
+ation"><svg xmlns=3D"http://www.w3.org/2000/svg" viewBox=3D"0 0 20 20" clas=
+s=3D"arrow" width=3D"20" height=3D"20" aria-hidden=3D"true" focusable=3D"fa=
+lse"><path d=3D"M 17.418 14.908 C 17.69 15.176 18.127 15.176 18.397 14.908 =
+C 18.667 14.64 18.668 14.207 18.397 13.939 L 10.489 6.109 C 10.219 5.841 9.=
+782 5.841 9.51 6.109 L 1.602 13.939 C 1.332 14.207 1.332 14.64 1.602 14.908=
+ C 1.873 15.176 2.311 15.176 2.581 14.908 L 10 7.767 L 17.418 14.908 Z"></p=
+ath></svg></button></h3><div class=3D"no-margin"> <div class=3D"operation-t=
+ag-content"><span><div class=3D"opblock opblock-post" id=3D"operations-song=
+-addSong"><div class=3D"opblock-summary opblock-summary-post"><button aria-=
+label=3D"post =E2=80=8B/api=E2=80=8B/song" aria-expanded=3D"false" class=3D=
+"opblock-summary-control"><span class=3D"opblock-summary-method">POST</span=
+><span class=3D"opblock-summary-path" data-path=3D"/api/song"><a class=3D"n=
+ostyle"><span>/api<wbr>/song</span></a></span><div class=3D"opblock-summary=
+-description">Add new song</div></button><div class=3D"view-line-link copy-=
+to-clipboard" title=3D"Copy to clipboard"><svg xmlns=3D"http://www.w3.org/2=
+000/svg" viewBox=3D"0 0 15 16" width=3D"15" height=3D"16" aria-hidden=3D"tr=
+ue" focusable=3D"false"><g transform=3D"translate(2, -1)"><path fill=3D"#ff=
+ffff" fill-rule=3D"evenodd" d=3D"M2 13h4v1H2v-1zm5-6H2v1h5V7zm2 3V8l-3 3 3 =
+3v-2h5v-2H9zM4.5 9H2v1h2.5V9zM2 12h2.5v-1H2v1zm9 1h1v2c-.02.28-.11.52-.3.7-=
+.19.18-.42.28-.7.3H1c-.55 0-1-.45-1-1V4c0-.55.45-1 1-1h3c0-1.11.89-2 2-2 1.=
+11 0 2 .89 2 2h3c.55 0 1 .45 1 1v5h-1V6H1v9h10v-2zM2 5h8c0-.55-.45-1-1-1H8c=
+-.55 0-1-.45-1-1s-.45-1-1-1-1 .45-1 1-.45 1-1 1H3c-.55 0-1 .45-1 1z"></path=
+></g></svg></div><img src=3D"data:image/svg+xml;base64,PHN2ZyB2ZXJzaW9uPSIx=
+LjEiIGlkPSJMYXllcl8xIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHhtbG5=
+zOnhsaW5rPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5L3hsaW5rIiB4PSIwcHgiIHk9IjBweCIgdm=
+lld0JveD0iMCAwIDI0IDI0IiBlbmFibGUtYmFja2dyb3VuZD0ibmV3IDAgMCAyNCAyNCIgeG1sO=
+nNwYWNlPSJwcmVzZXJ2ZSI+CjxwYXRoIGQ9Ik0xOSA3djRINS44M2wzLjU4LTMuNTlMOCA2bC02=
+IDYgNiA2IDEuNDEtMS40MUw1LjgzIDEzSDIxVjd6Ii8+Cjwvc3ZnPgo=3D" class=3D"view-l=
+ine-link" title=3D"Jump to definition"><button aria-label=3D"post =E2=80=8B=
+/api=E2=80=8B/song" class=3D"opblock-control-arrow" aria-expanded=3D"false"=
+ tabindex=3D"-1"><svg xmlns=3D"http://www.w3.org/2000/svg" viewBox=3D"0 0 2=
+0 20" class=3D"arrow" width=3D"20" height=3D"20" aria-hidden=3D"true" focus=
+able=3D"false"><path d=3D"M17.418 6.109c.272-.268.709-.268.979 0s.271.701 0=
+ .969l-7.908 7.83c-.27.268-.707.268-.979 0l-7.908-7.83c-.27-.268-.27-.701 0=
+-.969.271-.268.709-.268.979 0L10 13.25l7.418-7.141z"></path></svg></button>=
+</div></div></span><span><div class=3D"opblock opblock-get" id=3D"operation=
+s-song-getSong"><div class=3D"opblock-summary opblock-summary-get"><button =
+aria-label=3D"get =E2=80=8B/api=E2=80=8B/song" aria-expanded=3D"false" clas=
+s=3D"opblock-summary-control"><span class=3D"opblock-summary-method">GET</s=
+pan><span class=3D"opblock-summary-path" data-path=3D"/api/song"><a class=
+=3D"nostyle"><span>/api<wbr>/song</span></a></span><div class=3D"opblock-su=
+mmary-description">Get song by song id</div></button><div class=3D"view-lin=
+e-link copy-to-clipboard" title=3D"Copy to clipboard"><svg xmlns=3D"http://=
+www.w3.org/2000/svg" viewBox=3D"0 0 15 16" width=3D"15" height=3D"16" aria-=
+hidden=3D"true" focusable=3D"false"><g transform=3D"translate(2, -1)"><path=
+ fill=3D"#ffffff" fill-rule=3D"evenodd" d=3D"M2 13h4v1H2v-1zm5-6H2v1h5V7zm2=
+ 3V8l-3 3 3 3v-2h5v-2H9zM4.5 9H2v1h2.5V9zM2 12h2.5v-1H2v1zm9 1h1v2c-.02.28-=
+.11.52-.3.7-.19.18-.42.28-.7.3H1c-.55 0-1-.45-1-1V4c0-.55.45-1 1-1h3c0-1.11=
+.89-2 2-2 1.11 0 2 .89 2 2h3c.55 0 1 .45 1 1v5h-1V6H1v9h10v-2zM2 5h8c0-.55-=
+.45-1-1-1H8c-.55 0-1-.45-1-1s-.45-1-1-1-1 .45-1 1-.45 1-1 1H3c-.55 0-1 .45-=
+1 1z"></path></g></svg></div><img src=3D"data:image/svg+xml;base64,PHN2ZyB2=
+ZXJzaW9uPSIxLjEiIGlkPSJMYXllcl8xIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9=
+zdmciIHhtbG5zOnhsaW5rPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5L3hsaW5rIiB4PSIwcHgiIH=
+k9IjBweCIgdmlld0JveD0iMCAwIDI0IDI0IiBlbmFibGUtYmFja2dyb3VuZD0ibmV3IDAgMCAyN=
+CAyNCIgeG1sOnNwYWNlPSJwcmVzZXJ2ZSI+CjxwYXRoIGQ9Ik0xOSA3djRINS44M2wzLjU4LTMu=
+NTlMOCA2bC02IDYgNiA2IDEuNDEtMS40MUw1LjgzIDEzSDIxVjd6Ii8+Cjwvc3ZnPgo=3D" cla=
+ss=3D"view-line-link" title=3D"Jump to definition"><button aria-label=3D"ge=
+t =E2=80=8B/api=E2=80=8B/song" class=3D"opblock-control-arrow" aria-expande=
+d=3D"false" tabindex=3D"-1"><svg xmlns=3D"http://www.w3.org/2000/svg" viewB=
+ox=3D"0 0 20 20" class=3D"arrow" width=3D"20" height=3D"20" aria-hidden=3D"=
+true" focusable=3D"false"><path d=3D"M17.418 6.109c.272-.268.709-.268.979 0=
+s.271.701 0 .969l-7.908 7.83c-.27.268-.707.268-.979 0l-7.908-7.83c-.27-.268=
+-.27-.701 0-.969.271-.268.709-.268.979 0L10 13.25l7.418-7.141z"></path></sv=
+g></button></div></div></span><span><div class=3D"opblock opblock-delete" i=
+d=3D"operations-song-deleteSong"><div class=3D"opblock-summary opblock-summ=
+ary-delete"><button aria-label=3D"delete =E2=80=8B/api=E2=80=8B/song" aria-=
+expanded=3D"false" class=3D"opblock-summary-control"><span class=3D"opblock=
+-summary-method">DELETE</span><span class=3D"opblock-summary-path" data-pat=
+h=3D"/api/song"><a class=3D"nostyle"><span>/api<wbr>/song</span></a></span>=
+<div class=3D"opblock-summary-description">Delete song by song id</div></bu=
+tton><div class=3D"view-line-link copy-to-clipboard" title=3D"Copy to clipb=
+oard"><svg xmlns=3D"http://www.w3.org/2000/svg" viewBox=3D"0 0 15 16" width=
 =3D"15" height=3D"16" aria-hidden=3D"true" focusable=3D"false"><g transform=
 =3D"translate(2, -1)"><path fill=3D"#ffffff" fill-rule=3D"evenodd" d=3D"M2 =
 13h4v1H2v-1zm5-6H2v1h5V7zm2 3V8l-3 3 3 3v-2h5v-2H9zM4.5 9H2v1h2.5V9zM2 12h2=
@@ -785,49 +1006,118 @@ xOTk5L3hsaW5rIiB4PSIwcHgiIHk9IjBweCIgdmlld0JveD0iMCAwIDI0IDI0IiBlbmFibGUtYm=
 Fja2dyb3VuZD0ibmV3IDAgMCAyNCAyNCIgeG1sOnNwYWNlPSJwcmVzZXJ2ZSI+CjxwYXRoIGQ9I=
 k0xOSA3djRINS44M2wzLjU4LTMuNTlMOCA2bC02IDYgNiA2IDEuNDEtMS40MUw1LjgzIDEzSDIx=
 Vjd6Ii8+Cjwvc3ZnPgo=3D" class=3D"view-line-link" title=3D"Jump to definitio=
-n"><button aria-label=3D"get =E2=80=8B/api=E2=80=8B/logout" class=3D"opbloc=
-k-control-arrow" aria-expanded=3D"false" tabindex=3D"-1"><svg xmlns=3D"http=
-://www.w3.org/2000/svg" viewBox=3D"0 0 20 20" class=3D"arrow" width=3D"20" =
-height=3D"20" aria-hidden=3D"true" focusable=3D"false"><path d=3D"M17.418 6=
-.109c.272-.268.709-.268.979 0s.271.701 0 .969l-7.908 7.83c-.27.268-.707.268=
--.979 0l-7.908-7.83c-.27-.268-.27-.701 0-.969.271-.268.709-.268.979 0L10 13=
-.25l7.418-7.141z"></path></svg></button></div></div></span><span><div class=
-=3D"opblock opblock-put" id=3D"operations-user-updateUser"><div class=3D"op=
-block-summary opblock-summary-put"><button aria-label=3D"put =E2=80=8B/api=
-=E2=80=8B/updateUser" aria-expanded=3D"false" class=3D"opblock-summary-cont=
-rol"><span class=3D"opblock-summary-method">PUT</span><span class=3D"opbloc=
-k-summary-path" data-path=3D"/api/updateUser"><a class=3D"nostyle"><span>/a=
-pi<wbr>/updateUser</span></a></span><div class=3D"opblock-summary-descripti=
-on">Update user</div></button><div class=3D"view-line-link copy-to-clipboar=
-d" title=3D"Copy to clipboard"><svg xmlns=3D"http://www.w3.org/2000/svg" vi=
-ewBox=3D"0 0 15 16" width=3D"15" height=3D"16" aria-hidden=3D"true" focusab=
-le=3D"false"><g transform=3D"translate(2, -1)"><path fill=3D"#ffffff" fill-=
-rule=3D"evenodd" d=3D"M2 13h4v1H2v-1zm5-6H2v1h5V7zm2 3V8l-3 3 3 3v-2h5v-2H9=
-zM4.5 9H2v1h2.5V9zM2 12h2.5v-1H2v1zm9 1h1v2c-.02.28-.11.52-.3.7-.19.18-.42.=
-28-.7.3H1c-.55 0-1-.45-1-1V4c0-.55.45-1 1-1h3c0-1.11.89-2 2-2 1.11 0 2 .89 =
-2 2h3c.55 0 1 .45 1 1v5h-1V6H1v9h10v-2zM2 5h8c0-.55-.45-1-1-1H8c-.55 0-1-.4=
-5-1-1s-.45-1-1-1-1 .45-1 1-.45 1-1 1H3c-.55 0-1 .45-1 1z"></path></g></svg>=
-</div><img src=3D"data:image/svg+xml;base64,PHN2ZyB2ZXJzaW9uPSIxLjEiIGlkPSJ=
-MYXllcl8xIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHhtbG5zOnhsaW5rPS=
-JodHRwOi8vd3d3LnczLm9yZy8xOTk5L3hsaW5rIiB4PSIwcHgiIHk9IjBweCIgdmlld0JveD0iM=
-CAwIDI0IDI0IiBlbmFibGUtYmFja2dyb3VuZD0ibmV3IDAgMCAyNCAyNCIgeG1sOnNwYWNlPSJw=
-cmVzZXJ2ZSI+CjxwYXRoIGQ9Ik0xOSA3djRINS44M2wzLjU4LTMuNTlMOCA2bC02IDYgNiA2IDE=
-uNDEtMS40MUw1LjgzIDEzSDIxVjd6Ii8+Cjwvc3ZnPgo=3D" class=3D"view-line-link" t=
-itle=3D"Jump to definition"><button aria-label=3D"put =E2=80=8B/api=E2=80=
-=8B/updateUser" class=3D"opblock-control-arrow" aria-expanded=3D"false" tab=
-index=3D"-1"><svg xmlns=3D"http://www.w3.org/2000/svg" viewBox=3D"0 0 20 20=
-" class=3D"arrow" width=3D"20" height=3D"20" aria-hidden=3D"true" focusable=
-=3D"false"><path d=3D"M17.418 6.109c.272-.268.709-.268.979 0s.271.701 0 .96=
-9l-7.908 7.83c-.27.268-.707.268-.979 0l-7.908-7.83c-.27-.268-.27-.701 0-.96=
-9.271-.268.709-.268.979 0L10 13.25l7.418-7.141z"></path></svg></button></di=
-v></div></span><span><div class=3D"opblock opblock-get" id=3D"operations-us=
-er-userPlaylist"><div class=3D"opblock-summary opblock-summary-get"><button=
- aria-label=3D"get =E2=80=8B/api=E2=80=8B/user=E2=80=8B/playlists" aria-exp=
-anded=3D"false" class=3D"opblock-summary-control"><span class=3D"opblock-su=
-mmary-method">GET</span><span class=3D"opblock-summary-path" data-path=3D"/=
-api/user/playlists"><a class=3D"nostyle"><span>/api<wbr>/user<wbr>/playlist=
-s</span></a></span><div class=3D"opblock-summary-description">Get user play=
-lists</div></button><div class=3D"view-line-link copy-to-clipboard" title=
+n"><button aria-label=3D"delete =E2=80=8B/api=E2=80=8B/song" class=3D"opblo=
+ck-control-arrow" aria-expanded=3D"false" tabindex=3D"-1"><svg xmlns=3D"htt=
+p://www.w3.org/2000/svg" viewBox=3D"0 0 20 20" class=3D"arrow" width=3D"20"=
+ height=3D"20" aria-hidden=3D"true" focusable=3D"false"><path d=3D"M17.418 =
+6.109c.272-.268.709-.268.979 0s.271.701 0 .969l-7.908 7.83c-.27.268-.707.26=
+8-.979 0l-7.908-7.83c-.27-.268-.27-.701 0-.969.271-.268.709-.268.979 0L10 1=
+3.25l7.418-7.141z"></path></svg></button></div></div></span><span><div clas=
+s=3D"opblock opblock-put" id=3D"operations-song-updateSong"><div class=3D"o=
+pblock-summary opblock-summary-put"><button aria-label=3D"put =E2=80=8B/api=
+=E2=80=8B/song" aria-expanded=3D"false" class=3D"opblock-summary-control"><=
+span class=3D"opblock-summary-method">PUT</span><span class=3D"opblock-summ=
+ary-path" data-path=3D"/api/song"><a class=3D"nostyle"><span>/api<wbr>/song=
+</span></a></span><div class=3D"opblock-summary-description">Update song</d=
+iv></button><div class=3D"view-line-link copy-to-clipboard" title=3D"Copy t=
+o clipboard"><svg xmlns=3D"http://www.w3.org/2000/svg" viewBox=3D"0 0 15 16=
+" width=3D"15" height=3D"16" aria-hidden=3D"true" focusable=3D"false"><g tr=
+ansform=3D"translate(2, -1)"><path fill=3D"#ffffff" fill-rule=3D"evenodd" d=
+=3D"M2 13h4v1H2v-1zm5-6H2v1h5V7zm2 3V8l-3 3 3 3v-2h5v-2H9zM4.5 9H2v1h2.5V9z=
+M2 12h2.5v-1H2v1zm9 1h1v2c-.02.28-.11.52-.3.7-.19.18-.42.28-.7.3H1c-.55 0-1=
+-.45-1-1V4c0-.55.45-1 1-1h3c0-1.11.89-2 2-2 1.11 0 2 .89 2 2h3c.55 0 1 .45 =
+1 1v5h-1V6H1v9h10v-2zM2 5h8c0-.55-.45-1-1-1H8c-.55 0-1-.45-1-1s-.45-1-1-1-1=
+ .45-1 1-.45 1-1 1H3c-.55 0-1 .45-1 1z"></path></g></svg></div><img src=3D"=
+data:image/svg+xml;base64,PHN2ZyB2ZXJzaW9uPSIxLjEiIGlkPSJMYXllcl8xIiB4bWxuc=
+z0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHhtbG5zOnhsaW5rPSJodHRwOi8vd3d3Lncz=
+Lm9yZy8xOTk5L3hsaW5rIiB4PSIwcHgiIHk9IjBweCIgdmlld0JveD0iMCAwIDI0IDI0IiBlbmF=
+ibGUtYmFja2dyb3VuZD0ibmV3IDAgMCAyNCAyNCIgeG1sOnNwYWNlPSJwcmVzZXJ2ZSI+CjxwYX=
+RoIGQ9Ik0xOSA3djRINS44M2wzLjU4LTMuNTlMOCA2bC02IDYgNiA2IDEuNDEtMS40MUw1LjgzI=
+DEzSDIxVjd6Ii8+Cjwvc3ZnPgo=3D" class=3D"view-line-link" title=3D"Jump to de=
+finition"><button aria-label=3D"put =E2=80=8B/api=E2=80=8B/song" class=3D"o=
+pblock-control-arrow" aria-expanded=3D"false" tabindex=3D"-1"><svg xmlns=3D=
+"http://www.w3.org/2000/svg" viewBox=3D"0 0 20 20" class=3D"arrow" width=3D=
+"20" height=3D"20" aria-hidden=3D"true" focusable=3D"false"><path d=3D"M17.=
+418 6.109c.272-.268.709-.268.979 0s.271.701 0 .969l-7.908 7.83c-.27.268-.70=
+7.268-.979 0l-7.908-7.83c-.27-.268-.27-.701 0-.969.271-.268.709-.268.979 0L=
+10 13.25l7.418-7.141z"></path></svg></button></div></div></span></div> </di=
+v></div></span><span><div class=3D"opblock-tag-section is-open"><h3 class=
+=3D"opblock-tag" id=3D"operations-tag-playlist" data-tag=3D"playlist" data-=
+is-open=3D"true"><a class=3D"nostyle"><span>playlist</span></a><small><div =
+class=3D"renderedMarkdown"><p>Operations about playlist</p></div></small><b=
+utton aria-expanded=3D"true" class=3D"expand-operation" title=3D"Collapse o=
+peration"><svg xmlns=3D"http://www.w3.org/2000/svg" viewBox=3D"0 0 20 20" c=
+lass=3D"arrow" width=3D"20" height=3D"20" aria-hidden=3D"true" focusable=3D=
+"false"><path d=3D"M 17.418 14.908 C 17.69 15.176 18.127 15.176 18.397 14.9=
+08 C 18.667 14.64 18.668 14.207 18.397 13.939 L 10.489 6.109 C 10.219 5.841=
+ 9.782 5.841 9.51 6.109 L 1.602 13.939 C 1.332 14.207 1.332 14.64 1.602 14.=
+908 C 1.873 15.176 2.311 15.176 2.581 14.908 L 10 7.767 L 17.418 14.908 Z">=
+</path></svg></button></h3><div class=3D"no-margin"> <div class=3D"operatio=
+n-tag-content"><span><div class=3D"opblock opblock-post" id=3D"operations-p=
+laylist-addPlaylist"><div class=3D"opblock-summary opblock-summary-post"><b=
+utton aria-label=3D"post =E2=80=8B/api=E2=80=8B/playlist" aria-expanded=3D"=
+false" class=3D"opblock-summary-control"><span class=3D"opblock-summary-met=
+hod">POST</span><span class=3D"opblock-summary-path" data-path=3D"/api/play=
+list"><a class=3D"nostyle"><span>/api<wbr>/playlist</span></a></span><div c=
+lass=3D"opblock-summary-description">Add new playlist</div></button><div cl=
+ass=3D"view-line-link copy-to-clipboard" title=3D"Copy to clipboard"><svg x=
+mlns=3D"http://www.w3.org/2000/svg" viewBox=3D"0 0 15 16" width=3D"15" heig=
+ht=3D"16" aria-hidden=3D"true" focusable=3D"false"><g transform=3D"translat=
+e(2, -1)"><path fill=3D"#ffffff" fill-rule=3D"evenodd" d=3D"M2 13h4v1H2v-1z=
+m5-6H2v1h5V7zm2 3V8l-3 3 3 3v-2h5v-2H9zM4.5 9H2v1h2.5V9zM2 12h2.5v-1H2v1zm9=
+ 1h1v2c-.02.28-.11.52-.3.7-.19.18-.42.28-.7.3H1c-.55 0-1-.45-1-1V4c0-.55.45=
+-1 1-1h3c0-1.11.89-2 2-2 1.11 0 2 .89 2 2h3c.55 0 1 .45 1 1v5h-1V6H1v9h10v-=
+2zM2 5h8c0-.55-.45-1-1-1H8c-.55 0-1-.45-1-1s-.45-1-1-1-1 .45-1 1-.45 1-1 1H=
+3c-.55 0-1 .45-1 1z"></path></g></svg></div><img src=3D"data:image/svg+xml;=
+base64,PHN2ZyB2ZXJzaW9uPSIxLjEiIGlkPSJMYXllcl8xIiB4bWxucz0iaHR0cDovL3d3dy53=
+My5vcmcvMjAwMC9zdmciIHhtbG5zOnhsaW5rPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5L3hsaW5=
+rIiB4PSIwcHgiIHk9IjBweCIgdmlld0JveD0iMCAwIDI0IDI0IiBlbmFibGUtYmFja2dyb3VuZD=
+0ibmV3IDAgMCAyNCAyNCIgeG1sOnNwYWNlPSJwcmVzZXJ2ZSI+CjxwYXRoIGQ9Ik0xOSA3djRIN=
+S44M2wzLjU4LTMuNTlMOCA2bC02IDYgNiA2IDEuNDEtMS40MUw1LjgzIDEzSDIxVjd6Ii8+Cjwv=
+c3ZnPgo=3D" class=3D"view-line-link" title=3D"Jump to definition"><button a=
+ria-label=3D"post =E2=80=8B/api=E2=80=8B/playlist" class=3D"opblock-control=
+-arrow" aria-expanded=3D"false" tabindex=3D"-1"><svg xmlns=3D"http://www.w3=
+.org/2000/svg" viewBox=3D"0 0 20 20" class=3D"arrow" width=3D"20" height=3D=
+"20" aria-hidden=3D"true" focusable=3D"false"><path d=3D"M17.418 6.109c.272=
+-.268.709-.268.979 0s.271.701 0 .969l-7.908 7.83c-.27.268-.707.268-.979 0l-=
+7.908-7.83c-.27-.268-.27-.701 0-.969.271-.268.709-.268.979 0L10 13.25l7.418=
+-7.141z"></path></svg></button></div></div></span><span><div class=3D"opblo=
+ck opblock-get" id=3D"operations-playlist-getPlaylist"><div class=3D"opbloc=
+k-summary opblock-summary-get"><button aria-label=3D"get =E2=80=8B/api=E2=
+=80=8B/playlist" aria-expanded=3D"false" class=3D"opblock-summary-control">=
+<span class=3D"opblock-summary-method">GET</span><span class=3D"opblock-sum=
+mary-path" data-path=3D"/api/playlist"><a class=3D"nostyle"><span>/api<wbr>=
+/playlist</span></a></span><div class=3D"opblock-summary-description">Get p=
+laylist by playlist id</div></button><div class=3D"view-line-link copy-to-c=
+lipboard" title=3D"Copy to clipboard"><svg xmlns=3D"http://www.w3.org/2000/=
+svg" viewBox=3D"0 0 15 16" width=3D"15" height=3D"16" aria-hidden=3D"true" =
+focusable=3D"false"><g transform=3D"translate(2, -1)"><path fill=3D"#ffffff=
+" fill-rule=3D"evenodd" d=3D"M2 13h4v1H2v-1zm5-6H2v1h5V7zm2 3V8l-3 3 3 3v-2=
+h5v-2H9zM4.5 9H2v1h2.5V9zM2 12h2.5v-1H2v1zm9 1h1v2c-.02.28-.11.52-.3.7-.19.=
+18-.42.28-.7.3H1c-.55 0-1-.45-1-1V4c0-.55.45-1 1-1h3c0-1.11.89-2 2-2 1.11 0=
+ 2 .89 2 2h3c.55 0 1 .45 1 1v5h-1V6H1v9h10v-2zM2 5h8c0-.55-.45-1-1-1H8c-.55=
+ 0-1-.45-1-1s-.45-1-1-1-1 .45-1 1-.45 1-1 1H3c-.55 0-1 .45-1 1z"></path></g=
+></svg></div><img src=3D"data:image/svg+xml;base64,PHN2ZyB2ZXJzaW9uPSIxLjEi=
+IGlkPSJMYXllcl8xIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHhtbG5zOnh=
+saW5rPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5L3hsaW5rIiB4PSIwcHgiIHk9IjBweCIgdmlld0=
+JveD0iMCAwIDI0IDI0IiBlbmFibGUtYmFja2dyb3VuZD0ibmV3IDAgMCAyNCAyNCIgeG1sOnNwY=
+WNlPSJwcmVzZXJ2ZSI+CjxwYXRoIGQ9Ik0xOSA3djRINS44M2wzLjU4LTMuNTlMOCA2bC02IDYg=
+NiA2IDEuNDEtMS40MUw1LjgzIDEzSDIxVjd6Ii8+Cjwvc3ZnPgo=3D" class=3D"view-line-=
+link" title=3D"Jump to definition"><button aria-label=3D"get =E2=80=8B/api=
+=E2=80=8B/playlist" class=3D"opblock-control-arrow" aria-expanded=3D"false"=
+ tabindex=3D"-1"><svg xmlns=3D"http://www.w3.org/2000/svg" viewBox=3D"0 0 2=
+0 20" class=3D"arrow" width=3D"20" height=3D"20" aria-hidden=3D"true" focus=
+able=3D"false"><path d=3D"M17.418 6.109c.272-.268.709-.268.979 0s.271.701 0=
+ .969l-7.908 7.83c-.27.268-.707.268-.979 0l-7.908-7.83c-.27-.268-.27-.701 0=
+-.969.271-.268.709-.268.979 0L10 13.25l7.418-7.141z"></path></svg></button>=
+</div></div></span><span><div class=3D"opblock opblock-delete" id=3D"operat=
+ions-playlist-deletePlaylist"><div class=3D"opblock-summary opblock-summary=
+-delete"><button aria-label=3D"delete =E2=80=8B/api=E2=80=8B/playlist" aria=
+-expanded=3D"false" class=3D"opblock-summary-control"><span class=3D"opbloc=
+k-summary-method">DELETE</span><span class=3D"opblock-summary-path" data-pa=
+th=3D"/api/playlist"><a class=3D"nostyle"><span>/api<wbr>/playlist</span></=
+a></span><div class=3D"opblock-summary-description">Delete playlist by play=
+list id</div></button><div class=3D"view-line-link copy-to-clipboard" title=
 =3D"Copy to clipboard"><svg xmlns=3D"http://www.w3.org/2000/svg" viewBox=3D=
 "0 0 15 16" width=3D"15" height=3D"16" aria-hidden=3D"true" focusable=3D"fa=
 lse"><g transform=3D"translate(2, -1)"><path fill=3D"#ffffff" fill-rule=3D"=
@@ -842,286 +1132,263 @@ xIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHhtbG5zOnhsaW5rPSJodHRwOi=
 DI0IiBlbmFibGUtYmFja2dyb3VuZD0ibmV3IDAgMCAyNCAyNCIgeG1sOnNwYWNlPSJwcmVzZXJ2=
 ZSI+CjxwYXRoIGQ9Ik0xOSA3djRINS44M2wzLjU4LTMuNTlMOCA2bC02IDYgNiA2IDEuNDEtMS4=
 0MUw1LjgzIDEzSDIxVjd6Ii8+Cjwvc3ZnPgo=3D" class=3D"view-line-link" title=3D"=
-Jump to definition"><button aria-label=3D"get =E2=80=8B/api=E2=80=8B/user=
-=E2=80=8B/playlists" class=3D"opblock-control-arrow" aria-expanded=3D"false=
-" tabindex=3D"-1"><svg xmlns=3D"http://www.w3.org/2000/svg" viewBox=3D"0 0 =
-20 20" class=3D"arrow" width=3D"20" height=3D"20" aria-hidden=3D"true" focu=
-sable=3D"false"><path d=3D"M17.418 6.109c.272-.268.709-.268.979 0s.271.701 =
-0 .969l-7.908 7.83c-.27.268-.707.268-.979 0l-7.908-7.83c-.27-.268-.27-.701 =
-0-.969.271-.268.709-.268.979 0L10 13.25l7.418-7.141z"></path></svg></button=
-></div></div></span></div> </div></div></span><span><div class=3D"opblock-t=
-ag-section is-open"><h3 class=3D"opblock-tag" id=3D"operations-tag-spotify"=
- data-tag=3D"spotify" data-is-open=3D"true"><a class=3D"nostyle"><span>spot=
-ify</span></a><small><div class=3D"renderedMarkdown"><p>Connect on spotify =
-account</p></div></small><button aria-expanded=3D"true" class=3D"expand-ope=
-ration" title=3D"Collapse operation"><svg xmlns=3D"http://www.w3.org/2000/s=
-vg" viewBox=3D"0 0 20 20" class=3D"arrow" width=3D"20" height=3D"20" aria-h=
-idden=3D"true" focusable=3D"false"><path d=3D"M 17.418 14.908 C 17.69 15.17=
-6 18.127 15.176 18.397 14.908 C 18.667 14.64 18.668 14.207 18.397 13.939 L =
-10.489 6.109 C 10.219 5.841 9.782 5.841 9.51 6.109 L 1.602 13.939 C 1.332 1=
-4.207 1.332 14.64 1.602 14.908 C 1.873 15.176 2.311 15.176 2.581 14.908 L 1=
-0 7.767 L 17.418 14.908 Z"></path></svg></button></h3><div class=3D"no-marg=
-in"> <div class=3D"operation-tag-content"><span><div class=3D"opblock opblo=
-ck-get" id=3D"operations-spotify-spotifyLogin"><div class=3D"opblock-summar=
-y opblock-summary-get"><button aria-label=3D"get =E2=80=8B/api=E2=80=8B/spo=
-tify=E2=80=8B/login" aria-expanded=3D"false" class=3D"opblock-summary-contr=
-ol"><span class=3D"opblock-summary-method">GET</span><span class=3D"opblock=
--summary-path" data-path=3D"/api/spotify/login"><a class=3D"nostyle"><span>=
-/api<wbr>/spotify<wbr>/login</span></a></span><div class=3D"opblock-summary=
--description">Log user on spotify account</div></button><div class=3D"view-=
-line-link copy-to-clipboard" title=3D"Copy to clipboard"><svg xmlns=3D"http=
-://www.w3.org/2000/svg" viewBox=3D"0 0 15 16" width=3D"15" height=3D"16" ar=
-ia-hidden=3D"true" focusable=3D"false"><g transform=3D"translate(2, -1)"><p=
-ath fill=3D"#ffffff" fill-rule=3D"evenodd" d=3D"M2 13h4v1H2v-1zm5-6H2v1h5V7=
-zm2 3V8l-3 3 3 3v-2h5v-2H9zM4.5 9H2v1h2.5V9zM2 12h2.5v-1H2v1zm9 1h1v2c-.02.=
-28-.11.52-.3.7-.19.18-.42.28-.7.3H1c-.55 0-1-.45-1-1V4c0-.55.45-1 1-1h3c0-1=
-.11.89-2 2-2 1.11 0 2 .89 2 2h3c.55 0 1 .45 1 1v5h-1V6H1v9h10v-2zM2 5h8c0-.=
-55-.45-1-1-1H8c-.55 0-1-.45-1-1s-.45-1-1-1-1 .45-1 1-.45 1-1 1H3c-.55 0-1 .=
-45-1 1z"></path></g></svg></div><img src=3D"data:image/svg+xml;base64,PHN2Z=
-yB2ZXJzaW9uPSIxLjEiIGlkPSJMYXllcl8xIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAw=
-MC9zdmciIHhtbG5zOnhsaW5rPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5L3hsaW5rIiB4PSIwcHg=
-iIHk9IjBweCIgdmlld0JveD0iMCAwIDI0IDI0IiBlbmFibGUtYmFja2dyb3VuZD0ibmV3IDAgMC=
-AyNCAyNCIgeG1sOnNwYWNlPSJwcmVzZXJ2ZSI+CjxwYXRoIGQ9Ik0xOSA3djRINS44M2wzLjU4L=
-TMuNTlMOCA2bC02IDYgNiA2IDEuNDEtMS40MUw1LjgzIDEzSDIxVjd6Ii8+Cjwvc3ZnPgo=3D" =
-class=3D"view-line-link" title=3D"Jump to definition"><button aria-label=3D=
-"get =E2=80=8B/api=E2=80=8B/spotify=E2=80=8B/login" class=3D"opblock-contro=
-l-arrow" aria-expanded=3D"false" tabindex=3D"-1"><svg xmlns=3D"http://www.w=
-3.org/2000/svg" viewBox=3D"0 0 20 20" class=3D"arrow" width=3D"20" height=
-=3D"20" aria-hidden=3D"true" focusable=3D"false"><path d=3D"M17.418 6.109c.=
-272-.268.709-.268.979 0s.271.701 0 .969l-7.908 7.83c-.27.268-.707.268-.979 =
-0l-7.908-7.83c-.27-.268-.27-.701 0-.969.271-.268.709-.268.979 0L10 13.25l7.=
-418-7.141z"></path></svg></button></div></div></span><span><div class=3D"op=
-block opblock-get" id=3D"operations-spotify-spotifyToken"><div class=3D"opb=
-lock-summary opblock-summary-get"><button aria-label=3D"get =E2=80=8B/api=
-=E2=80=8B/spotify=E2=80=8B/getToken" aria-expanded=3D"false" class=3D"opblo=
-ck-summary-control"><span class=3D"opblock-summary-method">GET</span><span =
-class=3D"opblock-summary-path" data-path=3D"/api/spotify/getToken"><a class=
-=3D"nostyle"><span>/api<wbr>/spotify<wbr>/getToken</span></a></span><div cl=
-ass=3D"opblock-summary-description">Get user token on spotify account</div>=
-</button><div class=3D"view-line-link copy-to-clipboard" title=3D"Copy to c=
-lipboard"><svg xmlns=3D"http://www.w3.org/2000/svg" viewBox=3D"0 0 15 16" w=
-idth=3D"15" height=3D"16" aria-hidden=3D"true" focusable=3D"false"><g trans=
-form=3D"translate(2, -1)"><path fill=3D"#ffffff" fill-rule=3D"evenodd" d=3D=
-"M2 13h4v1H2v-1zm5-6H2v1h5V7zm2 3V8l-3 3 3 3v-2h5v-2H9zM4.5 9H2v1h2.5V9zM2 =
-12h2.5v-1H2v1zm9 1h1v2c-.02.28-.11.52-.3.7-.19.18-.42.28-.7.3H1c-.55 0-1-.4=
-5-1-1V4c0-.55.45-1 1-1h3c0-1.11.89-2 2-2 1.11 0 2 .89 2 2h3c.55 0 1 .45 1 1=
-v5h-1V6H1v9h10v-2zM2 5h8c0-.55-.45-1-1-1H8c-.55 0-1-.45-1-1s-.45-1-1-1-1 .4=
-5-1 1-.45 1-1 1H3c-.55 0-1 .45-1 1z"></path></g></svg></div><img src=3D"dat=
-a:image/svg+xml;base64,PHN2ZyB2ZXJzaW9uPSIxLjEiIGlkPSJMYXllcl8xIiB4bWxucz0i=
-aHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHhtbG5zOnhsaW5rPSJodHRwOi8vd3d3LnczLm9=
-yZy8xOTk5L3hsaW5rIiB4PSIwcHgiIHk9IjBweCIgdmlld0JveD0iMCAwIDI0IDI0IiBlbmFibG=
-UtYmFja2dyb3VuZD0ibmV3IDAgMCAyNCAyNCIgeG1sOnNwYWNlPSJwcmVzZXJ2ZSI+CjxwYXRoI=
-GQ9Ik0xOSA3djRINS44M2wzLjU4LTMuNTlMOCA2bC02IDYgNiA2IDEuNDEtMS40MUw1LjgzIDEz=
-SDIxVjd6Ii8+Cjwvc3ZnPgo=3D" class=3D"view-line-link" title=3D"Jump to defin=
-ition"><button aria-label=3D"get =E2=80=8B/api=E2=80=8B/spotify=E2=80=8B/ge=
-tToken" class=3D"opblock-control-arrow" aria-expanded=3D"false" tabindex=3D=
-"-1"><svg xmlns=3D"http://www.w3.org/2000/svg" viewBox=3D"0 0 20 20" class=
+Jump to definition"><button aria-label=3D"delete =E2=80=8B/api=E2=80=8B/pla=
+ylist" class=3D"opblock-control-arrow" aria-expanded=3D"false" tabindex=3D"=
+-1"><svg xmlns=3D"http://www.w3.org/2000/svg" viewBox=3D"0 0 20 20" class=
 =3D"arrow" width=3D"20" height=3D"20" aria-hidden=3D"true" focusable=3D"fal=
 se"><path d=3D"M17.418 6.109c.272-.268.709-.268.979 0s.271.701 0 .969l-7.90=
 8 7.83c-.27.268-.707.268-.979 0l-7.908-7.83c-.27-.268-.27-.701 0-.969.271-.=
 268.709-.268.979 0L10 13.25l7.418-7.141z"></path></svg></button></div></div=
-></span></div> </div></div></span><span><div class=3D"opblock-tag-section i=
-s-open"><h3 class=3D"opblock-tag" id=3D"operations-tag-song" data-tag=3D"so=
-ng" data-is-open=3D"true"><a class=3D"nostyle"><span>song</span></a><small>=
-<div class=3D"renderedMarkdown"><p>Operations about song</p></div></small><=
-button aria-expanded=3D"true" class=3D"expand-operation" title=3D"Collapse =
-operation"><svg xmlns=3D"http://www.w3.org/2000/svg" viewBox=3D"0 0 20 20" =
-class=3D"arrow" width=3D"20" height=3D"20" aria-hidden=3D"true" focusable=
-=3D"false"><path d=3D"M 17.418 14.908 C 17.69 15.176 18.127 15.176 18.397 1=
-4.908 C 18.667 14.64 18.668 14.207 18.397 13.939 L 10.489 6.109 C 10.219 5.=
-841 9.782 5.841 9.51 6.109 L 1.602 13.939 C 1.332 14.207 1.332 14.64 1.602 =
-14.908 C 1.873 15.176 2.311 15.176 2.581 14.908 L 10 7.767 L 17.418 14.908 =
-Z"></path></svg></button></h3><div class=3D"no-margin"> <div class=3D"opera=
-tion-tag-content"><span><div class=3D"opblock opblock-post" id=3D"operation=
-s-song-addSong"><div class=3D"opblock-summary opblock-summary-post"><button=
- aria-label=3D"post =E2=80=8B/api=E2=80=8B/song" aria-expanded=3D"false" cl=
-ass=3D"opblock-summary-control"><span class=3D"opblock-summary-method">POST=
-</span><span class=3D"opblock-summary-path" data-path=3D"/api/song"><a clas=
-s=3D"nostyle"><span>/api<wbr>/song</span></a></span><div class=3D"opblock-s=
-ummary-description">Add new song</div></button><div class=3D"view-line-link=
- copy-to-clipboard" title=3D"Copy to clipboard"><svg xmlns=3D"http://www.w3=
-.org/2000/svg" viewBox=3D"0 0 15 16" width=3D"15" height=3D"16" aria-hidden=
-=3D"true" focusable=3D"false"><g transform=3D"translate(2, -1)"><path fill=
-=3D"#ffffff" fill-rule=3D"evenodd" d=3D"M2 13h4v1H2v-1zm5-6H2v1h5V7zm2 3V8l=
--3 3 3 3v-2h5v-2H9zM4.5 9H2v1h2.5V9zM2 12h2.5v-1H2v1zm9 1h1v2c-.02.28-.11.5=
-2-.3.7-.19.18-.42.28-.7.3H1c-.55 0-1-.45-1-1V4c0-.55.45-1 1-1h3c0-1.11.89-2=
- 2-2 1.11 0 2 .89 2 2h3c.55 0 1 .45 1 1v5h-1V6H1v9h10v-2zM2 5h8c0-.55-.45-1=
--1-1H8c-.55 0-1-.45-1-1s-.45-1-1-1-1 .45-1 1-.45 1-1 1H3c-.55 0-1 .45-1 1z"=
-></path></g></svg></div><img src=3D"data:image/svg+xml;base64,PHN2ZyB2ZXJza=
-W9uPSIxLjEiIGlkPSJMYXllcl8xIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmci=
-IHhtbG5zOnhsaW5rPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5L3hsaW5rIiB4PSIwcHgiIHk9IjB=
-weCIgdmlld0JveD0iMCAwIDI0IDI0IiBlbmFibGUtYmFja2dyb3VuZD0ibmV3IDAgMCAyNCAyNC=
-IgeG1sOnNwYWNlPSJwcmVzZXJ2ZSI+CjxwYXRoIGQ9Ik0xOSA3djRINS44M2wzLjU4LTMuNTlMO=
-CA2bC02IDYgNiA2IDEuNDEtMS40MUw1LjgzIDEzSDIxVjd6Ii8+Cjwvc3ZnPgo=3D" class=3D=
-"view-line-link" title=3D"Jump to definition"><button aria-label=3D"post =
-=E2=80=8B/api=E2=80=8B/song" class=3D"opblock-control-arrow" aria-expanded=
-=3D"false" tabindex=3D"-1"><svg xmlns=3D"http://www.w3.org/2000/svg" viewBo=
-x=3D"0 0 20 20" class=3D"arrow" width=3D"20" height=3D"20" aria-hidden=3D"t=
-rue" focusable=3D"false"><path d=3D"M17.418 6.109c.272-.268.709-.268.979 0s=
-.271.701 0 .969l-7.908 7.83c-.27.268-.707.268-.979 0l-7.908-7.83c-.27-.268-=
-.27-.701 0-.969.271-.268.709-.268.979 0L10 13.25l7.418-7.141z"></path></svg=
-></button></div></div></span><span><div class=3D"opblock opblock-get" id=3D=
-"operations-song-getSong"><div class=3D"opblock-summary opblock-summary-get=
-"><button aria-label=3D"get =E2=80=8B/api=E2=80=8B/song" aria-expanded=3D"f=
-alse" class=3D"opblock-summary-control"><span class=3D"opblock-summary-meth=
-od">GET</span><span class=3D"opblock-summary-path" data-path=3D"/api/song">=
-<a class=3D"nostyle"><span>/api<wbr>/song</span></a></span><div class=3D"op=
-block-summary-description">Get song by song id</div></button><div class=3D"=
-view-line-link copy-to-clipboard" title=3D"Copy to clipboard"><svg xmlns=3D=
-"http://www.w3.org/2000/svg" viewBox=3D"0 0 15 16" width=3D"15" height=3D"1=
-6" aria-hidden=3D"true" focusable=3D"false"><g transform=3D"translate(2, -1=
-)"><path fill=3D"#ffffff" fill-rule=3D"evenodd" d=3D"M2 13h4v1H2v-1zm5-6H2v=
-1h5V7zm2 3V8l-3 3 3 3v-2h5v-2H9zM4.5 9H2v1h2.5V9zM2 12h2.5v-1H2v1zm9 1h1v2c=
--.02.28-.11.52-.3.7-.19.18-.42.28-.7.3H1c-.55 0-1-.45-1-1V4c0-.55.45-1 1-1h=
-3c0-1.11.89-2 2-2 1.11 0 2 .89 2 2h3c.55 0 1 .45 1 1v5h-1V6H1v9h10v-2zM2 5h=
-8c0-.55-.45-1-1-1H8c-.55 0-1-.45-1-1s-.45-1-1-1-1 .45-1 1-.45 1-1 1H3c-.55 =
-0-1 .45-1 1z"></path></g></svg></div><img src=3D"data:image/svg+xml;base64,=
-PHN2ZyB2ZXJzaW9uPSIxLjEiIGlkPSJMYXllcl8xIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmc=
-vMjAwMC9zdmciIHhtbG5zOnhsaW5rPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5L3hsaW5rIiB4PS=
-IwcHgiIHk9IjBweCIgdmlld0JveD0iMCAwIDI0IDI0IiBlbmFibGUtYmFja2dyb3VuZD0ibmV3I=
-DAgMCAyNCAyNCIgeG1sOnNwYWNlPSJwcmVzZXJ2ZSI+CjxwYXRoIGQ9Ik0xOSA3djRINS44M2wz=
-LjU4LTMuNTlMOCA2bC02IDYgNiA2IDEuNDEtMS40MUw1LjgzIDEzSDIxVjd6Ii8+Cjwvc3ZnPgo=
+></span><span><div class=3D"opblock opblock-put" id=3D"operations-playlist-=
+updatePlaylist"><div class=3D"opblock-summary opblock-summary-put"><button =
+aria-label=3D"put =E2=80=8B/api=E2=80=8B/playlist" aria-expanded=3D"false" =
+class=3D"opblock-summary-control"><span class=3D"opblock-summary-method">PU=
+T</span><span class=3D"opblock-summary-path" data-path=3D"/api/playlist"><a=
+ class=3D"nostyle"><span>/api<wbr>/playlist</span></a></span><div class=3D"=
+opblock-summary-description">Update playlist</div></button><div class=3D"vi=
+ew-line-link copy-to-clipboard" title=3D"Copy to clipboard"><svg xmlns=3D"h=
+ttp://www.w3.org/2000/svg" viewBox=3D"0 0 15 16" width=3D"15" height=3D"16"=
+ aria-hidden=3D"true" focusable=3D"false"><g transform=3D"translate(2, -1)"=
+><path fill=3D"#ffffff" fill-rule=3D"evenodd" d=3D"M2 13h4v1H2v-1zm5-6H2v1h=
+5V7zm2 3V8l-3 3 3 3v-2h5v-2H9zM4.5 9H2v1h2.5V9zM2 12h2.5v-1H2v1zm9 1h1v2c-.=
+02.28-.11.52-.3.7-.19.18-.42.28-.7.3H1c-.55 0-1-.45-1-1V4c0-.55.45-1 1-1h3c=
+0-1.11.89-2 2-2 1.11 0 2 .89 2 2h3c.55 0 1 .45 1 1v5h-1V6H1v9h10v-2zM2 5h8c=
+0-.55-.45-1-1-1H8c-.55 0-1-.45-1-1s-.45-1-1-1-1 .45-1 1-.45 1-1 1H3c-.55 0-=
+1 .45-1 1z"></path></g></svg></div><img src=3D"data:image/svg+xml;base64,PH=
+N2ZyB2ZXJzaW9uPSIxLjEiIGlkPSJMYXllcl8xIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvM=
+jAwMC9zdmciIHhtbG5zOnhsaW5rPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5L3hsaW5rIiB4PSIw=
+cHgiIHk9IjBweCIgdmlld0JveD0iMCAwIDI0IDI0IiBlbmFibGUtYmFja2dyb3VuZD0ibmV3IDA=
+gMCAyNCAyNCIgeG1sOnNwYWNlPSJwcmVzZXJ2ZSI+CjxwYXRoIGQ9Ik0xOSA3djRINS44M2wzLj=
+U4LTMuNTlMOCA2bC02IDYgNiA2IDEuNDEtMS40MUw1LjgzIDEzSDIxVjd6Ii8+Cjwvc3ZnPgo=
 =3D" class=3D"view-line-link" title=3D"Jump to definition"><button aria-lab=
-el=3D"get =E2=80=8B/api=E2=80=8B/song" class=3D"opblock-control-arrow" aria=
--expanded=3D"false" tabindex=3D"-1"><svg xmlns=3D"http://www.w3.org/2000/sv=
-g" viewBox=3D"0 0 20 20" class=3D"arrow" width=3D"20" height=3D"20" aria-hi=
-dden=3D"true" focusable=3D"false"><path d=3D"M17.418 6.109c.272-.268.709-.2=
-68.979 0s.271.701 0 .969l-7.908 7.83c-.27.268-.707.268-.979 0l-7.908-7.83c-=
-.27-.268-.27-.701 0-.969.271-.268.709-.268.979 0L10 13.25l7.418-7.141z"></p=
-ath></svg></button></div></div></span><span><div class=3D"opblock opblock-d=
-elete" id=3D"operations-song-deleteSong"><div class=3D"opblock-summary opbl=
-ock-summary-delete"><button aria-label=3D"delete =E2=80=8B/api=E2=80=8B/son=
-g" aria-expanded=3D"false" class=3D"opblock-summary-control"><span class=3D=
-"opblock-summary-method">DELETE</span><span class=3D"opblock-summary-path" =
-data-path=3D"/api/song"><a class=3D"nostyle"><span>/api<wbr>/song</span></a=
-></span><div class=3D"opblock-summary-description">Delete song by song id</=
-div></button><div class=3D"view-line-link copy-to-clipboard" title=3D"Copy =
-to clipboard"><svg xmlns=3D"http://www.w3.org/2000/svg" viewBox=3D"0 0 15 1=
-6" width=3D"15" height=3D"16" aria-hidden=3D"true" focusable=3D"false"><g t=
-ransform=3D"translate(2, -1)"><path fill=3D"#ffffff" fill-rule=3D"evenodd" =
-d=3D"M2 13h4v1H2v-1zm5-6H2v1h5V7zm2 3V8l-3 3 3 3v-2h5v-2H9zM4.5 9H2v1h2.5V9=
-zM2 12h2.5v-1H2v1zm9 1h1v2c-.02.28-.11.52-.3.7-.19.18-.42.28-.7.3H1c-.55 0-=
-1-.45-1-1V4c0-.55.45-1 1-1h3c0-1.11.89-2 2-2 1.11 0 2 .89 2 2h3c.55 0 1 .45=
- 1 1v5h-1V6H1v9h10v-2zM2 5h8c0-.55-.45-1-1-1H8c-.55 0-1-.45-1-1s-.45-1-1-1-=
-1 .45-1 1-.45 1-1 1H3c-.55 0-1 .45-1 1z"></path></g></svg></div><img src=3D=
-"data:image/svg+xml;base64,PHN2ZyB2ZXJzaW9uPSIxLjEiIGlkPSJMYXllcl8xIiB4bWxu=
-cz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHhtbG5zOnhsaW5rPSJodHRwOi8vd3d3Lnc=
-zLm9yZy8xOTk5L3hsaW5rIiB4PSIwcHgiIHk9IjBweCIgdmlld0JveD0iMCAwIDI0IDI0IiBlbm=
-FibGUtYmFja2dyb3VuZD0ibmV3IDAgMCAyNCAyNCIgeG1sOnNwYWNlPSJwcmVzZXJ2ZSI+CjxwY=
-XRoIGQ9Ik0xOSA3djRINS44M2wzLjU4LTMuNTlMOCA2bC02IDYgNiA2IDEuNDEtMS40MUw1Ljgz=
-IDEzSDIxVjd6Ii8+Cjwvc3ZnPgo=3D" class=3D"view-line-link" title=3D"Jump to d=
-efinition"><button aria-label=3D"delete =E2=80=8B/api=E2=80=8B/song" class=
-=3D"opblock-control-arrow" aria-expanded=3D"false" tabindex=3D"-1"><svg xml=
-ns=3D"http://www.w3.org/2000/svg" viewBox=3D"0 0 20 20" class=3D"arrow" wid=
-th=3D"20" height=3D"20" aria-hidden=3D"true" focusable=3D"false"><path d=3D=
-"M17.418 6.109c.272-.268.709-.268.979 0s.271.701 0 .969l-7.908 7.83c-.27.26=
-8-.707.268-.979 0l-7.908-7.83c-.27-.268-.27-.701 0-.969.271-.268.709-.268.9=
-79 0L10 13.25l7.418-7.141z"></path></svg></button></div></div></span><span>=
-<div class=3D"opblock opblock-put" id=3D"operations-song-updateSong"><div c=
-lass=3D"opblock-summary opblock-summary-put"><button aria-label=3D"put =E2=
-=80=8B/api=E2=80=8B/song" aria-expanded=3D"false" class=3D"opblock-summary-=
-control"><span class=3D"opblock-summary-method">PUT</span><span class=3D"op=
-block-summary-path" data-path=3D"/api/song"><a class=3D"nostyle"><span>/api=
-<wbr>/song</span></a></span><div class=3D"opblock-summary-description">Upda=
-te song</div></button><div class=3D"view-line-link copy-to-clipboard" title=
-=3D"Copy to clipboard"><svg xmlns=3D"http://www.w3.org/2000/svg" viewBox=3D=
-"0 0 15 16" width=3D"15" height=3D"16" aria-hidden=3D"true" focusable=3D"fa=
-lse"><g transform=3D"translate(2, -1)"><path fill=3D"#ffffff" fill-rule=3D"=
-evenodd" d=3D"M2 13h4v1H2v-1zm5-6H2v1h5V7zm2 3V8l-3 3 3 3v-2h5v-2H9zM4.5 9H=
-2v1h2.5V9zM2 12h2.5v-1H2v1zm9 1h1v2c-.02.28-.11.52-.3.7-.19.18-.42.28-.7.3H=
-1c-.55 0-1-.45-1-1V4c0-.55.45-1 1-1h3c0-1.11.89-2 2-2 1.11 0 2 .89 2 2h3c.5=
-5 0 1 .45 1 1v5h-1V6H1v9h10v-2zM2 5h8c0-.55-.45-1-1-1H8c-.55 0-1-.45-1-1s-.=
-45-1-1-1-1 .45-1 1-.45 1-1 1H3c-.55 0-1 .45-1 1z"></path></g></svg></div><i=
-mg src=3D"data:image/svg+xml;base64,PHN2ZyB2ZXJzaW9uPSIxLjEiIGlkPSJMYXllcl8=
-xIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHhtbG5zOnhsaW5rPSJodHRwOi=
-8vd3d3LnczLm9yZy8xOTk5L3hsaW5rIiB4PSIwcHgiIHk9IjBweCIgdmlld0JveD0iMCAwIDI0I=
-DI0IiBlbmFibGUtYmFja2dyb3VuZD0ibmV3IDAgMCAyNCAyNCIgeG1sOnNwYWNlPSJwcmVzZXJ2=
-ZSI+CjxwYXRoIGQ9Ik0xOSA3djRINS44M2wzLjU4LTMuNTlMOCA2bC02IDYgNiA2IDEuNDEtMS4=
-0MUw1LjgzIDEzSDIxVjd6Ii8+Cjwvc3ZnPgo=3D" class=3D"view-line-link" title=3D"=
-Jump to definition"><button aria-label=3D"put =E2=80=8B/api=E2=80=8B/song" =
-class=3D"opblock-control-arrow" aria-expanded=3D"false" tabindex=3D"-1"><sv=
+el=3D"put =E2=80=8B/api=E2=80=8B/playlist" class=3D"opblock-control-arrow" =
+aria-expanded=3D"false" tabindex=3D"-1"><svg xmlns=3D"http://www.w3.org/200=
+0/svg" viewBox=3D"0 0 20 20" class=3D"arrow" width=3D"20" height=3D"20" ari=
+a-hidden=3D"true" focusable=3D"false"><path d=3D"M17.418 6.109c.272-.268.70=
+9-.268.979 0s.271.701 0 .969l-7.908 7.83c-.27.268-.707.268-.979 0l-7.908-7.=
+83c-.27-.268-.27-.701 0-.969.271-.268.709-.268.979 0L10 13.25l7.418-7.141z"=
+></path></svg></button></div></div></span></div> </div></div></span><span><=
+div class=3D"opblock-tag-section is-open"><h3 class=3D"opblock-tag no-desc"=
+ id=3D"operations-tag-Last\.fm" data-tag=3D"Last.fm" data-is-open=3D"true">=
+<a class=3D"nostyle"><span>Last.fm</span></a><small></small><button aria-ex=
+panded=3D"true" class=3D"expand-operation" title=3D"Collapse operation"><sv=
 g xmlns=3D"http://www.w3.org/2000/svg" viewBox=3D"0 0 20 20" class=3D"arrow=
 " width=3D"20" height=3D"20" aria-hidden=3D"true" focusable=3D"false"><path=
- d=3D"M17.418 6.109c.272-.268.709-.268.979 0s.271.701 0 .969l-7.908 7.83c-.=
-27.268-.707.268-.979 0l-7.908-7.83c-.27-.268-.27-.701 0-.969.271-.268.709-.=
-268.979 0L10 13.25l7.418-7.141z"></path></svg></button></div></div></span><=
-/div> </div></div></span><span><div class=3D"opblock-tag-section is-open"><=
-h3 class=3D"opblock-tag" id=3D"operations-tag-playlist" data-tag=3D"playlis=
-t" data-is-open=3D"true"><a class=3D"nostyle"><span>playlist</span></a><sma=
-ll><div class=3D"renderedMarkdown"><p>Operations about playlist</p></div></=
-small><button aria-expanded=3D"true" class=3D"expand-operation" title=3D"Co=
-llapse operation"><svg xmlns=3D"http://www.w3.org/2000/svg" viewBox=3D"0 0 =
-20 20" class=3D"arrow" width=3D"20" height=3D"20" aria-hidden=3D"true" focu=
-sable=3D"false"><path d=3D"M 17.418 14.908 C 17.69 15.176 18.127 15.176 18.=
-397 14.908 C 18.667 14.64 18.668 14.207 18.397 13.939 L 10.489 6.109 C 10.2=
-19 5.841 9.782 5.841 9.51 6.109 L 1.602 13.939 C 1.332 14.207 1.332 14.64 1=
-.602 14.908 C 1.873 15.176 2.311 15.176 2.581 14.908 L 10 7.767 L 17.418 14=
-.908 Z"></path></svg></button></h3><div class=3D"no-margin"> <div class=3D"=
-operation-tag-content"><span><div class=3D"opblock opblock-post" id=3D"oper=
-ations-playlist-addPlaylist"><div class=3D"opblock-summary opblock-summary-=
-post"><button aria-label=3D"post =E2=80=8B/api=E2=80=8B/playlist" aria-expa=
-nded=3D"false" class=3D"opblock-summary-control"><span class=3D"opblock-sum=
-mary-method">POST</span><span class=3D"opblock-summary-path" data-path=3D"/=
-api/playlist"><a class=3D"nostyle"><span>/api<wbr>/playlist</span></a></spa=
-n><div class=3D"opblock-summary-description">Add new playlist</div></button=
-><div class=3D"view-line-link copy-to-clipboard" title=3D"Copy to clipboard=
-"><svg xmlns=3D"http://www.w3.org/2000/svg" viewBox=3D"0 0 15 16" width=3D"=
-15" height=3D"16" aria-hidden=3D"true" focusable=3D"false"><g transform=3D"=
-translate(2, -1)"><path fill=3D"#ffffff" fill-rule=3D"evenodd" d=3D"M2 13h4=
-v1H2v-1zm5-6H2v1h5V7zm2 3V8l-3 3 3 3v-2h5v-2H9zM4.5 9H2v1h2.5V9zM2 12h2.5v-=
-1H2v1zm9 1h1v2c-.02.28-.11.52-.3.7-.19.18-.42.28-.7.3H1c-.55 0-1-.45-1-1V4c=
-0-.55.45-1 1-1h3c0-1.11.89-2 2-2 1.11 0 2 .89 2 2h3c.55 0 1 .45 1 1v5h-1V6H=
-1v9h10v-2zM2 5h8c0-.55-.45-1-1-1H8c-.55 0-1-.45-1-1s-.45-1-1-1-1 .45-1 1-.4=
-5 1-1 1H3c-.55 0-1 .45-1 1z"></path></g></svg></div><img src=3D"data:image/=
-svg+xml;base64,PHN2ZyB2ZXJzaW9uPSIxLjEiIGlkPSJMYXllcl8xIiB4bWxucz0iaHR0cDov=
-L3d3dy53My5vcmcvMjAwMC9zdmciIHhtbG5zOnhsaW5rPSJodHRwOi8vd3d3LnczLm9yZy8xOTk=
-5L3hsaW5rIiB4PSIwcHgiIHk9IjBweCIgdmlld0JveD0iMCAwIDI0IDI0IiBlbmFibGUtYmFja2=
-dyb3VuZD0ibmV3IDAgMCAyNCAyNCIgeG1sOnNwYWNlPSJwcmVzZXJ2ZSI+CjxwYXRoIGQ9Ik0xO=
-SA3djRINS44M2wzLjU4LTMuNTlMOCA2bC02IDYgNiA2IDEuNDEtMS40MUw1LjgzIDEzSDIxVjd6=
-Ii8+Cjwvc3ZnPgo=3D" class=3D"view-line-link" title=3D"Jump to definition"><=
-button aria-label=3D"post =E2=80=8B/api=E2=80=8B/playlist" class=3D"opblock=
--control-arrow" aria-expanded=3D"false" tabindex=3D"-1"><svg xmlns=3D"http:=
-//www.w3.org/2000/svg" viewBox=3D"0 0 20 20" class=3D"arrow" width=3D"20" h=
-eight=3D"20" aria-hidden=3D"true" focusable=3D"false"><path d=3D"M17.418 6.=
-109c.272-.268.709-.268.979 0s.271.701 0 .969l-7.908 7.83c-.27.268-.707.268-=
-.979 0l-7.908-7.83c-.27-.268-.27-.701 0-.969.271-.268.709-.268.979 0L10 13.=
-25l7.418-7.141z"></path></svg></button></div></div></span><span><div class=
-=3D"opblock opblock-get" id=3D"operations-playlist-getPlaylist"><div class=
-=3D"opblock-summary opblock-summary-get"><button aria-label=3D"get =E2=80=
-=8B/api=E2=80=8B/playlist" aria-expanded=3D"false" class=3D"opblock-summary=
--control"><span class=3D"opblock-summary-method">GET</span><span class=3D"o=
-pblock-summary-path" data-path=3D"/api/playlist"><a class=3D"nostyle"><span=
->/api<wbr>/playlist</span></a></span><div class=3D"opblock-summary-descript=
-ion">Get playlist by playlist id</div></button><div class=3D"view-line-link=
- copy-to-clipboard" title=3D"Copy to clipboard"><svg xmlns=3D"http://www.w3=
-.org/2000/svg" viewBox=3D"0 0 15 16" width=3D"15" height=3D"16" aria-hidden=
-=3D"true" focusable=3D"false"><g transform=3D"translate(2, -1)"><path fill=
-=3D"#ffffff" fill-rule=3D"evenodd" d=3D"M2 13h4v1H2v-1zm5-6H2v1h5V7zm2 3V8l=
--3 3 3 3v-2h5v-2H9zM4.5 9H2v1h2.5V9zM2 12h2.5v-1H2v1zm9 1h1v2c-.02.28-.11.5=
-2-.3.7-.19.18-.42.28-.7.3H1c-.55 0-1-.45-1-1V4c0-.55.45-1 1-1h3c0-1.11.89-2=
- 2-2 1.11 0 2 .89 2 2h3c.55 0 1 .45 1 1v5h-1V6H1v9h10v-2zM2 5h8c0-.55-.45-1=
--1-1H8c-.55 0-1-.45-1-1s-.45-1-1-1-1 .45-1 1-.45 1-1 1H3c-.55 0-1 .45-1 1z"=
-></path></g></svg></div><img src=3D"data:image/svg+xml;base64,PHN2ZyB2ZXJza=
-W9uPSIxLjEiIGlkPSJMYXllcl8xIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmci=
-IHhtbG5zOnhsaW5rPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5L3hsaW5rIiB4PSIwcHgiIHk9IjB=
-weCIgdmlld0JveD0iMCAwIDI0IDI0IiBlbmFibGUtYmFja2dyb3VuZD0ibmV3IDAgMCAyNCAyNC=
-IgeG1sOnNwYWNlPSJwcmVzZXJ2ZSI+CjxwYXRoIGQ9Ik0xOSA3djRINS44M2wzLjU4LTMuNTlMO=
-CA2bC02IDYgNiA2IDEuNDEtMS40MUw1LjgzIDEzSDIxVjd6Ii8+Cjwvc3ZnPgo=3D" class=3D=
-"view-line-link" title=3D"Jump to definition"><button aria-label=3D"get =E2=
-=80=8B/api=E2=80=8B/playlist" class=3D"opblock-control-arrow" aria-expanded=
-=3D"false" tabindex=3D"-1"><svg xmlns=3D"http://www.w3.org/2000/svg" viewBo=
-x=3D"0 0 20 20" class=3D"arrow" width=3D"20" height=3D"20" aria-hidden=3D"t=
-rue" focusable=3D"false"><path d=3D"M17.418 6.109c.272-.268.709-.268.979 0s=
-.271.701 0 .969l-7.908 7.83c-.27.268-.707.268-.979 0l-7.908-7.83c-.27-.268-=
-.27-.701 0-.969.271-.268.709-.268.979 0L10 13.25l7.418-7.141z"></path></svg=
-></button></div></div></span><span><div class=3D"opblock opblock-delete" id=
-=3D"operations-playlist-deletePlaylist"><div class=3D"opblock-summary opblo=
-ck-summary-delete"><button aria-label=3D"delete =E2=80=8B/api=E2=80=8B/play=
-list" aria-expanded=3D"false" class=3D"opblock-summary-control"><span class=
-=3D"opblock-summary-method">DELETE</span><span class=3D"opblock-summary-pat=
-h" data-path=3D"/api/playlist"><a class=3D"nostyle"><span>/api<wbr>/playlis=
-t</span></a></span><div class=3D"opblock-summary-description">Delete playli=
-st by playlist id</div></button><div class=3D"view-line-link copy-to-clipbo=
+ d=3D"M 17.418 14.908 C 17.69 15.176 18.127 15.176 18.397 14.908 C 18.667 1=
+4.64 18.668 14.207 18.397 13.939 L 10.489 6.109 C 10.219 5.841 9.782 5.841 =
+9.51 6.109 L 1.602 13.939 C 1.332 14.207 1.332 14.64 1.602 14.908 C 1.873 1=
+5.176 2.311 15.176 2.581 14.908 L 10 7.767 L 17.418 14.908 Z"></path></svg>=
+</button></h3><div class=3D"no-margin"> <div class=3D"operation-tag-content=
+"><span><div class=3D"opblock opblock-get" id=3D"operations-Last\.fm-Last\.=
+fm_Login"><div class=3D"opblock-summary opblock-summary-get"><button aria-l=
+abel=3D"get =E2=80=8B/api=E2=80=8B/lastfm=E2=80=8B/login" aria-expanded=3D"=
+false" class=3D"opblock-summary-control"><span class=3D"opblock-summary-met=
+hod">GET</span><span class=3D"opblock-summary-path" data-path=3D"/api/lastf=
+m/login"><a class=3D"nostyle"><span>/api<wbr>/lastfm<wbr>/login</span></a><=
+/span><div class=3D"opblock-summary-description">Log user on last.fm accoun=
+t</div></button><div class=3D"view-line-link copy-to-clipboard" title=3D"Co=
+py to clipboard"><svg xmlns=3D"http://www.w3.org/2000/svg" viewBox=3D"0 0 1=
+5 16" width=3D"15" height=3D"16" aria-hidden=3D"true" focusable=3D"false"><=
+g transform=3D"translate(2, -1)"><path fill=3D"#ffffff" fill-rule=3D"evenod=
+d" d=3D"M2 13h4v1H2v-1zm5-6H2v1h5V7zm2 3V8l-3 3 3 3v-2h5v-2H9zM4.5 9H2v1h2.=
+5V9zM2 12h2.5v-1H2v1zm9 1h1v2c-.02.28-.11.52-.3.7-.19.18-.42.28-.7.3H1c-.55=
+ 0-1-.45-1-1V4c0-.55.45-1 1-1h3c0-1.11.89-2 2-2 1.11 0 2 .89 2 2h3c.55 0 1 =
+.45 1 1v5h-1V6H1v9h10v-2zM2 5h8c0-.55-.45-1-1-1H8c-.55 0-1-.45-1-1s-.45-1-1=
+-1-1 .45-1 1-.45 1-1 1H3c-.55 0-1 .45-1 1z"></path></g></svg></div><img src=
+=3D"data:image/svg+xml;base64,PHN2ZyB2ZXJzaW9uPSIxLjEiIGlkPSJMYXllcl8xIiB4b=
+Wxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHhtbG5zOnhsaW5rPSJodHRwOi8vd3d3=
+LnczLm9yZy8xOTk5L3hsaW5rIiB4PSIwcHgiIHk9IjBweCIgdmlld0JveD0iMCAwIDI0IDI0IiB=
+lbmFibGUtYmFja2dyb3VuZD0ibmV3IDAgMCAyNCAyNCIgeG1sOnNwYWNlPSJwcmVzZXJ2ZSI+Cj=
+xwYXRoIGQ9Ik0xOSA3djRINS44M2wzLjU4LTMuNTlMOCA2bC02IDYgNiA2IDEuNDEtMS40MUw1L=
+jgzIDEzSDIxVjd6Ii8+Cjwvc3ZnPgo=3D" class=3D"view-line-link" title=3D"Jump t=
+o definition"><button aria-label=3D"get =E2=80=8B/api=E2=80=8B/lastfm=E2=80=
+=8B/login" class=3D"opblock-control-arrow" aria-expanded=3D"false" tabindex=
+=3D"-1"><svg xmlns=3D"http://www.w3.org/2000/svg" viewBox=3D"0 0 20 20" cla=
+ss=3D"arrow" width=3D"20" height=3D"20" aria-hidden=3D"true" focusable=3D"f=
+alse"><path d=3D"M17.418 6.109c.272-.268.709-.268.979 0s.271.701 0 .969l-7.=
+908 7.83c-.27.268-.707.268-.979 0l-7.908-7.83c-.27-.268-.27-.701 0-.969.271=
+-.268.709-.268.979 0L10 13.25l7.418-7.141z"></path></svg></button></div></d=
+iv></span><span><div class=3D"opblock opblock-get" id=3D"operations-Last\.f=
+m-Last\.fm_Token"><div class=3D"opblock-summary opblock-summary-get"><butto=
+n aria-label=3D"get =E2=80=8B/api=E2=80=8B/lastfm=E2=80=8B/getToken" aria-e=
+xpanded=3D"false" class=3D"opblock-summary-control"><span class=3D"opblock-=
+summary-method">GET</span><span class=3D"opblock-summary-path" data-path=3D=
+"/api/lastfm/getToken"><a class=3D"nostyle"><span>/api<wbr>/lastfm<wbr>/get=
+Token</span></a></span><div class=3D"opblock-summary-description">Get user =
+token on Last.fm account</div></button><div class=3D"view-line-link copy-to=
+-clipboard" title=3D"Copy to clipboard"><svg xmlns=3D"http://www.w3.org/200=
+0/svg" viewBox=3D"0 0 15 16" width=3D"15" height=3D"16" aria-hidden=3D"true=
+" focusable=3D"false"><g transform=3D"translate(2, -1)"><path fill=3D"#ffff=
+ff" fill-rule=3D"evenodd" d=3D"M2 13h4v1H2v-1zm5-6H2v1h5V7zm2 3V8l-3 3 3 3v=
+-2h5v-2H9zM4.5 9H2v1h2.5V9zM2 12h2.5v-1H2v1zm9 1h1v2c-.02.28-.11.52-.3.7-.1=
+9.18-.42.28-.7.3H1c-.55 0-1-.45-1-1V4c0-.55.45-1 1-1h3c0-1.11.89-2 2-2 1.11=
+ 0 2 .89 2 2h3c.55 0 1 .45 1 1v5h-1V6H1v9h10v-2zM2 5h8c0-.55-.45-1-1-1H8c-.=
+55 0-1-.45-1-1s-.45-1-1-1-1 .45-1 1-.45 1-1 1H3c-.55 0-1 .45-1 1z"></path><=
+/g></svg></div><img src=3D"data:image/svg+xml;base64,PHN2ZyB2ZXJzaW9uPSIxLj=
+EiIGlkPSJMYXllcl8xIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHhtbG5zO=
+nhsaW5rPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5L3hsaW5rIiB4PSIwcHgiIHk9IjBweCIgdmll=
+d0JveD0iMCAwIDI0IDI0IiBlbmFibGUtYmFja2dyb3VuZD0ibmV3IDAgMCAyNCAyNCIgeG1sOnN=
+wYWNlPSJwcmVzZXJ2ZSI+CjxwYXRoIGQ9Ik0xOSA3djRINS44M2wzLjU4LTMuNTlMOCA2bC02ID=
+YgNiA2IDEuNDEtMS40MUw1LjgzIDEzSDIxVjd6Ii8+Cjwvc3ZnPgo=3D" class=3D"view-lin=
+e-link" title=3D"Jump to definition"><button aria-label=3D"get =E2=80=8B/ap=
+i=E2=80=8B/lastfm=E2=80=8B/getToken" class=3D"opblock-control-arrow" aria-e=
+xpanded=3D"false" tabindex=3D"-1"><svg xmlns=3D"http://www.w3.org/2000/svg"=
+ viewBox=3D"0 0 20 20" class=3D"arrow" width=3D"20" height=3D"20" aria-hidd=
+en=3D"true" focusable=3D"false"><path d=3D"M17.418 6.109c.272-.268.709-.268=
+.979 0s.271.701 0 .969l-7.908 7.83c-.27.268-.707.268-.979 0l-7.908-7.83c-.2=
+7-.268-.27-.701 0-.969.271-.268.709-.268.979 0L10 13.25l7.418-7.141z"></pat=
+h></svg></button></div></div></span></div> </div></div></span><span><div cl=
+ass=3D"opblock-tag-section is-open"><h3 class=3D"opblock-tag no-desc" id=3D=
+"operations-tag-playlist\/song" data-tag=3D"playlist/song" data-is-open=3D"=
+true"><a class=3D"nostyle"><span>playlist/song</span></a><small></small><bu=
+tton aria-expanded=3D"true" class=3D"expand-operation" title=3D"Collapse op=
+eration"><svg xmlns=3D"http://www.w3.org/2000/svg" viewBox=3D"0 0 20 20" cl=
+ass=3D"arrow" width=3D"20" height=3D"20" aria-hidden=3D"true" focusable=3D"=
+false"><path d=3D"M 17.418 14.908 C 17.69 15.176 18.127 15.176 18.397 14.90=
+8 C 18.667 14.64 18.668 14.207 18.397 13.939 L 10.489 6.109 C 10.219 5.841 =
+9.782 5.841 9.51 6.109 L 1.602 13.939 C 1.332 14.207 1.332 14.64 1.602 14.9=
+08 C 1.873 15.176 2.311 15.176 2.581 14.908 L 10 7.767 L 17.418 14.908 Z"><=
+/path></svg></button></h3><div class=3D"no-margin"> <div class=3D"operation=
+-tag-content"><span><div class=3D"opblock opblock-get" id=3D"operations-pla=
+ylist\/song-getSongByPlaylist"><div class=3D"opblock-summary opblock-summar=
+y-get"><button aria-label=3D"get =E2=80=8B/api=E2=80=8B/playlist=E2=80=8B/s=
+ong" aria-expanded=3D"false" class=3D"opblock-summary-control"><span class=
+=3D"opblock-summary-method">GET</span><span class=3D"opblock-summary-path" =
+data-path=3D"/api/playlist/song"><a class=3D"nostyle"><span>/api<wbr>/playl=
+ist<wbr>/song</span></a></span><div class=3D"opblock-summary-description">G=
+et songs by playlist id</div></button><div class=3D"view-line-link copy-to-=
+clipboard" title=3D"Copy to clipboard"><svg xmlns=3D"http://www.w3.org/2000=
+/svg" viewBox=3D"0 0 15 16" width=3D"15" height=3D"16" aria-hidden=3D"true"=
+ focusable=3D"false"><g transform=3D"translate(2, -1)"><path fill=3D"#fffff=
+f" fill-rule=3D"evenodd" d=3D"M2 13h4v1H2v-1zm5-6H2v1h5V7zm2 3V8l-3 3 3 3v-=
+2h5v-2H9zM4.5 9H2v1h2.5V9zM2 12h2.5v-1H2v1zm9 1h1v2c-.02.28-.11.52-.3.7-.19=
+.18-.42.28-.7.3H1c-.55 0-1-.45-1-1V4c0-.55.45-1 1-1h3c0-1.11.89-2 2-2 1.11 =
+0 2 .89 2 2h3c.55 0 1 .45 1 1v5h-1V6H1v9h10v-2zM2 5h8c0-.55-.45-1-1-1H8c-.5=
+5 0-1-.45-1-1s-.45-1-1-1-1 .45-1 1-.45 1-1 1H3c-.55 0-1 .45-1 1z"></path></=
+g></svg></div><img src=3D"data:image/svg+xml;base64,PHN2ZyB2ZXJzaW9uPSIxLjE=
+iIGlkPSJMYXllcl8xIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHhtbG5zOn=
+hsaW5rPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5L3hsaW5rIiB4PSIwcHgiIHk9IjBweCIgdmlld=
+0JveD0iMCAwIDI0IDI0IiBlbmFibGUtYmFja2dyb3VuZD0ibmV3IDAgMCAyNCAyNCIgeG1sOnNw=
+YWNlPSJwcmVzZXJ2ZSI+CjxwYXRoIGQ9Ik0xOSA3djRINS44M2wzLjU4LTMuNTlMOCA2bC02IDY=
+gNiA2IDEuNDEtMS40MUw1LjgzIDEzSDIxVjd6Ii8+Cjwvc3ZnPgo=3D" class=3D"view-line=
+-link" title=3D"Jump to definition"><button aria-label=3D"get =E2=80=8B/api=
+=E2=80=8B/playlist=E2=80=8B/song" class=3D"opblock-control-arrow" aria-expa=
+nded=3D"false" tabindex=3D"-1"><svg xmlns=3D"http://www.w3.org/2000/svg" vi=
+ewBox=3D"0 0 20 20" class=3D"arrow" width=3D"20" height=3D"20" aria-hidden=
+=3D"true" focusable=3D"false"><path d=3D"M17.418 6.109c.272-.268.709-.268.9=
+79 0s.271.701 0 .969l-7.908 7.83c-.27.268-.707.268-.979 0l-7.908-7.83c-.27-=
+.268-.27-.701 0-.969.271-.268.709-.268.979 0L10 13.25l7.418-7.141z"></path>=
+</svg></button></div></div></span><span><div class=3D"opblock opblock-put" =
+id=3D"operations-playlist\/song-addSongOnPlaylist"><div class=3D"opblock-su=
+mmary opblock-summary-put"><button aria-label=3D"put =E2=80=8B/api=E2=80=8B=
+/playlist=E2=80=8B/song" aria-expanded=3D"false" class=3D"opblock-summary-c=
+ontrol"><span class=3D"opblock-summary-method">PUT</span><span class=3D"opb=
+lock-summary-path" data-path=3D"/api/playlist/song"><a class=3D"nostyle"><s=
+pan>/api<wbr>/playlist<wbr>/song</span></a></span><div class=3D"opblock-sum=
+mary-description">Add new song on existing playlist</div></button><div clas=
+s=3D"view-line-link copy-to-clipboard" title=3D"Copy to clipboard"><svg xml=
+ns=3D"http://www.w3.org/2000/svg" viewBox=3D"0 0 15 16" width=3D"15" height=
+=3D"16" aria-hidden=3D"true" focusable=3D"false"><g transform=3D"translate(=
+2, -1)"><path fill=3D"#ffffff" fill-rule=3D"evenodd" d=3D"M2 13h4v1H2v-1zm5=
+-6H2v1h5V7zm2 3V8l-3 3 3 3v-2h5v-2H9zM4.5 9H2v1h2.5V9zM2 12h2.5v-1H2v1zm9 1=
+h1v2c-.02.28-.11.52-.3.7-.19.18-.42.28-.7.3H1c-.55 0-1-.45-1-1V4c0-.55.45-1=
+ 1-1h3c0-1.11.89-2 2-2 1.11 0 2 .89 2 2h3c.55 0 1 .45 1 1v5h-1V6H1v9h10v-2z=
+M2 5h8c0-.55-.45-1-1-1H8c-.55 0-1-.45-1-1s-.45-1-1-1-1 .45-1 1-.45 1-1 1H3c=
+-.55 0-1 .45-1 1z"></path></g></svg></div><img src=3D"data:image/svg+xml;ba=
+se64,PHN2ZyB2ZXJzaW9uPSIxLjEiIGlkPSJMYXllcl8xIiB4bWxucz0iaHR0cDovL3d3dy53My=
+5vcmcvMjAwMC9zdmciIHhtbG5zOnhsaW5rPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5L3hsaW5rI=
+iB4PSIwcHgiIHk9IjBweCIgdmlld0JveD0iMCAwIDI0IDI0IiBlbmFibGUtYmFja2dyb3VuZD0i=
+bmV3IDAgMCAyNCAyNCIgeG1sOnNwYWNlPSJwcmVzZXJ2ZSI+CjxwYXRoIGQ9Ik0xOSA3djRINS4=
+4M2wzLjU4LTMuNTlMOCA2bC02IDYgNiA2IDEuNDEtMS40MUw1LjgzIDEzSDIxVjd6Ii8+Cjwvc3=
+ZnPgo=3D" class=3D"view-line-link" title=3D"Jump to definition"><button ari=
+a-label=3D"put =E2=80=8B/api=E2=80=8B/playlist=E2=80=8B/song" class=3D"opbl=
+ock-control-arrow" aria-expanded=3D"false" tabindex=3D"-1"><svg xmlns=3D"ht=
+tp://www.w3.org/2000/svg" viewBox=3D"0 0 20 20" class=3D"arrow" width=3D"20=
+" height=3D"20" aria-hidden=3D"true" focusable=3D"false"><path d=3D"M17.418=
+ 6.109c.272-.268.709-.268.979 0s.271.701 0 .969l-7.908 7.83c-.27.268-.707.2=
+68-.979 0l-7.908-7.83c-.27-.268-.27-.701 0-.969.271-.268.709-.268.979 0L10 =
+13.25l7.418-7.141z"></path></svg></button></div></div></span></div> </div><=
+/div></span><span><div class=3D"opblock-tag-section is-open"><h3 class=3D"o=
+pblock-tag no-desc" id=3D"operations-tag-recommandation" data-tag=3D"recomm=
+andation" data-is-open=3D"true"><a class=3D"nostyle"><span>recommandation</=
+span></a><small></small><button aria-expanded=3D"true" class=3D"expand-oper=
+ation" title=3D"Collapse operation"><svg xmlns=3D"http://www.w3.org/2000/sv=
+g" viewBox=3D"0 0 20 20" class=3D"arrow" width=3D"20" height=3D"20" aria-hi=
+dden=3D"true" focusable=3D"false"><path d=3D"M 17.418 14.908 C 17.69 15.176=
+ 18.127 15.176 18.397 14.908 C 18.667 14.64 18.668 14.207 18.397 13.939 L 1=
+0.489 6.109 C 10.219 5.841 9.782 5.841 9.51 6.109 L 1.602 13.939 C 1.332 14=
+.207 1.332 14.64 1.602 14.908 C 1.873 15.176 2.311 15.176 2.581 14.908 L 10=
+ 7.767 L 17.418 14.908 Z"></path></svg></button></h3><div class=3D"no-margi=
+n"> <div class=3D"operation-tag-content"><span><div class=3D"opblock opbloc=
+k-get" id=3D"operations-recommandation-getRecoomandationBasedOnSongs"><div =
+class=3D"opblock-summary opblock-summary-get"><button aria-label=3D"get =E2=
+=80=8B/api=E2=80=8B/recommandation=E2=80=8B/song" aria-expanded=3D"false" c=
+lass=3D"opblock-summary-control"><span class=3D"opblock-summary-method">GET=
+</span><span class=3D"opblock-summary-path" data-path=3D"/api/recommandatio=
+n/song"><a class=3D"nostyle"><span>/api<wbr>/recommandation<wbr>/song</span=
+></a></span><div class=3D"opblock-summary-description">Get recommandation b=
+ased on user songs</div></button><div class=3D"view-line-link copy-to-clipb=
+oard" title=3D"Copy to clipboard"><svg xmlns=3D"http://www.w3.org/2000/svg"=
+ viewBox=3D"0 0 15 16" width=3D"15" height=3D"16" aria-hidden=3D"true" focu=
+sable=3D"false"><g transform=3D"translate(2, -1)"><path fill=3D"#ffffff" fi=
+ll-rule=3D"evenodd" d=3D"M2 13h4v1H2v-1zm5-6H2v1h5V7zm2 3V8l-3 3 3 3v-2h5v-=
+2H9zM4.5 9H2v1h2.5V9zM2 12h2.5v-1H2v1zm9 1h1v2c-.02.28-.11.52-.3.7-.19.18-.=
+42.28-.7.3H1c-.55 0-1-.45-1-1V4c0-.55.45-1 1-1h3c0-1.11.89-2 2-2 1.11 0 2 .=
+89 2 2h3c.55 0 1 .45 1 1v5h-1V6H1v9h10v-2zM2 5h8c0-.55-.45-1-1-1H8c-.55 0-1=
+-.45-1-1s-.45-1-1-1-1 .45-1 1-.45 1-1 1H3c-.55 0-1 .45-1 1z"></path></g></s=
+vg></div><img src=3D"data:image/svg+xml;base64,PHN2ZyB2ZXJzaW9uPSIxLjEiIGlk=
+PSJMYXllcl8xIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHhtbG5zOnhsaW5=
+rPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5L3hsaW5rIiB4PSIwcHgiIHk9IjBweCIgdmlld0JveD=
+0iMCAwIDI0IDI0IiBlbmFibGUtYmFja2dyb3VuZD0ibmV3IDAgMCAyNCAyNCIgeG1sOnNwYWNlP=
+SJwcmVzZXJ2ZSI+CjxwYXRoIGQ9Ik0xOSA3djRINS44M2wzLjU4LTMuNTlMOCA2bC02IDYgNiA2=
+IDEuNDEtMS40MUw1LjgzIDEzSDIxVjd6Ii8+Cjwvc3ZnPgo=3D" class=3D"view-line-link=
+" title=3D"Jump to definition"><button aria-label=3D"get =E2=80=8B/api=E2=
+=80=8B/recommandation=E2=80=8B/song" class=3D"opblock-control-arrow" aria-e=
+xpanded=3D"false" tabindex=3D"-1"><svg xmlns=3D"http://www.w3.org/2000/svg"=
+ viewBox=3D"0 0 20 20" class=3D"arrow" width=3D"20" height=3D"20" aria-hidd=
+en=3D"true" focusable=3D"false"><path d=3D"M17.418 6.109c.272-.268.709-.268=
+.979 0s.271.701 0 .969l-7.908 7.83c-.27.268-.707.268-.979 0l-7.908-7.83c-.2=
+7-.268-.27-.701 0-.969.271-.268.709-.268.979 0L10 13.25l7.418-7.141z"></pat=
+h></svg></button></div></div></span><span><div class=3D"opblock opblock-get=
+" id=3D"operations-recommandation-getRecoomandationBasedOnPlaylists"><div c=
+lass=3D"opblock-summary opblock-summary-get"><button aria-label=3D"get =E2=
+=80=8B/api=E2=80=8B/recommandation=E2=80=8B/playlist" aria-expanded=3D"fals=
+e" class=3D"opblock-summary-control"><span class=3D"opblock-summary-method"=
+>GET</span><span class=3D"opblock-summary-path" data-path=3D"/api/recommand=
+ation/playlist"><a class=3D"nostyle"><span>/api<wbr>/recommandation<wbr>/pl=
+aylist</span></a></span><div class=3D"opblock-summary-description">Get reco=
+mmandation based on user playlists</div></button><div class=3D"view-line-li=
+nk copy-to-clipboard" title=3D"Copy to clipboard"><svg xmlns=3D"http://www.=
+w3.org/2000/svg" viewBox=3D"0 0 15 16" width=3D"15" height=3D"16" aria-hidd=
+en=3D"true" focusable=3D"false"><g transform=3D"translate(2, -1)"><path fil=
+l=3D"#ffffff" fill-rule=3D"evenodd" d=3D"M2 13h4v1H2v-1zm5-6H2v1h5V7zm2 3V8=
+l-3 3 3 3v-2h5v-2H9zM4.5 9H2v1h2.5V9zM2 12h2.5v-1H2v1zm9 1h1v2c-.02.28-.11.=
+52-.3.7-.19.18-.42.28-.7.3H1c-.55 0-1-.45-1-1V4c0-.55.45-1 1-1h3c0-1.11.89-=
+2 2-2 1.11 0 2 .89 2 2h3c.55 0 1 .45 1 1v5h-1V6H1v9h10v-2zM2 5h8c0-.55-.45-=
+1-1-1H8c-.55 0-1-.45-1-1s-.45-1-1-1-1 .45-1 1-.45 1-1 1H3c-.55 0-1 .45-1 1z=
+"></path></g></svg></div><img src=3D"data:image/svg+xml;base64,PHN2ZyB2ZXJz=
+aW9uPSIxLjEiIGlkPSJMYXllcl8xIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmc=
+iIHhtbG5zOnhsaW5rPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5L3hsaW5rIiB4PSIwcHgiIHk9Ij=
+BweCIgdmlld0JveD0iMCAwIDI0IDI0IiBlbmFibGUtYmFja2dyb3VuZD0ibmV3IDAgMCAyNCAyN=
+CIgeG1sOnNwYWNlPSJwcmVzZXJ2ZSI+CjxwYXRoIGQ9Ik0xOSA3djRINS44M2wzLjU4LTMuNTlM=
+OCA2bC02IDYgNiA2IDEuNDEtMS40MUw1LjgzIDEzSDIxVjd6Ii8+Cjwvc3ZnPgo=3D" class=
+=3D"view-line-link" title=3D"Jump to definition"><button aria-label=3D"get =
+=E2=80=8B/api=E2=80=8B/recommandation=E2=80=8B/playlist" class=3D"opblock-c=
+ontrol-arrow" aria-expanded=3D"false" tabindex=3D"-1"><svg xmlns=3D"http://=
+www.w3.org/2000/svg" viewBox=3D"0 0 20 20" class=3D"arrow" width=3D"20" hei=
+ght=3D"20" aria-hidden=3D"true" focusable=3D"false"><path d=3D"M17.418 6.10=
+9c.272-.268.709-.268.979 0s.271.701 0 .969l-7.908 7.83c-.27.268-.707.268-.9=
+79 0l-7.908-7.83c-.27-.268-.27-.701 0-.969.271-.268.709-.268.979 0L10 13.25=
+l7.418-7.141z"></path></svg></button></div></div></span><span><div class=3D=
+"opblock opblock-get" id=3D"operations-recommandation-getRecoomandationBase=
+dOnMusicStore"><div class=3D"opblock-summary opblock-summary-get"><button a=
+ria-label=3D"get =E2=80=8B/api=E2=80=8B/recommandation=E2=80=8B/musicStores=
+" aria-expanded=3D"false" class=3D"opblock-summary-control"><span class=3D"=
+opblock-summary-method">GET</span><span class=3D"opblock-summary-path" data=
+-path=3D"/api/recommandation/musicStores"><a class=3D"nostyle"><span>/api<w=
+br>/recommandation<wbr>/musicStores</span></a></span><div class=3D"opblock-=
+summary-description">Get recommandation based on past song purchases on var=
+ious music stores</div></button><div class=3D"view-line-link copy-to-clipbo=
 ard" title=3D"Copy to clipboard"><svg xmlns=3D"http://www.w3.org/2000/svg" =
 viewBox=3D"0 0 15 16" width=3D"15" height=3D"16" aria-hidden=3D"true" focus=
 able=3D"false"><g transform=3D"translate(2, -1)"><path fill=3D"#ffffff" fil=
@@ -1136,343 +1403,183 @@ PSJodHRwOi8vd3d3LnczLm9yZy8xOTk5L3hsaW5rIiB4PSIwcHgiIHk9IjBweCIgdmlld0JveD0=
 iMCAwIDI0IDI0IiBlbmFibGUtYmFja2dyb3VuZD0ibmV3IDAgMCAyNCAyNCIgeG1sOnNwYWNlPS=
 JwcmVzZXJ2ZSI+CjxwYXRoIGQ9Ik0xOSA3djRINS44M2wzLjU4LTMuNTlMOCA2bC02IDYgNiA2I=
 DEuNDEtMS40MUw1LjgzIDEzSDIxVjd6Ii8+Cjwvc3ZnPgo=3D" class=3D"view-line-link"=
- title=3D"Jump to definition"><button aria-label=3D"delete =E2=80=8B/api=E2=
-=80=8B/playlist" class=3D"opblock-control-arrow" aria-expanded=3D"false" ta=
-bindex=3D"-1"><svg xmlns=3D"http://www.w3.org/2000/svg" viewBox=3D"0 0 20 2=
-0" class=3D"arrow" width=3D"20" height=3D"20" aria-hidden=3D"true" focusabl=
-e=3D"false"><path d=3D"M17.418 6.109c.272-.268.709-.268.979 0s.271.701 0 .9=
-69l-7.908 7.83c-.27.268-.707.268-.979 0l-7.908-7.83c-.27-.268-.27-.701 0-.9=
-69.271-.268.709-.268.979 0L10 13.25l7.418-7.141z"></path></svg></button></d=
-iv></div></span><span><div class=3D"opblock opblock-put" id=3D"operations-p=
-laylist-updatePlaylist"><div class=3D"opblock-summary opblock-summary-put">=
-<button aria-label=3D"put =E2=80=8B/api=E2=80=8B/playlist" aria-expanded=3D=
-"false" class=3D"opblock-summary-control"><span class=3D"opblock-summary-me=
-thod">PUT</span><span class=3D"opblock-summary-path" data-path=3D"/api/play=
-list"><a class=3D"nostyle"><span>/api<wbr>/playlist</span></a></span><div c=
-lass=3D"opblock-summary-description">Update playlist</div></button><div cla=
-ss=3D"view-line-link copy-to-clipboard" title=3D"Copy to clipboard"><svg xm=
-lns=3D"http://www.w3.org/2000/svg" viewBox=3D"0 0 15 16" width=3D"15" heigh=
-t=3D"16" aria-hidden=3D"true" focusable=3D"false"><g transform=3D"translate=
-(2, -1)"><path fill=3D"#ffffff" fill-rule=3D"evenodd" d=3D"M2 13h4v1H2v-1zm=
-5-6H2v1h5V7zm2 3V8l-3 3 3 3v-2h5v-2H9zM4.5 9H2v1h2.5V9zM2 12h2.5v-1H2v1zm9 =
-1h1v2c-.02.28-.11.52-.3.7-.19.18-.42.28-.7.3H1c-.55 0-1-.45-1-1V4c0-.55.45-=
-1 1-1h3c0-1.11.89-2 2-2 1.11 0 2 .89 2 2h3c.55 0 1 .45 1 1v5h-1V6H1v9h10v-2=
-zM2 5h8c0-.55-.45-1-1-1H8c-.55 0-1-.45-1-1s-.45-1-1-1-1 .45-1 1-.45 1-1 1H3=
-c-.55 0-1 .45-1 1z"></path></g></svg></div><img src=3D"data:image/svg+xml;b=
-ase64,PHN2ZyB2ZXJzaW9uPSIxLjEiIGlkPSJMYXllcl8xIiB4bWxucz0iaHR0cDovL3d3dy53M=
-y5vcmcvMjAwMC9zdmciIHhtbG5zOnhsaW5rPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5L3hsaW5r=
-IiB4PSIwcHgiIHk9IjBweCIgdmlld0JveD0iMCAwIDI0IDI0IiBlbmFibGUtYmFja2dyb3VuZD0=
-ibmV3IDAgMCAyNCAyNCIgeG1sOnNwYWNlPSJwcmVzZXJ2ZSI+CjxwYXRoIGQ9Ik0xOSA3djRINS=
-44M2wzLjU4LTMuNTlMOCA2bC02IDYgNiA2IDEuNDEtMS40MUw1LjgzIDEzSDIxVjd6Ii8+Cjwvc=
-3ZnPgo=3D" class=3D"view-line-link" title=3D"Jump to definition"><button ar=
-ia-label=3D"put =E2=80=8B/api=E2=80=8B/playlist" class=3D"opblock-control-a=
-rrow" aria-expanded=3D"false" tabindex=3D"-1"><svg xmlns=3D"http://www.w3.o=
+ title=3D"Jump to definition"><button aria-label=3D"get =E2=80=8B/api=E2=80=
+=8B/recommandation=E2=80=8B/musicStores" class=3D"opblock-control-arrow" ar=
+ia-expanded=3D"false" tabindex=3D"-1"><svg xmlns=3D"http://www.w3.org/2000/=
+svg" viewBox=3D"0 0 20 20" class=3D"arrow" width=3D"20" height=3D"20" aria-=
+hidden=3D"true" focusable=3D"false"><path d=3D"M17.418 6.109c.272-.268.709-=
+.268.979 0s.271.701 0 .969l-7.908 7.83c-.27.268-.707.268-.979 0l-7.908-7.83=
+c-.27-.268-.27-.701 0-.969.271-.268.709-.268.979 0L10 13.25l7.418-7.141z"><=
+/path></svg></button></div></div></span><span><div class=3D"opblock opblock=
+-post is-open" id=3D"operations-recommandation-getRecoomandationBasedOnUser=
+Input"><div class=3D"opblock-summary opblock-summary-post"><button aria-lab=
+el=3D"post =E2=80=8B/api=E2=80=8B/recommandation=E2=80=8B/input" aria-expan=
+ded=3D"true" class=3D"opblock-summary-control"><span class=3D"opblock-summa=
+ry-method">POST</span><span class=3D"opblock-summary-path" data-path=3D"/ap=
+i/recommandation/input"><a class=3D"nostyle"><span>/api<wbr>/recommandation=
+<wbr>/input</span></a></span><div class=3D"opblock-summary-description">Get=
+ recommandation based on user input</div></button><div class=3D"view-line-l=
+ink copy-to-clipboard" title=3D"Copy to clipboard"><svg xmlns=3D"http://www=
+.w3.org/2000/svg" viewBox=3D"0 0 15 16" width=3D"15" height=3D"16" aria-hid=
+den=3D"true" focusable=3D"false"><g transform=3D"translate(2, -1)"><path fi=
+ll=3D"#ffffff" fill-rule=3D"evenodd" d=3D"M2 13h4v1H2v-1zm5-6H2v1h5V7zm2 3V=
+8l-3 3 3 3v-2h5v-2H9zM4.5 9H2v1h2.5V9zM2 12h2.5v-1H2v1zm9 1h1v2c-.02.28-.11=
+.52-.3.7-.19.18-.42.28-.7.3H1c-.55 0-1-.45-1-1V4c0-.55.45-1 1-1h3c0-1.11.89=
+-2 2-2 1.11 0 2 .89 2 2h3c.55 0 1 .45 1 1v5h-1V6H1v9h10v-2zM2 5h8c0-.55-.45=
+-1-1-1H8c-.55 0-1-.45-1-1s-.45-1-1-1-1 .45-1 1-.45 1-1 1H3c-.55 0-1 .45-1 1=
+z"></path></g></svg></div><img src=3D"data:image/svg+xml;base64,PHN2ZyB2ZXJ=
+zaW9uPSIxLjEiIGlkPSJMYXllcl8xIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdm=
+ciIHhtbG5zOnhsaW5rPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5L3hsaW5rIiB4PSIwcHgiIHk9I=
+jBweCIgdmlld0JveD0iMCAwIDI0IDI0IiBlbmFibGUtYmFja2dyb3VuZD0ibmV3IDAgMCAyNCAy=
+NCIgeG1sOnNwYWNlPSJwcmVzZXJ2ZSI+CjxwYXRoIGQ9Ik0xOSA3djRINS44M2wzLjU4LTMuNTl=
+MOCA2bC02IDYgNiA2IDEuNDEtMS40MUw1LjgzIDEzSDIxVjd6Ii8+Cjwvc3ZnPgo=3D" class=
+=3D"view-line-link" title=3D"Jump to definition"><button aria-label=3D"post=
+ =E2=80=8B/api=E2=80=8B/recommandation=E2=80=8B/input" class=3D"opblock-con=
+trol-arrow" aria-expanded=3D"true" tabindex=3D"-1"><svg xmlns=3D"http://www=
+.w3.org/2000/svg" viewBox=3D"0 0 20 20" class=3D"arrow" width=3D"20" height=
+=3D"20" aria-hidden=3D"true" focusable=3D"false"><path d=3D"M 17.418 14.908=
+ C 17.69 15.176 18.127 15.176 18.397 14.908 C 18.667 14.64 18.668 14.207 18=
+.397 13.939 L 10.489 6.109 C 10.219 5.841 9.782 5.841 9.51 6.109 L 1.602 13=
+.939 C 1.332 14.207 1.332 14.64 1.602 14.908 C 1.873 15.176 2.311 15.176 2.=
+581 14.908 L 10 7.767 L 17.418 14.908 Z"></path></svg></button></div><div c=
+lass=3D"no-margin"> <div class=3D"opblock-body"><div class=3D"opblock-secti=
+on"><div class=3D"opblock-section-header"><div class=3D"tab-header"><div cl=
+ass=3D"tab-item active"><h4 class=3D"opblock-title"><span>Parameters</span>=
+</h4></div></div><div class=3D"try-out"><button class=3D"btn try-out__btn">=
+Try it out </button></div></div><div class=3D"parameters-container"><div cl=
+ass=3D"opblock-description-wrapper"><p>No parameters</p></div></div><div cl=
+ass=3D"opblock-section opblock-section-request-body"><div class=3D"opblock-=
+section-header"><h4 class=3D"opblock-title parameter__name undefined">Reque=
+st body</h4><label><div class=3D"content-type-wrapper body-param-content-ty=
+pe"><select aria-label=3D"Request content type" class=3D"content-type"><opt=
+ion value=3D"application/json">application/json</option><option value=3D"ap=
+plication/xml">application/xml</option></select></div></label></div><div cl=
+ass=3D"opblock-description-wrapper"><div><div class=3D"renderedMarkdown"><p=
+>Get user input about preferences</p></div><div class=3D"model-example"><ul=
+ class=3D"tab" role=3D"tablist"><li class=3D"tabitem active" role=3D"presen=
+tation"><button aria-controls=3D"C2Tjf0Q=3D" aria-selected=3D"true" class=
+=3D"tablinks" data-name=3D"example" id=3D"7oJdsx8=3D" role=3D"tab">Example =
+Value</button></li><li class=3D"tabitem" role=3D"presentation"><button aria=
+-controls=3D"aPu+Zyg=3D" aria-selected=3D"false" class=3D"tablinks" data-na=
+me=3D"model" id=3D"NPG1zwQ=3D" role=3D"tab">Schema</button></li></ul><div a=
+ria-hidden=3D"false" aria-labelledby=3D"7oJdsx8=3D" data-name=3D"examplePan=
+el" id=3D"C2Tjf0Q=3D" role=3D"tabpanel" tabindex=3D"0"><div class=3D"highli=
+ght-code"><pre class=3D"body-param__example microlight" style=3D"display: b=
+lock; overflow-x: auto; padding: 0.5em; background: rgb(51, 51, 51); color:=
+ white;"><code class=3D"language-json" style=3D"white-space: pre;"><span>{
+</span><span>  </span><span class=3D"hljs-attr">"input"</span><span>: </spa=
+n><span style=3D"color: rgb(162, 252, 162);">"I like/hate .."</span><span>
+</span>}</code></pre></div></div></div></div></div></div></div><div class=
+=3D"execute-wrapper"></div><div class=3D"responses-wrapper"><div class=3D"o=
+pblock-section-header"><h4>Responses</h4></div><div class=3D"responses-inne=
+r"><table aria-live=3D"polite" class=3D"responses-table" id=3D"post_api_rec=
+ommandation_input_responses" role=3D"region"><thead><tr class=3D"responses-=
+header"><td class=3D"col_header response-col_status">Code</td><td class=3D"=
+col_header response-col_description">Description</td><td class=3D"col col_h=
+eader response-col_links">Links</td></tr></thead><tbody><tr class=3D"respon=
+se " data-code=3D"200"><td class=3D"response-col_status">200</td><td class=
+=3D"response-col_description"><div class=3D"response-col_description__inner=
+"><div class=3D"renderedMarkdown"><p>successful operation</p></div></div><s=
+ection class=3D"response-controls"><div class=3D"response-control-media-typ=
+e response-control-media-type--accept-controller"><small class=3D"response-=
+control-media-type__title">Media type</small><div class=3D"content-type-wra=
+pper "><select aria-label=3D"Media Type" class=3D"content-type"><option val=
+ue=3D"application/json">application/json</option><option value=3D"applicati=
+on/xml">application/xml</option></select></div><small class=3D"response-con=
+trol-media-type__accept-message">Controls <code>Accept</code> header.</smal=
+l></div></section><div class=3D"model-example"><ul class=3D"tab" role=3D"ta=
+blist"><li class=3D"tabitem active" role=3D"presentation"><button aria-cont=
+rols=3D"KVSBUJY=3D" aria-selected=3D"true" class=3D"tablinks" data-name=3D"=
+example" id=3D"wB5SsDs=3D" role=3D"tab">Example Value</button></li><li clas=
+s=3D"tabitem" role=3D"presentation"><button aria-controls=3D"xf1oOGc=3D" ar=
+ia-selected=3D"false" class=3D"tablinks" data-name=3D"model" id=3D"qLpMDk8=
+=3D" role=3D"tab">Schema</button></li></ul><div aria-hidden=3D"false" aria-=
+labelledby=3D"wB5SsDs=3D" data-name=3D"examplePanel" id=3D"KVSBUJY=3D" role=
+=3D"tabpanel" tabindex=3D"0"><div><div class=3D"highlight-code"><pre class=
+=3D"example microlight" style=3D"display: block; overflow-x: auto; padding:=
+ 0.5em; background: rgb(51, 51, 51); color: white;"><code class=3D"language=
+-json" style=3D"white-space: pre;"><span>{
+</span><span>  </span><span class=3D"hljs-attr">"name"</span><span>: </span=
+><span style=3D"color: rgb(162, 252, 162);">"aa"</span><span>,
+</span><span>  </span><span class=3D"hljs-attr">"singer"</span><span>: </sp=
+an><span style=3D"color: rgb(162, 252, 162);">"aa"</span><span>,
+</span><span>  </span><span class=3D"hljs-attr">"details"</span><span>: </s=
+pan><span style=3D"color: rgb(162, 252, 162);">"aas"</span><span>
+</span>}</code></pre></div></div></div></div></td><td class=3D"response-col=
+_links"><i>No links</i></td></tr><tr class=3D"response " data-code=3D"400">=
+<td class=3D"response-col_status">400</td><td class=3D"response-col_descrip=
+tion"><div class=3D"response-col_description__inner"><div class=3D"rendered=
+Markdown"><p>No user playlists available</p></div></div></td><td class=3D"r=
+esponse-col_links"><i>No links</i></td></tr></tbody></table></div></div></d=
+iv> </div></div></span></div> </div></div></span><span><div class=3D"opbloc=
+k-tag-section is-open"><h3 class=3D"opblock-tag no-desc" id=3D"operations-t=
+ag-share" data-tag=3D"share" data-is-open=3D"true"><a class=3D"nostyle"><sp=
+an>share</span></a><small></small><button aria-expanded=3D"true" class=3D"e=
+xpand-operation" title=3D"Collapse operation"><svg xmlns=3D"http://www.w3.o=
 rg/2000/svg" viewBox=3D"0 0 20 20" class=3D"arrow" width=3D"20" height=3D"2=
-0" aria-hidden=3D"true" focusable=3D"false"><path d=3D"M17.418 6.109c.272-.=
-268.709-.268.979 0s.271.701 0 .969l-7.908 7.83c-.27.268-.707.268-.979 0l-7.=
-908-7.83c-.27-.268-.27-.701 0-.969.271-.268.709-.268.979 0L10 13.25l7.418-7=
-.141z"></path></svg></button></div></div></span></div> </div></div></span><=
-span><div class=3D"opblock-tag-section is-open"><h3 class=3D"opblock-tag no=
--desc" id=3D"operations-tag-Last\.fm" data-tag=3D"Last.fm" data-is-open=3D"=
-true"><a class=3D"nostyle"><span>Last.fm</span></a><small></small><button a=
-ria-expanded=3D"true" class=3D"expand-operation" title=3D"Collapse operatio=
-n"><svg xmlns=3D"http://www.w3.org/2000/svg" viewBox=3D"0 0 20 20" class=3D=
-"arrow" width=3D"20" height=3D"20" aria-hidden=3D"true" focusable=3D"false"=
-><path d=3D"M 17.418 14.908 C 17.69 15.176 18.127 15.176 18.397 14.908 C 18=
-.667 14.64 18.668 14.207 18.397 13.939 L 10.489 6.109 C 10.219 5.841 9.782 =
-5.841 9.51 6.109 L 1.602 13.939 C 1.332 14.207 1.332 14.64 1.602 14.908 C 1=
-.873 15.176 2.311 15.176 2.581 14.908 L 10 7.767 L 17.418 14.908 Z"></path>=
-</svg></button></h3><div class=3D"no-margin"> <div class=3D"operation-tag-c=
-ontent"><span><div class=3D"opblock opblock-get" id=3D"operations-Last\.fm-=
-Last\.fm_Login"><div class=3D"opblock-summary opblock-summary-get"><button =
-aria-label=3D"get =E2=80=8B/api=E2=80=8B/lastfm=E2=80=8B/login" aria-expand=
-ed=3D"false" class=3D"opblock-summary-control"><span class=3D"opblock-summa=
-ry-method">GET</span><span class=3D"opblock-summary-path" data-path=3D"/api=
-/lastfm/login"><a class=3D"nostyle"><span>/api<wbr>/lastfm<wbr>/login</span=
-></a></span><div class=3D"opblock-summary-description">Log user on last.fm =
-account</div></button><div class=3D"view-line-link copy-to-clipboard" title=
-=3D"Copy to clipboard"><svg xmlns=3D"http://www.w3.org/2000/svg" viewBox=3D=
-"0 0 15 16" width=3D"15" height=3D"16" aria-hidden=3D"true" focusable=3D"fa=
-lse"><g transform=3D"translate(2, -1)"><path fill=3D"#ffffff" fill-rule=3D"=
-evenodd" d=3D"M2 13h4v1H2v-1zm5-6H2v1h5V7zm2 3V8l-3 3 3 3v-2h5v-2H9zM4.5 9H=
-2v1h2.5V9zM2 12h2.5v-1H2v1zm9 1h1v2c-.02.28-.11.52-.3.7-.19.18-.42.28-.7.3H=
-1c-.55 0-1-.45-1-1V4c0-.55.45-1 1-1h3c0-1.11.89-2 2-2 1.11 0 2 .89 2 2h3c.5=
-5 0 1 .45 1 1v5h-1V6H1v9h10v-2zM2 5h8c0-.55-.45-1-1-1H8c-.55 0-1-.45-1-1s-.=
-45-1-1-1-1 .45-1 1-.45 1-1 1H3c-.55 0-1 .45-1 1z"></path></g></svg></div><i=
-mg src=3D"data:image/svg+xml;base64,PHN2ZyB2ZXJzaW9uPSIxLjEiIGlkPSJMYXllcl8=
-xIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHhtbG5zOnhsaW5rPSJodHRwOi=
-8vd3d3LnczLm9yZy8xOTk5L3hsaW5rIiB4PSIwcHgiIHk9IjBweCIgdmlld0JveD0iMCAwIDI0I=
-DI0IiBlbmFibGUtYmFja2dyb3VuZD0ibmV3IDAgMCAyNCAyNCIgeG1sOnNwYWNlPSJwcmVzZXJ2=
-ZSI+CjxwYXRoIGQ9Ik0xOSA3djRINS44M2wzLjU4LTMuNTlMOCA2bC02IDYgNiA2IDEuNDEtMS4=
-0MUw1LjgzIDEzSDIxVjd6Ii8+Cjwvc3ZnPgo=3D" class=3D"view-line-link" title=3D"=
-Jump to definition"><button aria-label=3D"get =E2=80=8B/api=E2=80=8B/lastfm=
-=E2=80=8B/login" class=3D"opblock-control-arrow" aria-expanded=3D"false" ta=
-bindex=3D"-1"><svg xmlns=3D"http://www.w3.org/2000/svg" viewBox=3D"0 0 20 2=
-0" class=3D"arrow" width=3D"20" height=3D"20" aria-hidden=3D"true" focusabl=
-e=3D"false"><path d=3D"M17.418 6.109c.272-.268.709-.268.979 0s.271.701 0 .9=
-69l-7.908 7.83c-.27.268-.707.268-.979 0l-7.908-7.83c-.27-.268-.27-.701 0-.9=
-69.271-.268.709-.268.979 0L10 13.25l7.418-7.141z"></path></svg></button></d=
-iv></div></span><span><div class=3D"opblock opblock-get" id=3D"operations-L=
-ast\.fm-Last\.fm_Token"><div class=3D"opblock-summary opblock-summary-get">=
-<button aria-label=3D"get =E2=80=8B/api=E2=80=8B/lastfm=E2=80=8B/getToken" =
-aria-expanded=3D"false" class=3D"opblock-summary-control"><span class=3D"op=
-block-summary-method">GET</span><span class=3D"opblock-summary-path" data-p=
-ath=3D"/api/lastfm/getToken"><a class=3D"nostyle"><span>/api<wbr>/lastfm<wb=
-r>/getToken</span></a></span><div class=3D"opblock-summary-description">Get=
- user token on Last.fm account</div></button><div class=3D"view-line-link c=
-opy-to-clipboard" title=3D"Copy to clipboard"><svg xmlns=3D"http://www.w3.o=
-rg/2000/svg" viewBox=3D"0 0 15 16" width=3D"15" height=3D"16" aria-hidden=
-=3D"true" focusable=3D"false"><g transform=3D"translate(2, -1)"><path fill=
-=3D"#ffffff" fill-rule=3D"evenodd" d=3D"M2 13h4v1H2v-1zm5-6H2v1h5V7zm2 3V8l=
--3 3 3 3v-2h5v-2H9zM4.5 9H2v1h2.5V9zM2 12h2.5v-1H2v1zm9 1h1v2c-.02.28-.11.5=
-2-.3.7-.19.18-.42.28-.7.3H1c-.55 0-1-.45-1-1V4c0-.55.45-1 1-1h3c0-1.11.89-2=
- 2-2 1.11 0 2 .89 2 2h3c.55 0 1 .45 1 1v5h-1V6H1v9h10v-2zM2 5h8c0-.55-.45-1=
--1-1H8c-.55 0-1-.45-1-1s-.45-1-1-1-1 .45-1 1-.45 1-1 1H3c-.55 0-1 .45-1 1z"=
-></path></g></svg></div><img src=3D"data:image/svg+xml;base64,PHN2ZyB2ZXJza=
-W9uPSIxLjEiIGlkPSJMYXllcl8xIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmci=
-IHhtbG5zOnhsaW5rPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5L3hsaW5rIiB4PSIwcHgiIHk9IjB=
-weCIgdmlld0JveD0iMCAwIDI0IDI0IiBlbmFibGUtYmFja2dyb3VuZD0ibmV3IDAgMCAyNCAyNC=
-IgeG1sOnNwYWNlPSJwcmVzZXJ2ZSI+CjxwYXRoIGQ9Ik0xOSA3djRINS44M2wzLjU4LTMuNTlMO=
-CA2bC02IDYgNiA2IDEuNDEtMS40MUw1LjgzIDEzSDIxVjd6Ii8+Cjwvc3ZnPgo=3D" class=3D=
-"view-line-link" title=3D"Jump to definition"><button aria-label=3D"get =E2=
-=80=8B/api=E2=80=8B/lastfm=E2=80=8B/getToken" class=3D"opblock-control-arro=
-w" aria-expanded=3D"false" tabindex=3D"-1"><svg xmlns=3D"http://www.w3.org/=
-2000/svg" viewBox=3D"0 0 20 20" class=3D"arrow" width=3D"20" height=3D"20" =
-aria-hidden=3D"true" focusable=3D"false"><path d=3D"M17.418 6.109c.272-.268=
-.709-.268.979 0s.271.701 0 .969l-7.908 7.83c-.27.268-.707.268-.979 0l-7.908=
--7.83c-.27-.268-.27-.701 0-.969.271-.268.709-.268.979 0L10 13.25l7.418-7.14=
-1z"></path></svg></button></div></div></span></div> </div></div></span><spa=
-n><div class=3D"opblock-tag-section is-open"><h3 class=3D"opblock-tag no-de=
-sc" id=3D"operations-tag-playlist\/song" data-tag=3D"playlist/song" data-is=
--open=3D"true"><a class=3D"nostyle"><span>playlist/song</span></a><small></=
-small><button aria-expanded=3D"true" class=3D"expand-operation" title=3D"Co=
-llapse operation"><svg xmlns=3D"http://www.w3.org/2000/svg" viewBox=3D"0 0 =
-20 20" class=3D"arrow" width=3D"20" height=3D"20" aria-hidden=3D"true" focu=
-sable=3D"false"><path d=3D"M 17.418 14.908 C 17.69 15.176 18.127 15.176 18.=
-397 14.908 C 18.667 14.64 18.668 14.207 18.397 13.939 L 10.489 6.109 C 10.2=
-19 5.841 9.782 5.841 9.51 6.109 L 1.602 13.939 C 1.332 14.207 1.332 14.64 1=
-.602 14.908 C 1.873 15.176 2.311 15.176 2.581 14.908 L 10 7.767 L 17.418 14=
-.908 Z"></path></svg></button></h3><div class=3D"no-margin"> <div class=3D"=
-operation-tag-content"><span><div class=3D"opblock opblock-get" id=3D"opera=
-tions-playlist\/song-getSongByPlaylist"><div class=3D"opblock-summary opblo=
-ck-summary-get"><button aria-label=3D"get =E2=80=8B/api=E2=80=8B/playlist=
-=E2=80=8B/song" aria-expanded=3D"false" class=3D"opblock-summary-control"><=
-span class=3D"opblock-summary-method">GET</span><span class=3D"opblock-summ=
-ary-path" data-path=3D"/api/playlist/song"><a class=3D"nostyle"><span>/api<=
-wbr>/playlist<wbr>/song</span></a></span><div class=3D"opblock-summary-desc=
-ription">Get songs by playlist id</div></button><div class=3D"view-line-lin=
-k copy-to-clipboard" title=3D"Copy to clipboard"><svg xmlns=3D"http://www.w=
-3.org/2000/svg" viewBox=3D"0 0 15 16" width=3D"15" height=3D"16" aria-hidde=
-n=3D"true" focusable=3D"false"><g transform=3D"translate(2, -1)"><path fill=
-=3D"#ffffff" fill-rule=3D"evenodd" d=3D"M2 13h4v1H2v-1zm5-6H2v1h5V7zm2 3V8l=
--3 3 3 3v-2h5v-2H9zM4.5 9H2v1h2.5V9zM2 12h2.5v-1H2v1zm9 1h1v2c-.02.28-.11.5=
-2-.3.7-.19.18-.42.28-.7.3H1c-.55 0-1-.45-1-1V4c0-.55.45-1 1-1h3c0-1.11.89-2=
- 2-2 1.11 0 2 .89 2 2h3c.55 0 1 .45 1 1v5h-1V6H1v9h10v-2zM2 5h8c0-.55-.45-1=
--1-1H8c-.55 0-1-.45-1-1s-.45-1-1-1-1 .45-1 1-.45 1-1 1H3c-.55 0-1 .45-1 1z"=
-></path></g></svg></div><img src=3D"data:image/svg+xml;base64,PHN2ZyB2ZXJza=
-W9uPSIxLjEiIGlkPSJMYXllcl8xIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmci=
-IHhtbG5zOnhsaW5rPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5L3hsaW5rIiB4PSIwcHgiIHk9IjB=
-weCIgdmlld0JveD0iMCAwIDI0IDI0IiBlbmFibGUtYmFja2dyb3VuZD0ibmV3IDAgMCAyNCAyNC=
-IgeG1sOnNwYWNlPSJwcmVzZXJ2ZSI+CjxwYXRoIGQ9Ik0xOSA3djRINS44M2wzLjU4LTMuNTlMO=
-CA2bC02IDYgNiA2IDEuNDEtMS40MUw1LjgzIDEzSDIxVjd6Ii8+Cjwvc3ZnPgo=3D" class=3D=
-"view-line-link" title=3D"Jump to definition"><button aria-label=3D"get =E2=
-=80=8B/api=E2=80=8B/playlist=E2=80=8B/song" class=3D"opblock-control-arrow"=
- aria-expanded=3D"false" tabindex=3D"-1"><svg xmlns=3D"http://www.w3.org/20=
-00/svg" viewBox=3D"0 0 20 20" class=3D"arrow" width=3D"20" height=3D"20" ar=
-ia-hidden=3D"true" focusable=3D"false"><path d=3D"M17.418 6.109c.272-.268.7=
-09-.268.979 0s.271.701 0 .969l-7.908 7.83c-.27.268-.707.268-.979 0l-7.908-7=
-.83c-.27-.268-.27-.701 0-.969.271-.268.709-.268.979 0L10 13.25l7.418-7.141z=
-"></path></svg></button></div></div></span><span><div class=3D"opblock opbl=
-ock-put" id=3D"operations-playlist\/song-addSongOnPlaylist"><div class=3D"o=
-pblock-summary opblock-summary-put"><button aria-label=3D"put =E2=80=8B/api=
-=E2=80=8B/playlist=E2=80=8B/song" aria-expanded=3D"false" class=3D"opblock-=
-summary-control"><span class=3D"opblock-summary-method">PUT</span><span cla=
-ss=3D"opblock-summary-path" data-path=3D"/api/playlist/song"><a class=3D"no=
-style"><span>/api<wbr>/playlist<wbr>/song</span></a></span><div class=3D"op=
-block-summary-description">Add new song on existing playlist</div></button>=
-<div class=3D"view-line-link copy-to-clipboard" title=3D"Copy to clipboard"=
-><svg xmlns=3D"http://www.w3.org/2000/svg" viewBox=3D"0 0 15 16" width=3D"1=
-5" height=3D"16" aria-hidden=3D"true" focusable=3D"false"><g transform=3D"t=
-ranslate(2, -1)"><path fill=3D"#ffffff" fill-rule=3D"evenodd" d=3D"M2 13h4v=
-1H2v-1zm5-6H2v1h5V7zm2 3V8l-3 3 3 3v-2h5v-2H9zM4.5 9H2v1h2.5V9zM2 12h2.5v-1=
-H2v1zm9 1h1v2c-.02.28-.11.52-.3.7-.19.18-.42.28-.7.3H1c-.55 0-1-.45-1-1V4c0=
--.55.45-1 1-1h3c0-1.11.89-2 2-2 1.11 0 2 .89 2 2h3c.55 0 1 .45 1 1v5h-1V6H1=
-v9h10v-2zM2 5h8c0-.55-.45-1-1-1H8c-.55 0-1-.45-1-1s-.45-1-1-1-1 .45-1 1-.45=
- 1-1 1H3c-.55 0-1 .45-1 1z"></path></g></svg></div><img src=3D"data:image/s=
-vg+xml;base64,PHN2ZyB2ZXJzaW9uPSIxLjEiIGlkPSJMYXllcl8xIiB4bWxucz0iaHR0cDovL=
-3d3dy53My5vcmcvMjAwMC9zdmciIHhtbG5zOnhsaW5rPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5=
-L3hsaW5rIiB4PSIwcHgiIHk9IjBweCIgdmlld0JveD0iMCAwIDI0IDI0IiBlbmFibGUtYmFja2d=
-yb3VuZD0ibmV3IDAgMCAyNCAyNCIgeG1sOnNwYWNlPSJwcmVzZXJ2ZSI+CjxwYXRoIGQ9Ik0xOS=
-A3djRINS44M2wzLjU4LTMuNTlMOCA2bC02IDYgNiA2IDEuNDEtMS40MUw1LjgzIDEzSDIxVjd6I=
-i8+Cjwvc3ZnPgo=3D" class=3D"view-line-link" title=3D"Jump to definition"><b=
-utton aria-label=3D"put =E2=80=8B/api=E2=80=8B/playlist=E2=80=8B/song" clas=
-s=3D"opblock-control-arrow" aria-expanded=3D"false" tabindex=3D"-1"><svg xm=
-lns=3D"http://www.w3.org/2000/svg" viewBox=3D"0 0 20 20" class=3D"arrow" wi=
-dth=3D"20" height=3D"20" aria-hidden=3D"true" focusable=3D"false"><path d=
-=3D"M17.418 6.109c.272-.268.709-.268.979 0s.271.701 0 .969l-7.908 7.83c-.27=
-.268-.707.268-.979 0l-7.908-7.83c-.27-.268-.27-.701 0-.969.271-.268.709-.26=
-8.979 0L10 13.25l7.418-7.141z"></path></svg></button></div></div></span></d=
-iv> </div></div></span><span><div class=3D"opblock-tag-section is-open"><h3=
- class=3D"opblock-tag no-desc" id=3D"operations-tag-recommandation" data-ta=
-g=3D"recommandation" data-is-open=3D"true"><a class=3D"nostyle"><span>recom=
-mandation</span></a><small></small><button aria-expanded=3D"true" class=3D"=
-expand-operation" title=3D"Collapse operation"><svg xmlns=3D"http://www.w3.=
-org/2000/svg" viewBox=3D"0 0 20 20" class=3D"arrow" width=3D"20" height=3D"=
-20" aria-hidden=3D"true" focusable=3D"false"><path d=3D"M 17.418 14.908 C 1=
-7.69 15.176 18.127 15.176 18.397 14.908 C 18.667 14.64 18.668 14.207 18.397=
- 13.939 L 10.489 6.109 C 10.219 5.841 9.782 5.841 9.51 6.109 L 1.602 13.939=
- C 1.332 14.207 1.332 14.64 1.602 14.908 C 1.873 15.176 2.311 15.176 2.581 =
-14.908 L 10 7.767 L 17.418 14.908 Z"></path></svg></button></h3><div class=
+0" aria-hidden=3D"true" focusable=3D"false"><path d=3D"M 17.418 14.908 C 17=
+.69 15.176 18.127 15.176 18.397 14.908 C 18.667 14.64 18.668 14.207 18.397 =
+13.939 L 10.489 6.109 C 10.219 5.841 9.782 5.841 9.51 6.109 L 1.602 13.939 =
+C 1.332 14.207 1.332 14.64 1.602 14.908 C 1.873 15.176 2.311 15.176 2.581 1=
+4.908 L 10 7.767 L 17.418 14.908 Z"></path></svg></button></h3><div class=
 =3D"no-margin"> <div class=3D"operation-tag-content"><span><div class=3D"op=
-block opblock-get" id=3D"operations-recommandation-getRecoomandationBasedOn=
-Songs"><div class=3D"opblock-summary opblock-summary-get"><button aria-labe=
-l=3D"get =E2=80=8B/api=E2=80=8B/recommandation=E2=80=8B/song" aria-expanded=
-=3D"false" class=3D"opblock-summary-control"><span class=3D"opblock-summary=
--method">GET</span><span class=3D"opblock-summary-path" data-path=3D"/api/r=
-ecommandation/song"><a class=3D"nostyle"><span>/api<wbr>/recommandation<wbr=
->/song</span></a></span><div class=3D"opblock-summary-description">Get reco=
-mmandation based on user songs</div></button><div class=3D"view-line-link c=
-opy-to-clipboard" title=3D"Copy to clipboard"><svg xmlns=3D"http://www.w3.o=
-rg/2000/svg" viewBox=3D"0 0 15 16" width=3D"15" height=3D"16" aria-hidden=
-=3D"true" focusable=3D"false"><g transform=3D"translate(2, -1)"><path fill=
-=3D"#ffffff" fill-rule=3D"evenodd" d=3D"M2 13h4v1H2v-1zm5-6H2v1h5V7zm2 3V8l=
--3 3 3 3v-2h5v-2H9zM4.5 9H2v1h2.5V9zM2 12h2.5v-1H2v1zm9 1h1v2c-.02.28-.11.5=
-2-.3.7-.19.18-.42.28-.7.3H1c-.55 0-1-.45-1-1V4c0-.55.45-1 1-1h3c0-1.11.89-2=
- 2-2 1.11 0 2 .89 2 2h3c.55 0 1 .45 1 1v5h-1V6H1v9h10v-2zM2 5h8c0-.55-.45-1=
--1-1H8c-.55 0-1-.45-1-1s-.45-1-1-1-1 .45-1 1-.45 1-1 1H3c-.55 0-1 .45-1 1z"=
-></path></g></svg></div><img src=3D"data:image/svg+xml;base64,PHN2ZyB2ZXJza=
-W9uPSIxLjEiIGlkPSJMYXllcl8xIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmci=
-IHhtbG5zOnhsaW5rPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5L3hsaW5rIiB4PSIwcHgiIHk9IjB=
-weCIgdmlld0JveD0iMCAwIDI0IDI0IiBlbmFibGUtYmFja2dyb3VuZD0ibmV3IDAgMCAyNCAyNC=
-IgeG1sOnNwYWNlPSJwcmVzZXJ2ZSI+CjxwYXRoIGQ9Ik0xOSA3djRINS44M2wzLjU4LTMuNTlMO=
-CA2bC02IDYgNiA2IDEuNDEtMS40MUw1LjgzIDEzSDIxVjd6Ii8+Cjwvc3ZnPgo=3D" class=3D=
-"view-line-link" title=3D"Jump to definition"><button aria-label=3D"get =E2=
-=80=8B/api=E2=80=8B/recommandation=E2=80=8B/song" class=3D"opblock-control-=
-arrow" aria-expanded=3D"false" tabindex=3D"-1"><svg xmlns=3D"http://www.w3.=
-org/2000/svg" viewBox=3D"0 0 20 20" class=3D"arrow" width=3D"20" height=3D"=
-20" aria-hidden=3D"true" focusable=3D"false"><path d=3D"M17.418 6.109c.272-=
-.268.709-.268.979 0s.271.701 0 .969l-7.908 7.83c-.27.268-.707.268-.979 0l-7=
-.908-7.83c-.27-.268-.27-.701 0-.969.271-.268.709-.268.979 0L10 13.25l7.418-=
-7.141z"></path></svg></button></div></div></span><span><div class=3D"opbloc=
-k opblock-get" id=3D"operations-recommandation-getRecoomandationBasedOnPlay=
-lists"><div class=3D"opblock-summary opblock-summary-get"><button aria-labe=
-l=3D"get =E2=80=8B/api=E2=80=8B/recommandation=E2=80=8B/playlist" aria-expa=
-nded=3D"false" class=3D"opblock-summary-control"><span class=3D"opblock-sum=
-mary-method">GET</span><span class=3D"opblock-summary-path" data-path=3D"/a=
-pi/recommandation/playlist"><a class=3D"nostyle"><span>/api<wbr>/recommanda=
-tion<wbr>/playlist</span></a></span><div class=3D"opblock-summary-descripti=
-on">Get recommandation based on user playlists</div></button><div class=3D"=
-view-line-link copy-to-clipboard" title=3D"Copy to clipboard"><svg xmlns=3D=
-"http://www.w3.org/2000/svg" viewBox=3D"0 0 15 16" width=3D"15" height=3D"1=
-6" aria-hidden=3D"true" focusable=3D"false"><g transform=3D"translate(2, -1=
-)"><path fill=3D"#ffffff" fill-rule=3D"evenodd" d=3D"M2 13h4v1H2v-1zm5-6H2v=
-1h5V7zm2 3V8l-3 3 3 3v-2h5v-2H9zM4.5 9H2v1h2.5V9zM2 12h2.5v-1H2v1zm9 1h1v2c=
--.02.28-.11.52-.3.7-.19.18-.42.28-.7.3H1c-.55 0-1-.45-1-1V4c0-.55.45-1 1-1h=
-3c0-1.11.89-2 2-2 1.11 0 2 .89 2 2h3c.55 0 1 .45 1 1v5h-1V6H1v9h10v-2zM2 5h=
-8c0-.55-.45-1-1-1H8c-.55 0-1-.45-1-1s-.45-1-1-1-1 .45-1 1-.45 1-1 1H3c-.55 =
-0-1 .45-1 1z"></path></g></svg></div><img src=3D"data:image/svg+xml;base64,=
+block opblock-get" id=3D"operations-share-sharePlaylist"><div class=3D"opbl=
+ock-summary opblock-summary-get"><button aria-label=3D"get =E2=80=8B/api=E2=
+=80=8B/share=E2=80=8B/playlist" aria-expanded=3D"false" class=3D"opblock-su=
+mmary-control"><span class=3D"opblock-summary-method">GET</span><span class=
+=3D"opblock-summary-path" data-path=3D"/api/share/playlist"><a class=3D"nos=
+tyle"><span>/api<wbr>/share<wbr>/playlist</span></a></span><div class=3D"op=
+block-summary-description">Share playlist for friends</div></button><div cl=
+ass=3D"view-line-link copy-to-clipboard" title=3D"Copy to clipboard"><svg x=
+mlns=3D"http://www.w3.org/2000/svg" viewBox=3D"0 0 15 16" width=3D"15" heig=
+ht=3D"16" aria-hidden=3D"true" focusable=3D"false"><g transform=3D"translat=
+e(2, -1)"><path fill=3D"#ffffff" fill-rule=3D"evenodd" d=3D"M2 13h4v1H2v-1z=
+m5-6H2v1h5V7zm2 3V8l-3 3 3 3v-2h5v-2H9zM4.5 9H2v1h2.5V9zM2 12h2.5v-1H2v1zm9=
+ 1h1v2c-.02.28-.11.52-.3.7-.19.18-.42.28-.7.3H1c-.55 0-1-.45-1-1V4c0-.55.45=
+-1 1-1h3c0-1.11.89-2 2-2 1.11 0 2 .89 2 2h3c.55 0 1 .45 1 1v5h-1V6H1v9h10v-=
+2zM2 5h8c0-.55-.45-1-1-1H8c-.55 0-1-.45-1-1s-.45-1-1-1-1 .45-1 1-.45 1-1 1H=
+3c-.55 0-1 .45-1 1z"></path></g></svg></div><img src=3D"data:image/svg+xml;=
+base64,PHN2ZyB2ZXJzaW9uPSIxLjEiIGlkPSJMYXllcl8xIiB4bWxucz0iaHR0cDovL3d3dy53=
+My5vcmcvMjAwMC9zdmciIHhtbG5zOnhsaW5rPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5L3hsaW5=
+rIiB4PSIwcHgiIHk9IjBweCIgdmlld0JveD0iMCAwIDI0IDI0IiBlbmFibGUtYmFja2dyb3VuZD=
+0ibmV3IDAgMCAyNCAyNCIgeG1sOnNwYWNlPSJwcmVzZXJ2ZSI+CjxwYXRoIGQ9Ik0xOSA3djRIN=
+S44M2wzLjU4LTMuNTlMOCA2bC02IDYgNiA2IDEuNDEtMS40MUw1LjgzIDEzSDIxVjd6Ii8+Cjwv=
+c3ZnPgo=3D" class=3D"view-line-link" title=3D"Jump to definition"><button a=
+ria-label=3D"get =E2=80=8B/api=E2=80=8B/share=E2=80=8B/playlist" class=3D"o=
+pblock-control-arrow" aria-expanded=3D"false" tabindex=3D"-1"><svg xmlns=3D=
+"http://www.w3.org/2000/svg" viewBox=3D"0 0 20 20" class=3D"arrow" width=3D=
+"20" height=3D"20" aria-hidden=3D"true" focusable=3D"false"><path d=3D"M17.=
+418 6.109c.272-.268.709-.268.979 0s.271.701 0 .969l-7.908 7.83c-.27.268-.70=
+7.268-.979 0l-7.908-7.83c-.27-.268-.27-.701 0-.969.271-.268.709-.268.979 0L=
+10 13.25l7.418-7.141z"></path></svg></button></div></div></span></div> </di=
+v></div></span></div></section></div><div class=3D"wrapper"><section class=
+=3D"block col-12 block-desktop col-12-desktop"><section class=3D"models is-=
+open"><h4><button aria-expanded=3D"true" class=3D"models-control"><span>Sch=
+emas</span><svg xmlns=3D"http://www.w3.org/2000/svg" viewBox=3D"0 0 20 20" =
+width=3D"20" height=3D"20" aria-hidden=3D"true" focusable=3D"false"><path d=
+=3D"M 17.418 14.908 C 17.69 15.176 18.127 15.176 18.397 14.908 C 18.667 14.=
+64 18.668 14.207 18.397 13.939 L 10.489 6.109 C 10.219 5.841 9.782 5.841 9.=
+51 6.109 L 1.602 13.939 C 1.332 14.207 1.332 14.64 1.602 14.908 C 1.873 15.=
+176 2.311 15.176 2.581 14.908 L 10 7.767 L 17.418 14.908 Z"></path></svg></=
+button></h4><div class=3D"no-margin"> <div id=3D"model-User" class=3D"model=
+-container" data-name=3D"User"><span class=3D"models-jump-to-path"><img src=
+=3D"data:image/svg+xml;base64,PHN2ZyB2ZXJzaW9uPSIxLjEiIGlkPSJMYXllcl8xIiB4b=
+Wxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHhtbG5zOnhsaW5rPSJodHRwOi8vd3d3=
+LnczLm9yZy8xOTk5L3hsaW5rIiB4PSIwcHgiIHk9IjBweCIgdmlld0JveD0iMCAwIDI0IDI0IiB=
+lbmFibGUtYmFja2dyb3VuZD0ibmV3IDAgMCAyNCAyNCIgeG1sOnNwYWNlPSJwcmVzZXJ2ZSI+Cj=
+xwYXRoIGQ9Ik0xOSA3djRINS44M2wzLjU4LTMuNTlMOCA2bC02IDYgNiA2IDEuNDEtMS40MUw1L=
+jgzIDEzSDIxVjd6Ii8+Cjwvc3ZnPgo=3D" class=3D"view-line-link" title=3D"Jump t=
+o definition"></span><span class=3D"model-box"><button aria-expanded=3D"fal=
+se" class=3D"model-box-control"><span class=3D"pointer"><span class=3D"mode=
+l-box"><span class=3D"model model-title">User</span></span></span><span cla=
+ss=3D"model-toggle collapsed"></span><span> </span></button></span></div><d=
+iv id=3D"model-LoginUser" class=3D"model-container" data-name=3D"LoginUser"=
+><span class=3D"models-jump-to-path"><img src=3D"data:image/svg+xml;base64,=
 PHN2ZyB2ZXJzaW9uPSIxLjEiIGlkPSJMYXllcl8xIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmc=
 vMjAwMC9zdmciIHhtbG5zOnhsaW5rPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5L3hsaW5rIiB4PS=
 IwcHgiIHk9IjBweCIgdmlld0JveD0iMCAwIDI0IDI0IiBlbmFibGUtYmFja2dyb3VuZD0ibmV3I=
 DAgMCAyNCAyNCIgeG1sOnNwYWNlPSJwcmVzZXJ2ZSI+CjxwYXRoIGQ9Ik0xOSA3djRINS44M2wz=
 LjU4LTMuNTlMOCA2bC02IDYgNiA2IDEuNDEtMS40MUw1LjgzIDEzSDIxVjd6Ii8+Cjwvc3ZnPgo=
-=3D" class=3D"view-line-link" title=3D"Jump to definition"><button aria-lab=
-el=3D"get =E2=80=8B/api=E2=80=8B/recommandation=E2=80=8B/playlist" class=3D=
-"opblock-control-arrow" aria-expanded=3D"false" tabindex=3D"-1"><svg xmlns=
-=3D"http://www.w3.org/2000/svg" viewBox=3D"0 0 20 20" class=3D"arrow" width=
-=3D"20" height=3D"20" aria-hidden=3D"true" focusable=3D"false"><path d=3D"M=
-17.418 6.109c.272-.268.709-.268.979 0s.271.701 0 .969l-7.908 7.83c-.27.268-=
-.707.268-.979 0l-7.908-7.83c-.27-.268-.27-.701 0-.969.271-.268.709-.268.979=
- 0L10 13.25l7.418-7.141z"></path></svg></button></div></div></span><span><d=
-iv class=3D"opblock opblock-get" id=3D"operations-recommandation-getRecooma=
-ndationBasedOnMusicStore"><div class=3D"opblock-summary opblock-summary-get=
-"><button aria-label=3D"get =E2=80=8B/api=E2=80=8B/recommandation=E2=80=8B/=
-musicStores" aria-expanded=3D"false" class=3D"opblock-summary-control"><spa=
-n class=3D"opblock-summary-method">GET</span><span class=3D"opblock-summary=
--path" data-path=3D"/api/recommandation/musicStores"><a class=3D"nostyle"><=
-span>/api<wbr>/recommandation<wbr>/musicStores</span></a></span><div class=
-=3D"opblock-summary-description">Get recommandation based on past song purc=
-hases on various music stores</div></button><div class=3D"view-line-link co=
-py-to-clipboard" title=3D"Copy to clipboard"><svg xmlns=3D"http://www.w3.or=
-g/2000/svg" viewBox=3D"0 0 15 16" width=3D"15" height=3D"16" aria-hidden=3D=
-"true" focusable=3D"false"><g transform=3D"translate(2, -1)"><path fill=3D"=
-#ffffff" fill-rule=3D"evenodd" d=3D"M2 13h4v1H2v-1zm5-6H2v1h5V7zm2 3V8l-3 3=
- 3 3v-2h5v-2H9zM4.5 9H2v1h2.5V9zM2 12h2.5v-1H2v1zm9 1h1v2c-.02.28-.11.52-.3=
-.7-.19.18-.42.28-.7.3H1c-.55 0-1-.45-1-1V4c0-.55.45-1 1-1h3c0-1.11.89-2 2-2=
- 1.11 0 2 .89 2 2h3c.55 0 1 .45 1 1v5h-1V6H1v9h10v-2zM2 5h8c0-.55-.45-1-1-1=
-H8c-.55 0-1-.45-1-1s-.45-1-1-1-1 .45-1 1-.45 1-1 1H3c-.55 0-1 .45-1 1z"></p=
-ath></g></svg></div><img src=3D"data:image/svg+xml;base64,PHN2ZyB2ZXJzaW9uP=
-SIxLjEiIGlkPSJMYXllcl8xIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHht=
-bG5zOnhsaW5rPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5L3hsaW5rIiB4PSIwcHgiIHk9IjBweCI=
-gdmlld0JveD0iMCAwIDI0IDI0IiBlbmFibGUtYmFja2dyb3VuZD0ibmV3IDAgMCAyNCAyNCIgeG=
-1sOnNwYWNlPSJwcmVzZXJ2ZSI+CjxwYXRoIGQ9Ik0xOSA3djRINS44M2wzLjU4LTMuNTlMOCA2b=
-C02IDYgNiA2IDEuNDEtMS40MUw1LjgzIDEzSDIxVjd6Ii8+Cjwvc3ZnPgo=3D" class=3D"vie=
-w-line-link" title=3D"Jump to definition"><button aria-label=3D"get =E2=80=
-=8B/api=E2=80=8B/recommandation=E2=80=8B/musicStores" class=3D"opblock-cont=
-rol-arrow" aria-expanded=3D"false" tabindex=3D"-1"><svg xmlns=3D"http://www=
-.w3.org/2000/svg" viewBox=3D"0 0 20 20" class=3D"arrow" width=3D"20" height=
-=3D"20" aria-hidden=3D"true" focusable=3D"false"><path d=3D"M17.418 6.109c.=
-272-.268.709-.268.979 0s.271.701 0 .969l-7.908 7.83c-.27.268-.707.268-.979 =
-0l-7.908-7.83c-.27-.268-.27-.701 0-.969.271-.268.709-.268.979 0L10 13.25l7.=
-418-7.141z"></path></svg></button></div></div></span><span><div class=3D"op=
-block opblock-post" id=3D"operations-recommandation-getRecoomandationBasedO=
-nUserInput"><div class=3D"opblock-summary opblock-summary-post"><button ari=
-a-label=3D"post =E2=80=8B/api=E2=80=8B/recommandation=E2=80=8B/input" aria-=
-expanded=3D"false" class=3D"opblock-summary-control"><span class=3D"opblock=
--summary-method">POST</span><span class=3D"opblock-summary-path" data-path=
-=3D"/api/recommandation/input"><a class=3D"nostyle"><span>/api<wbr>/recomma=
-ndation<wbr>/input</span></a></span><div class=3D"opblock-summary-descripti=
-on">Get recommandation based on user input</div></button><div class=3D"view=
--line-link copy-to-clipboard" title=3D"Copy to clipboard"><svg xmlns=3D"htt=
-p://www.w3.org/2000/svg" viewBox=3D"0 0 15 16" width=3D"15" height=3D"16" a=
-ria-hidden=3D"true" focusable=3D"false"><g transform=3D"translate(2, -1)"><=
-path fill=3D"#ffffff" fill-rule=3D"evenodd" d=3D"M2 13h4v1H2v-1zm5-6H2v1h5V=
-7zm2 3V8l-3 3 3 3v-2h5v-2H9zM4.5 9H2v1h2.5V9zM2 12h2.5v-1H2v1zm9 1h1v2c-.02=
-.28-.11.52-.3.7-.19.18-.42.28-.7.3H1c-.55 0-1-.45-1-1V4c0-.55.45-1 1-1h3c0-=
-1.11.89-2 2-2 1.11 0 2 .89 2 2h3c.55 0 1 .45 1 1v5h-1V6H1v9h10v-2zM2 5h8c0-=
-.55-.45-1-1-1H8c-.55 0-1-.45-1-1s-.45-1-1-1-1 .45-1 1-.45 1-1 1H3c-.55 0-1 =
-.45-1 1z"></path></g></svg></div><img src=3D"data:image/svg+xml;base64,PHN2=
-ZyB2ZXJzaW9uPSIxLjEiIGlkPSJMYXllcl8xIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjA=
-wMC9zdmciIHhtbG5zOnhsaW5rPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5L3hsaW5rIiB4PSIwcH=
-giIHk9IjBweCIgdmlld0JveD0iMCAwIDI0IDI0IiBlbmFibGUtYmFja2dyb3VuZD0ibmV3IDAgM=
-CAyNCAyNCIgeG1sOnNwYWNlPSJwcmVzZXJ2ZSI+CjxwYXRoIGQ9Ik0xOSA3djRINS44M2wzLjU4=
-LTMuNTlMOCA2bC02IDYgNiA2IDEuNDEtMS40MUw1LjgzIDEzSDIxVjd6Ii8+Cjwvc3ZnPgo=3D"=
- class=3D"view-line-link" title=3D"Jump to definition"><button aria-label=
-=3D"post =E2=80=8B/api=E2=80=8B/recommandation=E2=80=8B/input" class=3D"opb=
-lock-control-arrow" aria-expanded=3D"false" tabindex=3D"-1"><svg xmlns=3D"h=
-ttp://www.w3.org/2000/svg" viewBox=3D"0 0 20 20" class=3D"arrow" width=3D"2=
-0" height=3D"20" aria-hidden=3D"true" focusable=3D"false"><path d=3D"M17.41=
-8 6.109c.272-.268.709-.268.979 0s.271.701 0 .969l-7.908 7.83c-.27.268-.707.=
-268-.979 0l-7.908-7.83c-.27-.268-.27-.701 0-.969.271-.268.709-.268.979 0L10=
- 13.25l7.418-7.141z"></path></svg></button></div></div></span></div> </div>=
-</div></span></div></section></div><div class=3D"wrapper"><section class=3D=
-"block col-12 block-desktop col-12-desktop"><section class=3D"models is-ope=
-n"><h4><button aria-expanded=3D"true" class=3D"models-control"><span>Schema=
-s</span><svg xmlns=3D"http://www.w3.org/2000/svg" viewBox=3D"0 0 20 20" wid=
-th=3D"20" height=3D"20" aria-hidden=3D"true" focusable=3D"false"><path d=3D=
-"M 17.418 14.908 C 17.69 15.176 18.127 15.176 18.397 14.908 C 18.667 14.64 =
-18.668 14.207 18.397 13.939 L 10.489 6.109 C 10.219 5.841 9.782 5.841 9.51 =
-6.109 L 1.602 13.939 C 1.332 14.207 1.332 14.64 1.602 14.908 C 1.873 15.176=
- 2.311 15.176 2.581 14.908 L 10 7.767 L 17.418 14.908 Z"></path></svg></but=
-ton></h4><div class=3D"no-margin"> <div id=3D"model-User" class=3D"model-co=
-ntainer" data-name=3D"User"><span class=3D"models-jump-to-path"><img src=3D=
-"data:image/svg+xml;base64,PHN2ZyB2ZXJzaW9uPSIxLjEiIGlkPSJMYXllcl8xIiB4bWxu=
-cz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHhtbG5zOnhsaW5rPSJodHRwOi8vd3d3Lnc=
-zLm9yZy8xOTk5L3hsaW5rIiB4PSIwcHgiIHk9IjBweCIgdmlld0JveD0iMCAwIDI0IDI0IiBlbm=
-FibGUtYmFja2dyb3VuZD0ibmV3IDAgMCAyNCAyNCIgeG1sOnNwYWNlPSJwcmVzZXJ2ZSI+CjxwY=
-XRoIGQ9Ik0xOSA3djRINS44M2wzLjU4LTMuNTlMOCA2bC02IDYgNiA2IDEuNDEtMS40MUw1Ljgz=
-IDEzSDIxVjd6Ii8+Cjwvc3ZnPgo=3D" class=3D"view-line-link" title=3D"Jump to d=
-efinition"></span><span class=3D"model-box"><button aria-expanded=3D"false"=
- class=3D"model-box-control"><span class=3D"pointer"><span class=3D"model-b=
-ox"><span class=3D"model model-title">User</span></span></span><span class=
-=3D"model-toggle collapsed"></span><span> </span></button></span></div><div=
- id=3D"model-LoginUser" class=3D"model-container" data-name=3D"LoginUser"><=
-span class=3D"models-jump-to-path"><img src=3D"data:image/svg+xml;base64,PH=
-N2ZyB2ZXJzaW9uPSIxLjEiIGlkPSJMYXllcl8xIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvM=
-jAwMC9zdmciIHhtbG5zOnhsaW5rPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5L3hsaW5rIiB4PSIw=
-cHgiIHk9IjBweCIgdmlld0JveD0iMCAwIDI0IDI0IiBlbmFibGUtYmFja2dyb3VuZD0ibmV3IDA=
-gMCAyNCAyNCIgeG1sOnNwYWNlPSJwcmVzZXJ2ZSI+CjxwYXRoIGQ9Ik0xOSA3djRINS44M2wzLj=
-U4LTMuNTlMOCA2bC02IDYgNiA2IDEuNDEtMS40MUw1LjgzIDEzSDIxVjd6Ii8+Cjwvc3ZnPgo=
 =3D" class=3D"view-line-link" title=3D"Jump to definition"></span><span cla=
 ss=3D"model-box"><button aria-expanded=3D"false" class=3D"model-box-control=
 "><span class=3D"pointer"><span class=3D"model-box"><span class=3D"model mo=
@@ -1560,62 +1667,73 @@ span class=3D"model-box"><button aria-expanded=3D"false" class=3D"model-box=
 -control"><span class=3D"pointer"><span class=3D"model-box"><span class=3D"=
 model model-title">Recommandation</span></span></span><span class=3D"model-=
 toggle collapsed"></span><span> </span></button></span></div><div id=3D"mod=
-el-UserPlaylists" class=3D"model-container" data-name=3D"UserPlaylists"><sp=
-an class=3D"models-jump-to-path"><img src=3D"data:image/svg+xml;base64,PHN2=
-ZyB2ZXJzaW9uPSIxLjEiIGlkPSJMYXllcl8xIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjA=
-wMC9zdmciIHhtbG5zOnhsaW5rPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5L3hsaW5rIiB4PSIwcH=
-giIHk9IjBweCIgdmlld0JveD0iMCAwIDI0IDI0IiBlbmFibGUtYmFja2dyb3VuZD0ibmV3IDAgM=
-CAyNCAyNCIgeG1sOnNwYWNlPSJwcmVzZXJ2ZSI+CjxwYXRoIGQ9Ik0xOSA3djRINS44M2wzLjU4=
-LTMuNTlMOCA2bC02IDYgNiA2IDEuNDEtMS40MUw1LjgzIDEzSDIxVjd6Ii8+Cjwvc3ZnPgo=3D"=
- class=3D"view-line-link" title=3D"Jump to definition"></span><span class=
-=3D"model-box"><div class=3D"model-box"><span class=3D"model"><span class=
-=3D""><button aria-expanded=3D"true" class=3D"model-box-control"><span clas=
-s=3D"pointer"><span class=3D"model-title"><span class=3D"model-title__text"=
->UserPlaylists</span></span></span><span class=3D"model-toggle"></span></bu=
-tton>[<span><span class=3D"model"><span class=3D""><button aria-expanded=3D=
-"true" class=3D"model-box-control"><span class=3D"pointer"><span class=3D"m=
-odel-title"><span class=3D"model-title__text">UserPlaylists</span></span></=
-span><span class=3D"model-toggle"></span></button><span class=3D"brace-open=
- object">{</span><span class=3D"inner-object"><table class=3D"model"><tbody=
-><tr><td>&nbsp;</td></tr><tr><td>oneOf -&gt;</td><td><div><span class=3D"mo=
-del"><span class=3D""><button aria-expanded=3D"false" class=3D"model-box-co=
-ntrol"><span class=3D"pointer"><span class=3D"model-title"><span class=3D"m=
-odel-hint">https://editor.swagger.io/#/components/schemas/ReturnedPlaylist<=
-/span><span class=3D"model-title__text">ReturnedPlaylist</span></span></spa=
-n><span class=3D"model-toggle collapsed"></span><span><span><span>{</span>.=
-..<span>}</span><span class=3D"model-jump-to-path"><img src=3D"data:image/s=
-vg+xml;base64,PHN2ZyB2ZXJzaW9uPSIxLjEiIGlkPSJMYXllcl8xIiB4bWxucz0iaHR0cDovL=
-3d3dy53My5vcmcvMjAwMC9zdmciIHhtbG5zOnhsaW5rPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5=
-L3hsaW5rIiB4PSIwcHgiIHk9IjBweCIgdmlld0JveD0iMCAwIDI0IDI0IiBlbmFibGUtYmFja2d=
-yb3VuZD0ibmV3IDAgMCAyNCAyNCIgeG1sOnNwYWNlPSJwcmVzZXJ2ZSI+CjxwYXRoIGQ9Ik0xOS=
-A3djRINS44M2wzLjU4LTMuNTlMOCA2bC02IDYgNiA2IDEuNDEtMS40MUw1LjgzIDEzSDIxVjd6I=
-i8+Cjwvc3ZnPgo=3D" class=3D"view-line-link" title=3D"Jump to definition"></=
-span></span></span></button></span></span></div></td></tr></tbody></table><=
-/span><span class=3D"brace-close">}</span></span></span></span>]</span></sp=
-an></div></span></div><div id=3D"model-PlaylistSong" class=3D"model-contain=
-er" data-name=3D"PlaylistSong"><span class=3D"models-jump-to-path"><img src=
-=3D"data:image/svg+xml;base64,PHN2ZyB2ZXJzaW9uPSIxLjEiIGlkPSJMYXllcl8xIiB4b=
-Wxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHhtbG5zOnhsaW5rPSJodHRwOi8vd3d3=
-LnczLm9yZy8xOTk5L3hsaW5rIiB4PSIwcHgiIHk9IjBweCIgdmlld0JveD0iMCAwIDI0IDI0IiB=
-lbmFibGUtYmFja2dyb3VuZD0ibmV3IDAgMCAyNCAyNCIgeG1sOnNwYWNlPSJwcmVzZXJ2ZSI+Cj=
-xwYXRoIGQ9Ik0xOSA3djRINS44M2wzLjU4LTMuNTlMOCA2bC02IDYgNiA2IDEuNDEtMS40MUw1L=
-jgzIDEzSDIxVjd6Ii8+Cjwvc3ZnPgo=3D" class=3D"view-line-link" title=3D"Jump t=
-o definition"></span><span class=3D"model-box"><button aria-expanded=3D"fal=
-se" class=3D"model-box-control"><span class=3D"pointer"><span class=3D"mode=
-l-box"><span class=3D"model model-title">PlaylistSong</span></span></span><=
-span class=3D"model-toggle collapsed"></span><span> </span></button></span>=
-</div> </div></section></section></div></div></div></div></div></div></sect=
-ion></div></div></div>
+el-Share" class=3D"model-container" data-name=3D"Share"><span class=3D"mode=
+ls-jump-to-path"><img src=3D"data:image/svg+xml;base64,PHN2ZyB2ZXJzaW9uPSIx=
+LjEiIGlkPSJMYXllcl8xIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHhtbG5=
+zOnhsaW5rPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5L3hsaW5rIiB4PSIwcHgiIHk9IjBweCIgdm=
+lld0JveD0iMCAwIDI0IDI0IiBlbmFibGUtYmFja2dyb3VuZD0ibmV3IDAgMCAyNCAyNCIgeG1sO=
+nNwYWNlPSJwcmVzZXJ2ZSI+CjxwYXRoIGQ9Ik0xOSA3djRINS44M2wzLjU4LTMuNTlMOCA2bC02=
+IDYgNiA2IDEuNDEtMS40MUw1LjgzIDEzSDIxVjd6Ii8+Cjwvc3ZnPgo=3D" class=3D"view-l=
+ine-link" title=3D"Jump to definition"></span><span class=3D"model-box"><bu=
+tton aria-expanded=3D"false" class=3D"model-box-control"><span class=3D"poi=
+nter"><span class=3D"model-box"><span class=3D"model model-title">Share</sp=
+an></span></span><span class=3D"model-toggle collapsed"></span><span> </spa=
+n></button></span></div><div id=3D"model-UserPlaylists" class=3D"model-cont=
+ainer" data-name=3D"UserPlaylists"><span class=3D"models-jump-to-path"><img=
+ src=3D"data:image/svg+xml;base64,PHN2ZyB2ZXJzaW9uPSIxLjEiIGlkPSJMYXllcl8xI=
+iB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHhtbG5zOnhsaW5rPSJodHRwOi8v=
+d3d3LnczLm9yZy8xOTk5L3hsaW5rIiB4PSIwcHgiIHk9IjBweCIgdmlld0JveD0iMCAwIDI0IDI=
+0IiBlbmFibGUtYmFja2dyb3VuZD0ibmV3IDAgMCAyNCAyNCIgeG1sOnNwYWNlPSJwcmVzZXJ2ZS=
+I+CjxwYXRoIGQ9Ik0xOSA3djRINS44M2wzLjU4LTMuNTlMOCA2bC02IDYgNiA2IDEuNDEtMS40M=
+Uw1LjgzIDEzSDIxVjd6Ii8+Cjwvc3ZnPgo=3D" class=3D"view-line-link" title=3D"Ju=
+mp to definition"></span><span class=3D"model-box"><div class=3D"model-box"=
+><span class=3D"model"><span class=3D""><button aria-expanded=3D"true" clas=
+s=3D"model-box-control"><span class=3D"pointer"><span class=3D"model-title"=
+><span class=3D"model-title__text">UserPlaylists</span></span></span><span =
+class=3D"model-toggle"></span></button>[<span><span class=3D"model"><span c=
+lass=3D""><button aria-expanded=3D"true" class=3D"model-box-control"><span =
+class=3D"pointer"><span class=3D"model-title"><span class=3D"model-title__t=
+ext">UserPlaylists</span></span></span><span class=3D"model-toggle"></span>=
+</button><span class=3D"brace-open object">{</span><span class=3D"inner-obj=
+ect"><table class=3D"model"><tbody><tr><td>&nbsp;</td></tr><tr><td>oneOf -&=
+gt;</td><td><div><span class=3D"model"><span class=3D""><button aria-expand=
+ed=3D"false" class=3D"model-box-control"><span class=3D"pointer"><span clas=
+s=3D"model-title"><span class=3D"model-hint">https://editor.swagger.io/#/co=
+mponents/schemas/ReturnedPlaylist</span><span class=3D"model-title__text">R=
+eturnedPlaylist</span></span></span><span class=3D"model-toggle collapsed">=
+</span><span><span><span>{</span>...<span>}</span><span class=3D"model-jump=
+-to-path"><img src=3D"data:image/svg+xml;base64,PHN2ZyB2ZXJzaW9uPSIxLjEiIGl=
+kPSJMYXllcl8xIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHhtbG5zOnhsaW=
+5rPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5L3hsaW5rIiB4PSIwcHgiIHk9IjBweCIgdmlld0Jve=
+D0iMCAwIDI0IDI0IiBlbmFibGUtYmFja2dyb3VuZD0ibmV3IDAgMCAyNCAyNCIgeG1sOnNwYWNl=
+PSJwcmVzZXJ2ZSI+CjxwYXRoIGQ9Ik0xOSA3djRINS44M2wzLjU4LTMuNTlMOCA2bC02IDYgNiA=
+2IDEuNDEtMS40MUw1LjgzIDEzSDIxVjd6Ii8+Cjwvc3ZnPgo=3D" class=3D"view-line-lin=
+k" title=3D"Jump to definition"></span></span></span></button></span></span=
+></div></td></tr></tbody></table></span><span class=3D"brace-close">}</span=
+></span></span></span>]</span></span></div></span></div><div id=3D"model-Pl=
+aylistSong" class=3D"model-container" data-name=3D"PlaylistSong"><span clas=
+s=3D"models-jump-to-path"><img src=3D"data:image/svg+xml;base64,PHN2ZyB2ZXJ=
+zaW9uPSIxLjEiIGlkPSJMYXllcl8xIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdm=
+ciIHhtbG5zOnhsaW5rPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5L3hsaW5rIiB4PSIwcHgiIHk9I=
+jBweCIgdmlld0JveD0iMCAwIDI0IDI0IiBlbmFibGUtYmFja2dyb3VuZD0ibmV3IDAgMCAyNCAy=
+NCIgeG1sOnNwYWNlPSJwcmVzZXJ2ZSI+CjxwYXRoIGQ9Ik0xOSA3djRINS44M2wzLjU4LTMuNTl=
+MOCA2bC02IDYgNiA2IDEuNDEtMS40MUw1LjgzIDEzSDIxVjd6Ii8+Cjwvc3ZnPgo=3D" class=
+=3D"view-line-link" title=3D"Jump to definition"></span><span class=3D"mode=
+l-box"><button aria-expanded=3D"false" class=3D"model-box-control"><span cl=
+ass=3D"pointer"><span class=3D"model-box"><span class=3D"model model-title"=
+>PlaylistSong</span></span></span><span class=3D"model-toggle collapsed"></=
+span><span> </span></button></span></div> </div></section></section></div><=
+/div></div></div></div></div></section></div></div></div>
  =20
  =20
  =20
 
 
 <iframe sandbox=3D"" style=3D"display: none;"></iframe></body></html>
-------MultipartBoundary--TYHCsn4wmh4BWMdgU9NGcN2iJP7UTzVRwN3lCjpxvB----
+------MultipartBoundary--QslLSVFPyX99rz3CHOEhNNfkennGjGBm3OjIyCeVbe----
 Content-Type: text/css
 Content-Transfer-Encoding: quoted-printable
-Content-Location: cid:css-5ca8a9fa-0871-4c8f-b0ee-7bd4e14ae139@mhtml.blink
+Content-Location: cid:css-51fc5d4a-d824-492f-aff1-51841a259066@mhtml.blink
 
 @charset "utf-8";
 
@@ -1632,10 +1750,10 @@ t: auto; }
 #editor-wrapper { height: 100%; border: none; }
 
 .Pane2 { overflow-y: scroll; }
-------MultipartBoundary--TYHCsn4wmh4BWMdgU9NGcN2iJP7UTzVRwN3lCjpxvB----
+------MultipartBoundary--QslLSVFPyX99rz3CHOEhNNfkennGjGBm3OjIyCeVbe----
 Content-Type: text/css
 Content-Transfer-Encoding: quoted-printable
-Content-Location: cid:css-fbbd2a99-a5cc-4b6a-b96b-943a2481f50e@mhtml.blink
+Content-Location: cid:css-17484b5b-56ca-41a3-abd8-58910b28b5d3@mhtml.blink
 
 @charset "utf-8";
 
@@ -1907,10 +2025,10 @@ border-bottom-left-radius: 3px; }
 
 .ace_text-input-ios { position: absolute !important; top: -100000px !import=
 ant; left: -100000px !important; }
-------MultipartBoundary--TYHCsn4wmh4BWMdgU9NGcN2iJP7UTzVRwN3lCjpxvB----
+------MultipartBoundary--QslLSVFPyX99rz3CHOEhNNfkennGjGBm3OjIyCeVbe----
 Content-Type: text/css
 Content-Transfer-Encoding: quoted-printable
-Content-Location: cid:css-252da3a5-b8d8-48ac-8348-7f762fdef654@mhtml.blink
+Content-Location: cid:css-556f46d3-53d8-4850-8725-732a722dddd9@mhtml.blink
 
 @charset "utf-8";
 
@@ -1997,10 +2115,10 @@ x 3px 0px; }
 .ace-tm .ace_indent-guide { background: url("data:image/png;base64,iVBORw0K=
 GgoAAAANSUhEUgAAAAEAAAACCAYAAACZgbYnAAAAE0lEQVQImWP4////f4bLly//BwAmVgd1/w1=
 1/gAAAABJRU5ErkJggg=3D=3D") right center repeat-y; }
-------MultipartBoundary--TYHCsn4wmh4BWMdgU9NGcN2iJP7UTzVRwN3lCjpxvB----
+------MultipartBoundary--QslLSVFPyX99rz3CHOEhNNfkennGjGBm3OjIyCeVbe----
 Content-Type: text/css
 Content-Transfer-Encoding: quoted-printable
-Content-Location: cid:css-8cc15368-9c33-4152-9ee5-2cd3005d5445@mhtml.blink
+Content-Location: cid:css-9ee246cf-5dd4-4cdc-9f82-982419ee3701@mhtml.blink
 
 @charset "utf-8";
 
@@ -2026,20 +2144,20 @@ rgb(241, 216, 23); }
 solid; border-bottom-color: initial; border-image: initial; top: -5px; bord=
 er-top-color: transparent !important; border-right-color: transparent !impo=
 rtant; border-left-color: transparent !important; }
-------MultipartBoundary--TYHCsn4wmh4BWMdgU9NGcN2iJP7UTzVRwN3lCjpxvB----
+------MultipartBoundary--QslLSVFPyX99rz3CHOEhNNfkennGjGBm3OjIyCeVbe----
 Content-Type: text/css
 Content-Transfer-Encoding: quoted-printable
-Content-Location: cid:css-4a3c26a3-5c22-4c47-800c-85885a968aa9@mhtml.blink
+Content-Location: cid:css-c1aa606b-73c0-4bc6-9ce0-fbbe310bc594@mhtml.blink
 
 @charset "utf-8";
 
 .ace_snippet-marker { box-sizing: border-box; background: rgba(194, 193, 20=
 8, 0.09); border: 1px dotted rgba(211, 208, 235, 0.62); position: absolute;=
  }
-------MultipartBoundary--TYHCsn4wmh4BWMdgU9NGcN2iJP7UTzVRwN3lCjpxvB----
+------MultipartBoundary--QslLSVFPyX99rz3CHOEhNNfkennGjGBm3OjIyCeVbe----
 Content-Type: text/css
 Content-Transfer-Encoding: quoted-printable
-Content-Location: cid:css-3d168e99-3e8d-4714-ab96-e275d71dec0f@mhtml.blink
+Content-Location: cid:css-d3c19972-bb83-4161-a497-a676a403fdec@mhtml.blink
 
 @charset "utf-8";
 
@@ -2065,10 +2183,10 @@ ute; right: 4px; text-align: right; z-index: -1; }
 gb(251, 251, 251); color: rgb(68, 68, 68); border: 1px solid lightgray; pos=
 ition: fixed; box-shadow: rgba(0, 0, 0, 0.2) 2px 3px 5px; line-height: 1.4;=
  }
-------MultipartBoundary--TYHCsn4wmh4BWMdgU9NGcN2iJP7UTzVRwN3lCjpxvB----
+------MultipartBoundary--QslLSVFPyX99rz3CHOEhNNfkennGjGBm3OjIyCeVbe----
 Content-Type: text/css
 Content-Transfer-Encoding: quoted-printable
-Content-Location: cid:css-31c30ee5-084e-41f7-81d7-65bbc5b61271@mhtml.blink
+Content-Location: cid:css-ff90668c-3976-4e0c-bdd2-5121eb6fbe2e@mhtml.blink
 
 @charset "utf-8";
 
@@ -2149,10 +2267,10 @@ ng: 1px; color: black; box-sizing: border-box !important; }
 one; clear: both; }
 
 .ace_search_counter { float: left; font-family: arial; padding: 0px 8px; }
-------MultipartBoundary--TYHCsn4wmh4BWMdgU9NGcN2iJP7UTzVRwN3lCjpxvB----
+------MultipartBoundary--QslLSVFPyX99rz3CHOEhNNfkennGjGBm3OjIyCeVbe----
 Content-Type: text/css
 Content-Transfer-Encoding: quoted-printable
-Content-Location: cid:css-14e783d0-72b1-4a04-a0ba-d50d99af87fa@mhtml.blink
+Content-Location: cid:css-d050f8c7-ac1a-4593-ba16-78874052a654@mhtml.blink
 
 @charset "utf-8";
 
@@ -2237,7 +2355,7 @@ lor: rgb(242, 119, 122); }
 .ace-tomorrow-night-eighties .ace_indent-guide { background: url("data:imag=
 e/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAACCAYAAACZgbYnAAAAEklEQVQImWPQ09=
 NrYAgMjP4PAAtGAwchHMyAAAAAAElFTkSuQmCC") right center repeat-y; }
-------MultipartBoundary--TYHCsn4wmh4BWMdgU9NGcN2iJP7UTzVRwN3lCjpxvB----
+------MultipartBoundary--QslLSVFPyX99rz3CHOEhNNfkennGjGBm3OjIyCeVbe----
 Content-Type: text/css
 Content-Transfer-Encoding: quoted-printable
 Content-Location: https://editor.swagger.io/dist/swagger-editor.css
@@ -8109,11 +8227,11 @@ tandalone .dd-menu .dd-menu-items ul li { font-size: 0.9rem; }
 er { border-radius: 0px 0px 4px 4px; }
 
 div.ace_editor.ace_autocomplete { width: 50%; }
-------MultipartBoundary--TYHCsn4wmh4BWMdgU9NGcN2iJP7UTzVRwN3lCjpxvB----
+------MultipartBoundary--QslLSVFPyX99rz3CHOEhNNfkennGjGBm3OjIyCeVbe----
 Content-Type: text/html
 Content-ID: <frame-147D6F14249B4456F78D4EDC4AEB75AE@mhtml.blink>
 Content-Transfer-Encoding: quoted-printable
 
 <html><head><meta http-equiv=3D"Content-Type" content=3D"text/html; charset=
 =3DUTF-8"></head><body></body></html>
-------MultipartBoundary--TYHCsn4wmh4BWMdgU9NGcN2iJP7UTzVRwN3lCjpxvB------
+------MultipartBoundary--QslLSVFPyX99rz3CHOEhNNfkennGjGBm3OjIyCeVbe------

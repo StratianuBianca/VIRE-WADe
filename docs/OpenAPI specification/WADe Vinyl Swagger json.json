@@ -888,6 +888,47 @@
           }
         }
       }
+    },
+    "/api/share/playlist": {
+      "get": {
+        "tags": [
+          "share"
+        ],
+        "summary": "Share playlist for friends",
+        "description": "",
+        "operationId": "sharePlaylist",
+        "parameters": [
+          {
+            "in": "query",
+            "name": "playlistId",
+            "required": true,
+            "schema": {
+              "type": "integer"
+            },
+            "allowReserved": true
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "successful operation",
+            "content": {
+              "application/json": {
+                "schema": {
+                  "$ref": "#/components/schemas/Share"
+                }
+              },
+              "application/xml": {
+                "schema": {
+                  "$ref": "#/components/schemas/Share"
+                }
+              }
+            }
+          },
+          "400": {
+            "description": "No user playlists available"
+          }
+        }
+      }
     }
   },
   "components": {
@@ -1047,6 +1088,15 @@
           "details": {
             "type": "string",
             "example": "aas"
+          }
+        }
+      },
+      "Share": {
+        "type": "object",
+        "properties": {
+          "link": {
+            "type": "string",
+            "example": "aa"
           }
         }
       },
