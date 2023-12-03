@@ -7,6 +7,7 @@ Build a (micro-)service Web system able to "intelligently" recommend – by expo
 ## Design and arhitecture
 
 * Technical report: https://github.com/StratianuBianca/VIRE-WADe/blob/main/architecture/scholarly.html
+* OpenAPI specification : https://github.com/StratianuBianca/VIRE-WADe/blob/main/OpenAPI%20specification/WADe%20Vinyl%20Swagger.mhtml
 
 ## Project progress: 
 

@@ -1,0 +1,1075 @@
+{
+  "openapi": "3.0.3",
+  "info": {
+    "title": "Swagger Vinyl - OpenAPI 3.0",
+    "description": "This is Vinyl Server based on the OpenAPI 3.0 specification.",
+    "termsOfService": "http://swagger.io/terms/",
+    "contact": {
+      "email": "apiteam@swagger.io"
+    },
+    "license": {
+      "name": "Apache 2.0",
+      "url": "http://www.apache.org/licenses/LICENSE-2.0.html"
+    },
+    "version": "1.0.11"
+  },
+  "externalDocs": {
+    "description": "Find out more about Swagger",
+    "url": "http://swagger.io"
+  },
+  "servers": [
+    {
+      "url": "https://vinylswagger.io/api/"
+    }
+  ],
+  "tags": [
+    {
+      "name": "user",
+      "description": "Operations about user"
+    },
+    {
+      "name": "spotify",
+      "description": "Connect on spotify account"
+    },
+    {
+      "name": "song",
+      "description": "Operations about song"
+    },
+    {
+      "name": "playlist",
+      "description": "Operations about playlist"
+    }
+  ],
+  "paths": {
+    "/register": {
+      "post": {
+        "tags": [
+          "user"
+        ],
+        "summary": "Create user",
+        "description": "Create new user",
+        "operationId": "createUser",
+        "requestBody": {
+          "description": "Created user object",
+          "content": {
+            "application/json": {
+              "schema": {
+                "$ref": "#/components/schemas/User"
+              }
+            },
+            "application/xml": {
+              "schema": {
+                "$ref": "#/components/schemas/User"
+              }
+            },
+            "application/x-www-form-urlencoded": {
+              "schema": {
+                "$ref": "#/components/schemas/User"
+              }
+            }
+          }
+        },
+        "responses": {
+          "200": {
+            "description": "successful operation",
+            "content": {
+              "application/json": {
+                "schema": {
+                  "$ref": "#/components/schemas/RegisterUser"
+                }
+              },
+              "application/xml": {
+                "schema": {
+                  "$ref": "#/components/schemas/RegisterUser"
+                }
+              }
+            }
+          },
+          "400": {
+            "description": "User not created/already exists"
+          }
+        }
+      }
+    },
+    "/login": {
+      "post": {
+        "tags": [
+          "user"
+        ],
+        "summary": "Logs user into the system",
+        "description": "",
+        "operationId": "loginUser",
+        "requestBody": {
+          "description": "Created user object",
+          "content": {
+            "application/json": {
+              "schema": {
+                "$ref": "#/components/schemas/LoginUser"
+              }
+            },
+            "application/xml": {
+              "schema": {
+                "$ref": "#/components/schemas/LoginUser"
+              }
+            },
+            "application/x-www-form-urlencoded": {
+              "schema": {
+                "$ref": "#/components/schemas/LoginUser"
+              }
+            }
+          }
+        },
+        "responses": {
+          "200": {
+            "description": "successful operation",
+            "content": {
+              "application/xml": {
+                "schema": {
+                  "type": "string"
+                }
+              },
+              "application/json": {
+                "schema": {
+                  "type": "string"
+                }
+              }
+            }
+          },
+          "400": {
+            "description": "Incorrect username or password"
+          }
+        }
+      }
+    },
+    "/api/logout": {
+      "get": {
+        "tags": [
+          "user"
+        ],
+        "summary": "Logs out current logged in user session",
+        "description": "",
+        "operationId": "logoutUser",
+        "parameters": [],
+        "responses": {
+          "default": {
+            "description": "successful operation"
+          }
+        }
+      }
+    },
+    "/api/updateUser": {
+      "put": {
+        "tags": [
+          "user"
+        ],
+        "summary": "Update user",
+        "description": "Updateuser",
+        "operationId": "updateUser",
+        "requestBody": {
+          "description": "Update user object",
+          "content": {
+            "application/json": {
+              "schema": {
+                "$ref": "#/components/schemas/RegisterUser"
+              }
+            },
+            "application/xml": {
+              "schema": {
+                "$ref": "#/components/schemas/RegisterUser"
+              }
+            }
+          }
+        },
+        "responses": {
+          "200": {
+            "description": "successful operation",
+            "content": {
+              "application/json": {
+                "schema": {
+                  "$ref": "#/components/schemas/RegisterUser"
+                }
+              },
+              "application/xml": {
+                "schema": {
+                  "$ref": "#/components/schemas/RegisterUser"
+                }
+              }
+            }
+          },
+          "400": {
+            "description": "User not created/already exists"
+          }
+        }
+      }
+    },
+    "/api/user/playlists": {
+      "get": {
+        "tags": [
+          "user"
+        ],
+        "summary": "Get user playlists",
+        "description": "",
+        "operationId": "userPlaylist",
+        "parameters": [
+          {
+            "in": "query",
+            "name": "userId",
+            "required": true,
+            "schema": {
+              "type": "string"
+            },
+            "allowReserved": true
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "successful operation",
+            "content": {
+              "application/json": {
+                "schema": {
+                  "$ref": "#/components/schemas/UserPlaylists"
+                }
+              },
+              "application/xml": {
+                "schema": {
+                  "$ref": "#/components/schemas/UserPlaylists"
+                }
+              }
+            }
+          },
+          "400": {
+            "description": "User not found"
+          }
+        }
+      }
+    },
+    "/api/spotify/login": {
+      "get": {
+        "tags": [
+          "spotify"
+        ],
+        "summary": "Log user on spotify account",
+        "description": "",
+        "operationId": "spotifyLogin",
+        "parameters": [],
+        "responses": {
+          "200": {
+            "description": "uri for login on spotify",
+            "content": {
+              "application/xml": {
+                "schema": {
+                  "type": "string"
+                }
+              },
+              "application/json": {
+                "schema": {
+                  "type": "string"
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "/api/spotify/getToken": {
+      "get": {
+        "tags": [
+          "spotify"
+        ],
+        "summary": "Get user token on spotify account",
+        "description": "",
+        "operationId": "spotifyToken",
+        "parameters": [
+          {
+            "in": "query",
+            "name": "code",
+            "required": true,
+            "schema": {
+              "type": "string"
+            },
+            "allowReserved": true
+          }
+        ],
+        "responses": {
+          "default": {
+            "description": "successful operation"
+          }
+        }
+      }
+    },
+    "/api/lastfm/login": {
+      "get": {
+        "tags": [
+          "Last.fm"
+        ],
+        "summary": "Log user on last.fm account",
+        "description": "",
+        "operationId": "Last.fm Login",
+        "parameters": [],
+        "responses": {
+          "200": {
+            "description": "uri for login on Last.fm",
+            "content": {
+              "application/xml": {
+                "schema": {
+                  "type": "string"
+                }
+              },
+              "application/json": {
+                "schema": {
+                  "type": "string"
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "/api/lastfm/getToken": {
+      "get": {
+        "tags": [
+          "Last.fm"
+        ],
+        "summary": "Get user token on Last.fm account",
+        "description": "",
+        "operationId": "Last.fm Token",
+        "parameters": [
+          {
+            "in": "query",
+            "name": "code",
+            "required": true,
+            "schema": {
+              "type": "string"
+            },
+            "allowReserved": true
+          }
+        ],
+        "responses": {
+          "default": {
+            "description": "successful operation"
+          }
+        }
+      }
+    },
+    "/api/song": {
+      "post": {
+        "tags": [
+          "song"
+        ],
+        "summary": "Add new song",
+        "description": "Create new song",
+        "operationId": "addSong",
+        "requestBody": {
+          "description": "Created song object",
+          "content": {
+            "application/json": {
+              "schema": {
+                "$ref": "#/components/schemas/ReturnedSong"
+              }
+            },
+            "application/xml": {
+              "schema": {
+                "$ref": "#/components/schemas/ReturnedSong"
+              }
+            }
+          }
+        },
+        "responses": {
+          "200": {
+            "description": "successful operation",
+            "content": {
+              "application/json": {
+                "schema": {
+                  "$ref": "#/components/schemas/ReturnedSong"
+                }
+              },
+              "application/xml": {
+                "schema": {
+                  "$ref": "#/components/schemas/ReturnedSong"
+                }
+              }
+            }
+          },
+          "400": {
+            "description": "Song not added"
+          }
+        }
+      },
+      "get": {
+        "tags": [
+          "song"
+        ],
+        "summary": "Get song by song id",
+        "description": "",
+        "operationId": "getSong",
+        "parameters": [
+          {
+            "in": "query",
+            "name": "songid",
+            "required": true,
+            "schema": {
+              "type": "string"
+            },
+            "allowReserved": true
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "successful operation",
+            "content": {
+              "application/json": {
+                "schema": {
+                  "$ref": "#/components/schemas/ReturnedSong"
+                }
+              },
+              "application/xml": {
+                "schema": {
+                  "$ref": "#/components/schemas/ReturnedSong"
+                }
+              }
+            }
+          },
+          "400": {
+            "description": "Song not found"
+          }
+        }
+      },
+      "delete": {
+        "tags": [
+          "song"
+        ],
+        "summary": "Delete song by song id",
+        "description": "",
+        "operationId": "deleteSong",
+        "parameters": [
+          {
+            "in": "query",
+            "name": "songid",
+            "required": true,
+            "schema": {
+              "type": "string"
+            },
+            "allowReserved": true
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "successful operation"
+          },
+          "400": {
+            "description": "Song not found"
+          }
+        }
+      },
+      "put": {
+        "tags": [
+          "song"
+        ],
+        "summary": "Update song",
+        "description": "Update song",
+        "operationId": "updateSong",
+        "requestBody": {
+          "description": "Created song object",
+          "content": {
+            "application/json": {
+              "schema": {
+                "$ref": "#/components/schemas/Song"
+              }
+            },
+            "application/xml": {
+              "schema": {
+                "$ref": "#/components/schemas/Song"
+              }
+            }
+          }
+        },
+        "responses": {
+          "200": {
+            "description": "successful operation",
+            "content": {
+              "application/json": {
+                "schema": {
+                  "$ref": "#/components/schemas/ReturnedSong"
+                }
+              },
+              "application/xml": {
+                "schema": {
+                  "$ref": "#/components/schemas/ReturnedSong"
+                }
+              }
+            }
+          },
+          "400": {
+            "description": "Song not added"
+          }
+        }
+      }
+    },
+    "/api/playlist": {
+      "post": {
+        "tags": [
+          "playlist"
+        ],
+        "summary": "Add new playlist",
+        "description": "Create new playlist",
+        "operationId": "addPlaylist",
+        "requestBody": {
+          "description": "Created playlist object",
+          "content": {
+            "application/json": {
+              "schema": {
+                "$ref": "#/components/schemas/Playlist"
+              }
+            },
+            "application/xml": {
+              "schema": {
+                "$ref": "#/components/schemas/Playlist"
+              }
+            }
+          }
+        },
+        "responses": {
+          "200": {
+            "description": "successful operation",
+            "content": {
+              "application/json": {
+                "schema": {
+                  "$ref": "#/components/schemas/ReturnedPlaylist"
+                }
+              },
+              "application/xml": {
+                "schema": {
+                  "$ref": "#/components/schemas/ReturnedPlaylist"
+                }
+              }
+            }
+          },
+          "400": {
+            "description": "Song not added"
+          }
+        }
+      },
+      "get": {
+        "tags": [
+          "playlist"
+        ],
+        "summary": "Get playlist by playlist id",
+        "description": "",
+        "operationId": "getPlaylist",
+        "parameters": [
+          {
+            "in": "query",
+            "name": "playlistId",
+            "required": true,
+            "schema": {
+              "type": "string"
+            },
+            "allowReserved": true
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "successful operation",
+            "content": {
+              "application/json": {
+                "schema": {
+                  "$ref": "#/components/schemas/ReturnedPlaylist"
+                }
+              },
+              "application/xml": {
+                "schema": {
+                  "$ref": "#/components/schemas/ReturnedPlaylist"
+                }
+              }
+            }
+          },
+          "400": {
+            "description": "Playlist not found"
+          }
+        }
+      },
+      "delete": {
+        "tags": [
+          "playlist"
+        ],
+        "summary": "Delete playlist by playlist id",
+        "description": "",
+        "operationId": "deletePlaylist",
+        "parameters": [
+          {
+            "in": "query",
+            "name": "playlistId",
+            "required": true,
+            "schema": {
+              "type": "string"
+            },
+            "allowReserved": true
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "successful operation"
+          },
+          "400": {
+            "description": "playlist not found"
+          }
+        }
+      },
+      "put": {
+        "tags": [
+          "playlist"
+        ],
+        "summary": "Update playlist",
+        "description": "Update playlist",
+        "operationId": "updatePlaylist",
+        "requestBody": {
+          "description": "Created song object",
+          "content": {
+            "application/json": {
+              "schema": {
+                "$ref": "#/components/schemas/Playlist"
+              }
+            },
+            "application/xml": {
+              "schema": {
+                "$ref": "#/components/schemas/Playlist"
+              }
+            }
+          }
+        },
+        "responses": {
+          "200": {
+            "description": "successful operation",
+            "content": {
+              "application/json": {
+                "schema": {
+                  "$ref": "#/components/schemas/ReturnedPlaylist"
+                }
+              },
+              "application/xml": {
+                "schema": {
+                  "$ref": "#/components/schemas/ReturnedPlaylist"
+                }
+              }
+            }
+          },
+          "400": {
+            "description": "Playlist not added"
+          }
+        }
+      }
+    },
+    "/api/playlist/song": {
+      "get": {
+        "tags": [
+          "playlist/song"
+        ],
+        "summary": "Get songs by playlist id",
+        "description": "",
+        "operationId": "getSongByPlaylist",
+        "parameters": [
+          {
+            "in": "query",
+            "name": "playlistId",
+            "required": true,
+            "schema": {
+              "type": "string"
+            },
+            "allowReserved": true
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "successful operation",
+            "content": {
+              "application/json": {
+                "schema": {
+                  "$ref": "#/components/schemas/PlaylistSong"
+                }
+              },
+              "application/xml": {
+                "schema": {
+                  "$ref": "#/components/schemas/PlaylistSong"
+                }
+              }
+            }
+          },
+          "400": {
+            "description": "Playlist not found"
+          }
+        }
+      },
+      "put": {
+        "tags": [
+          "playlist/song"
+        ],
+        "summary": "Add new song on existing playlist",
+        "description": "add new song",
+        "operationId": "addSongOnPlaylist",
+        "parameters": [
+          {
+            "in": "query",
+            "name": "playlistId",
+            "required": true,
+            "schema": {
+              "type": "string"
+            },
+            "allowReserved": true
+          }
+        ],
+        "requestBody": {
+          "description": "Update playlist object with new song",
+          "content": {
+            "application/json": {
+              "schema": {
+                "$ref": "#/components/schemas/Song"
+              }
+            },
+            "application/xml": {
+              "schema": {
+                "$ref": "#/components/schemas/Song"
+              }
+            }
+          }
+        },
+        "responses": {
+          "200": {
+            "description": "successful operation",
+            "content": {
+              "application/json": {
+                "schema": {
+                  "$ref": "#/components/schemas/ReturnedPlaylist"
+                }
+              },
+              "application/xml": {
+                "schema": {
+                  "$ref": "#/components/schemas/ReturnedPlaylist"
+                }
+              }
+            }
+          },
+          "400": {
+            "description": "Song not added"
+          }
+        }
+      }
+    },
+    "/api/recommandation/song": {
+      "get": {
+        "tags": [
+          "recommandation"
+        ],
+        "summary": "Get recommandation based on user songs",
+        "description": "",
+        "operationId": "getRecoomandationBasedOnSongs",
+        "responses": {
+          "200": {
+            "description": "successful operation",
+            "content": {
+              "application/json": {
+                "schema": {
+                  "$ref": "#/components/schemas/Recommandation"
+                }
+              },
+              "application/xml": {
+                "schema": {
+                  "$ref": "#/components/schemas/Recommandation"
+                }
+              }
+            }
+          },
+          "400": {
+            "description": "No user songs available"
+          }
+        }
+      }
+    },
+    "/api/recommandation/playlist": {
+      "get": {
+        "tags": [
+          "recommandation"
+        ],
+        "summary": "Get recommandation based on user playlists",
+        "description": "",
+        "operationId": "getRecoomandationBasedOnPlaylists",
+        "responses": {
+          "200": {
+            "description": "successful operation",
+            "content": {
+              "application/json": {
+                "schema": {
+                  "$ref": "#/components/schemas/Recommandation"
+                }
+              },
+              "application/xml": {
+                "schema": {
+                  "$ref": "#/components/schemas/Recommandation"
+                }
+              }
+            }
+          },
+          "400": {
+            "description": "No user playlists available"
+          }
+        }
+      }
+    },
+    "/api/recommandation/musicStores": {
+      "get": {
+        "tags": [
+          "recommandation"
+        ],
+        "summary": "Get recommandation based on past song purchases on various music stores",
+        "description": "",
+        "operationId": "getRecoomandationBasedOnMusicStore",
+        "responses": {
+          "200": {
+            "description": "successful operation",
+            "content": {
+              "application/json": {
+                "schema": {
+                  "$ref": "#/components/schemas/Recommandation"
+                }
+              },
+              "application/xml": {
+                "schema": {
+                  "$ref": "#/components/schemas/Recommandation"
+                }
+              }
+            }
+          },
+          "400": {
+            "description": "No user playlists available"
+          }
+        }
+      }
+    },
+    "/api/recommandation/input": {
+      "post": {
+        "tags": [
+          "recommandation"
+        ],
+        "summary": "Get recommandation based on user input",
+        "description": "",
+        "operationId": "getRecoomandationBasedOnUserInput",
+        "requestBody": {
+          "description": "Get user input about preferences",
+          "content": {
+            "application/json": {
+              "schema": {
+                "$ref": "#/components/schemas/UserInput"
+              }
+            },
+            "application/xml": {
+              "schema": {
+                "$ref": "#/components/schemas/UserInput"
+              }
+            }
+          }
+        },
+        "responses": {
+          "200": {
+            "description": "successful operation",
+            "content": {
+              "application/json": {
+                "schema": {
+                  "$ref": "#/components/schemas/Recommandation"
+                }
+              },
+              "application/xml": {
+                "schema": {
+                  "$ref": "#/components/schemas/Recommandation"
+                }
+              }
+            }
+          },
+          "400": {
+            "description": "No user playlists available"
+          }
+        }
+      }
+    }
+  },
+  "components": {
+    "schemas": {
+      "User": {
+        "type": "object",
+        "properties": {
+          "name": {
+            "type": "string",
+            "example": "theUser"
+          },
+          "email": {
+            "type": "string",
+            "example": "john@email.com"
+          },
+          "password": {
+            "type": "string",
+            "example": "12345"
+          }
+        },
+        "xml": {
+          "name": "user"
+        }
+      },
+      "LoginUser": {
+        "type": "object",
+        "properties": {
+          "email": {
+            "type": "string",
+            "example": "john@email.com"
+          },
+          "password": {
+            "type": "string",
+            "example": "12345"
+          }
+        },
+        "xml": {
+          "name": "loginuser"
+        }
+      },
+      "RegisterUser": {
+        "type": "object",
+        "properties": {
+          "id": {
+            "type": "integer",
+            "example": 1
+          },
+          "email": {
+            "type": "string",
+            "example": "john@email.com"
+          },
+          "name": {
+            "type": "string",
+            "example": "john"
+          }
+        },
+        "xml": {
+          "name": "loginuser"
+        }
+      },
+      "Song": {
+        "type": "object",
+        "properties": {
+          "name": {
+            "type": "string",
+            "example": "aa"
+          },
+          "singer": {
+            "type": "string",
+            "example": "aa"
+          },
+          "details": {
+            "type": "string",
+            "example": "aas"
+          }
+        }
+      },
+      "ReturnedSong": {
+        "type": "object",
+        "properties": {
+          "id": {
+            "type": "integer",
+            "example": 1
+          },
+          "name": {
+            "type": "string",
+            "example": "aa"
+          },
+          "singer": {
+            "type": "string",
+            "example": "aa"
+          },
+          "details": {
+            "type": "string",
+            "example": "aas"
+          }
+        }
+      },
+      "Playlist": {
+        "type": "object",
+        "properties": {
+          "name": {
+            "type": "string",
+            "example": "aa"
+          },
+          "singer": {
+            "type": "string",
+            "example": "aa"
+          },
+          "details": {
+            "type": "string",
+            "example": "aas"
+          }
+        }
+      },
+      "ReturnedPlaylist": {
+        "type": "object",
+        "properties": {
+          "id": {
+            "type": "integer",
+            "example": 1
+          },
+          "name": {
+            "type": "string",
+            "example": "aa"
+          },
+          "singer": {
+            "type": "string",
+            "example": "aa"
+          },
+          "details": {
+            "type": "string",
+            "example": "aas"
+          }
+        }
+      },
+      "UserInput": {
+        "type": "object",
+        "properties": {
+          "input": {
+            "type": "string",
+            "example": "I like/hate .."
+          }
+        }
+      },
+      "Recommandation": {
+        "type": "object",
+        "properties": {
+          "name": {
+            "type": "string",
+            "example": "aa"
+          },
+          "singer": {
+            "type": "string",
+            "example": "aa"
+          },
+          "details": {
+            "type": "string",
+            "example": "aas"
+          }
+        }
+      },
+      "UserPlaylists": {
+        "type": "array",
+        "items": {
+          "oneOf": [
+            {
+              "$ref": "#/components/schemas/ReturnedPlaylist"
+            }
+          ]
+        }
+      },
+      "PlaylistSong": {
+        "type": "array",
+        "items": {
+          "oneOf": [
+            {
+              "$ref": "#/components/schemas/Song"
+            }
+          ]
+        }
+      }
+    }
+  }
+}
