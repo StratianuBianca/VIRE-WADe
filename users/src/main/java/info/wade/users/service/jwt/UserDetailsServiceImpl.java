@@ -1,7 +1,9 @@
 package info.wade.users.service.jwt;
 
+import info.wade.users.dto.LoginReturn;
 import info.wade.users.entity.User;
 import info.wade.users.repository.UserRepository;
+import info.wade.users.util.JwtUtil;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.security.core.userdetails.UserDetails;
 import org.springframework.security.core.userdetails.UserDetailsService;
@@ -16,6 +18,9 @@ public class UserDetailsServiceImpl implements UserDetailsService {
     @Autowired
     private UserRepository userRepository;
 
+    @Autowired
+    private JwtUtil jwtUtil;
+
     @Override
     public UserDetails loadUserByUsername(String email) throws UsernameNotFoundException {
         User user = userRepository.findFirstByEmail(email);
@@ -23,5 +28,9 @@ public class UserDetailsServiceImpl implements UserDetailsService {
             throw new UsernameNotFoundException("User not found or you already have an account",null);
         }
         return new org.springframework.security.core.userdetails.User(user.getEmail(), user.getPassword(), new ArrayList<>());
+    }
+    public Long getUserId(String email){
+        User user = userRepository.findFirstByEmail(email);
+        return user.getId();
     }
 }

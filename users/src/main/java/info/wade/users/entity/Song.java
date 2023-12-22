@@ -30,9 +30,8 @@ public class Song {
 
     private Date release_date;
 
-    @ManyToOne(fetch = FetchType.LAZY, optional = false)
+    @ManyToOne(cascade = CascadeType.ALL,fetch = FetchType.LAZY, optional = false)
     @JoinColumn(name = "album_id", nullable = false)
-    @OnDelete(action = OnDeleteAction.CASCADE)
     private Album album;
 
     @ManyToMany(fetch = FetchType.LAZY, mappedBy = "songs")
@@ -46,8 +45,8 @@ public class Song {
     public void deletePlaylist(Playlist playlist){
         playlists.remove(playlist);
     }
-    public void deleteAlbum(Album album){
-        album = new Album();
+    public void deleteAlbum(){
+        this.album = new Album();
     }
 
 }

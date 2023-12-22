@@ -94,16 +94,6 @@ public class PlaylistService {
         return playlistDTO;
     }
 
-    public List<PlaylistDTO> getAllPlaylistsFromAUser(Long userId){
-        User user = userRepository.findById(userId);
-        List<Playlist> playlists = new ArrayList<>();
-        if(user != null){
-            playlists = playlistRepository.getPlaylistsByCreatedBy(user);
-        }
-
-        return this.getAllPlaylistDTOS(playlists);
-    }
-
     public PlaylistDTO updatePlaylist(PlaylistDTO playlistDTO){
         Optional<Playlist> queryResult = playlistRepository.findById(playlistDTO.getId());
         User user = userRepository.findById(playlistDTO.getCreatedById());
@@ -118,6 +108,16 @@ public class PlaylistService {
             playlistDTO.setId(playlist.getPlaylist_id());
         }
         return playlistDTO;
+    }
+
+    public List<PlaylistDTO> getAllPlaylistsFromAUser(Long userId){
+        User user = userRepository.findById(userId);
+        List<Playlist> playlists = new ArrayList<>();
+        if(user != null){
+            playlists = playlistRepository.getPlaylistsByCreatedBy(user);
+        }
+
+        return this.getAllPlaylistDTOS(playlists);
     }
 
     public List<SongDTO> getAllSongsByPlaylist(Long playlistId){

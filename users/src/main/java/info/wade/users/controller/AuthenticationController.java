@@ -1,12 +1,12 @@
 package info.wade.users.controller;
 
 import info.wade.users.dto.LoginDTO;
+import info.wade.users.dto.LoginReturn;
 import info.wade.users.dto.RegisterDTO;
 import info.wade.users.dto.UserDTO;
 import info.wade.users.service.auth.AuthService;
 import info.wade.users.service.jwt.UserDetailsServiceImpl;
 import info.wade.users.util.JwtUtil;
-import jakarta.servlet.http.HttpServletResponse;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.HttpStatus;
 import org.springframework.http.ResponseEntity;
@@ -21,6 +21,7 @@ import org.springframework.web.bind.annotation.RequestBody;
 import org.springframework.web.bind.annotation.RestController;
 
 import java.io.IOException;
+import java.util.HashMap;
 
 @RestController
 public class AuthenticationController {
@@ -47,8 +48,12 @@ public class AuthenticationController {
         }
 
         final UserDetails userDetails = userDetailsService.loadUserByUsername(loginDTO.getEmail());
+        Long id = userDetailsService.getUserId(loginDTO.getEmail());
+        LoginReturn loginReturn = new LoginReturn();
+        loginReturn.setId(id);
+        loginReturn.setJwt(jwtUtil.generateToken(userDetails.getUsername()));
 
-        return new ResponseEntity<>(jwtUtil.generateToken(userDetails.getUsername()), HttpStatus.OK);
+        return new ResponseEntity<>(loginReturn, HttpStatus.OK);
     }
 
     @PostMapping("/register")

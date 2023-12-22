@@ -34,7 +34,7 @@ public class SongController {
         return new ResponseEntity<>(song, HttpStatus.OK);
     }
 
-    @PutMapping("/songs")
+    @PutMapping("/songs") //ok
     public ResponseEntity<?> putSong(@RequestBody SongDTO songDTO) {
         SongDTO song = songService.updateSong(songDTO);
         return new ResponseEntity<>(song, HttpStatus.OK);

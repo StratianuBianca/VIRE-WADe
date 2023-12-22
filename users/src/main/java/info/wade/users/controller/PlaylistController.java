@@ -2,7 +2,6 @@ package info.wade.users.controller;
 
 import info.wade.users.dto.PlaylistDTO;
 import info.wade.users.dto.SongDTO;
-import info.wade.users.entity.Playlist;
 import info.wade.users.service.PlaylistService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.HttpStatus;
@@ -47,7 +46,7 @@ public class PlaylistController {
         PlaylistDTO playlist = playlistService.createPlaylist(playlistDTO);
         return new ResponseEntity<>(playlist, HttpStatus.OK);
     }
-    @PutMapping("/playlist/{playlistId}/songs/{songId}") //ok
+    @PutMapping("/playlists/{playlistId}/songs/{songId}") //ok
     public ResponseEntity<?> postSongToPlaylist(@PathVariable Long playlistId, @PathVariable Long songId){
         playlistService.addSongToPlaylist(playlistId, songId);
         return new ResponseEntity<>(HttpStatus.OK);
@@ -58,7 +57,7 @@ public class PlaylistController {
         return new ResponseEntity<>(HttpStatus.OK);
     }
 
-    @PutMapping("/playlists")
+    @PutMapping("/playlists") //ok
     public ResponseEntity<?> putPlaylist(@RequestBody PlaylistDTO playlistDTO) {
         PlaylistDTO playlist = playlistService.updatePlaylist(playlistDTO);
         return new ResponseEntity<>(playlist, HttpStatus.OK);

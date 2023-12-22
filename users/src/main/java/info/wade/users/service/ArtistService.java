@@ -72,6 +72,12 @@ public class ArtistService {
             }
         }
     }
+    public void deleteArtistToAlbum(Artist artist, List<Album> albums){
+        for(Album album:albums){
+            album.deleteArtist(artist);
+            albumRepository.save(album);
+        }
+    }
     public ArtistDTO addArtist(ArtistDTO artistDTO){
         Artist artist = new Artist();
         artist.setName(artistDTO.getName());
@@ -95,14 +101,16 @@ public class ArtistService {
 
     }
     public ArtistDTO updateArtist(ArtistDTO artistDTO){
-        Optional<Artist> artist = artistRepository.findById(artistDTO.getId());
-        if(artist.isPresent()){
-            Artist presetArtist = artist.get();
-            presetArtist.setName(artistDTO.getName());
-
-            presetArtist.setAlbums(this.setAlbums(artistDTO.getAlbumIds()));
-            artistRepository.save(presetArtist);
-            artistDTO.setId(artistDTO.getId());
+        Optional<Artist> queryResult = artistRepository.findById(artistDTO.getId());
+        if(queryResult.isPresent()){
+            Artist artist = queryResult.get();
+            this.deleteArtistToAlbum(artist, artist.getAlbums());
+            artist.setAlbums(new ArrayList<>());
+            artist.setName(artistDTO.getName());
+            artist.setAlbums(this.setAlbums(artistDTO.getAlbumIds()));
+            artistRepository.save(artist);
+            artistDTO.setId(artist.getId());
+            this.addArtistToAlbum(artist, artistDTO.getAlbumIds());
             return artistDTO;
         }
         return artistDTO;

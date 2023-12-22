@@ -34,13 +34,13 @@ public class AlbumController {
         return new ResponseEntity<>(album, HttpStatus.OK);
     }
 
-    @PutMapping("/albums")
+    @PutMapping("/albums") //ok cred, de revazut la list songs
     public ResponseEntity<?> putAlbum(@RequestBody AlbumDTO albumDTO) {
         AlbumDTO album = albumService.updateAlbum(albumDTO);
         return new ResponseEntity<>(album, HttpStatus.OK);
 
     }
-    @DeleteMapping("/albums/{albumId}")
+    @DeleteMapping("/albums/{albumId}") //ok, cand stergem albumul se sterg si melodiile
     public ResponseEntity<?> deleteAlbumById(@PathVariable Long albumId){
         albumService.deleteAlbum(albumId);
         return new ResponseEntity<>(HttpStatus.OK);

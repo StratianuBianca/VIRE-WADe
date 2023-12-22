@@ -73,7 +73,7 @@ public class AlbumService {
         album.setTitle(newAlbum.getTitle());
         album.setDescription(newAlbum.getDescription());
         this.setArtistToAlbum(album, newAlbum.getArtistIds());
-        setSongToAlbum(newAlbum, album);
+        this.setSongToAlbum(newAlbum, album);
         return newAlbum;
 
     }
@@ -118,7 +118,8 @@ public class AlbumService {
             }
             List<Song> songs = album.getSongs();
             for(Song song:songs){
-                song.deleteAlbum(album);
+                song.setAlbum(new Album());
+                songRepository.save(song);
             }
             albumRepository.delete(album);
         }
@@ -130,9 +131,17 @@ public class AlbumService {
             Album album = queryResult.get();
             album.setTitle(albumDTO.getTitle());
             album.setDescription(albumDTO.getDescription());
+            this.deleteAlbumFromSong(album.getSongs(), album);
+            album.setSongs(new ArrayList<>());
             setSongToAlbum(albumDTO, album);
         }
         return albumDTO;
+    }
+    public void deleteAlbumFromSong(List<Song> songs, Album album){
+        for(Song song:songs){
+            song.deleteAlbum();
+            songRepository.save(song);
+        }
     }
 
     private void setSongToAlbum(AlbumDTO albumDTO, Album album) {

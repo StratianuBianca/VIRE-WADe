@@ -32,7 +32,7 @@ public class ArtistController {
         ArtistDTO artist = artistService.addArtist(artistDTO);
         return new ResponseEntity<>(artist, HttpStatus.OK);
     }
-    @PutMapping("/artists")
+    @PutMapping("/artists") //ok
     public ResponseEntity<?> putArtist(@RequestBody ArtistDTO artistDTO){
         ArtistDTO artist = artistService.updateArtist(artistDTO);
         return new ResponseEntity<>(artist, HttpStatus.OK);
