@@ -63,6 +63,14 @@ public class JwtUtil {
                 .setExpiration(new Date(System.currentTimeMillis()+1000000*60*30))
                 .signWith(getSignKey(), SignatureAlgorithm.HS256).compact();
     }
+    private String createTokenById(Map<String, Object> claims, Long id){
+        return Jwts.builder()
+                .setClaims(claims)
+                .setSubject(String.valueOf(id))
+                .setIssuedAt(new Date(System.currentTimeMillis()))
+                .setExpiration(new Date(System.currentTimeMillis()+1000000*60*30))
+                .signWith(getSignKey(), SignatureAlgorithm.HS256).compact();
+    }
 
     private Key getSignKey() {
         byte[] keyBytes= Decoders.BASE64.decode(SECRET);

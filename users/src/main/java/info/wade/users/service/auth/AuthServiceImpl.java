@@ -1,6 +1,7 @@
 package info.wade.users.service.auth;
 
 import info.wade.users.dto.RegisterDTO;
+import info.wade.users.dto.UpdateUserDTO;
 import info.wade.users.dto.UserDTO;
 import info.wade.users.entity.User;
 import info.wade.users.repository.UserRepository;
@@ -33,19 +34,32 @@ public class AuthServiceImpl implements AuthService {
     }
 
     @Override
-    public UserDTO updateUser(RegisterDTO registerDTO){
-        User findIfUserExists = userRepository.findByEmail(registerDTO.getEmail());
+    public RegisterDTO updateUser(UpdateUserDTO updateUserDTO){
+        User findIfUserExists = userRepository.findById(updateUserDTO.getId());
         if(findIfUserExists == null){
-            return new UserDTO();
+            return new RegisterDTO();
         }
-        findIfUserExists.setEmail(registerDTO.getEmail());
-        findIfUserExists.setName(registerDTO.getName());
-        findIfUserExists.setPassword(registerDTO.getPassword());
+        findIfUserExists.setEmail(updateUserDTO.getEmail());
+        findIfUserExists.setName(updateUserDTO.getName());
+        findIfUserExists.setPassword(new BCryptPasswordEncoder().encode(updateUserDTO.getPassword()));
         User updatedUser = userRepository.save(findIfUserExists);
-        UserDTO userDTO = new UserDTO();
-        userDTO.setEmail(updatedUser.getEmail());
-        userDTO.setName(updatedUser.getName());
-        userDTO.setId(updatedUser.getId());
-        return userDTO;
+        RegisterDTO registerDTO = new RegisterDTO();
+        registerDTO.setEmail(updatedUser.getEmail());
+        registerDTO.setName(updatedUser.getName());
+        registerDTO.setPassword(updatedUser.getPassword());
+        return registerDTO;
+    }
+
+    public UpdateUserDTO getUser(Long id){
+        User findIfUserExists = userRepository.findById(id);
+        if(findIfUserExists == null){
+            return new UpdateUserDTO();
+        }
+        UpdateUserDTO user = new UpdateUserDTO();
+        user.setEmail(findIfUserExists.getEmail());
+        user.setName(findIfUserExists.getName());
+        user.setPassword(findIfUserExists.getPassword());
+        user.setId(findIfUserExists.getId());
+        return user;
     }
 }

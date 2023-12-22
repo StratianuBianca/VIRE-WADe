@@ -4,7 +4,6 @@ import info.wade.users.dto.LoginDTO;
 import info.wade.users.dto.LoginReturn;
 import info.wade.users.dto.RegisterDTO;
 import info.wade.users.dto.UserDTO;
-import info.wade.users.entity.User;
 import info.wade.users.service.auth.AuthService;
 import info.wade.users.service.jwt.UserDetailsServiceImpl;
 import info.wade.users.util.JwtUtil;
@@ -22,7 +21,6 @@ import org.springframework.web.bind.annotation.RequestBody;
 import org.springframework.web.bind.annotation.RestController;
 
 import java.io.IOException;
-import java.util.HashMap;
 
 @RestController
 public class AuthenticationController {
