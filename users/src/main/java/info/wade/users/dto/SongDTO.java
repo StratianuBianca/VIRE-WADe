@@ -2,7 +2,6 @@ package info.wade.users.dto;
 
 import lombok.Data;
 import java.util.Date;
-import java.util.List;
 
 @Data
 public class SongDTO {
@@ -19,5 +18,4 @@ public class SongDTO {
 
     private Long albumId;
 
-    private List<Long> playlistIds;
 }

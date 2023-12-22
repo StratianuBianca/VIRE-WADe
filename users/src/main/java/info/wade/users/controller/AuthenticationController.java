@@ -4,6 +4,7 @@ import info.wade.users.dto.LoginDTO;
 import info.wade.users.dto.LoginReturn;
 import info.wade.users.dto.RegisterDTO;
 import info.wade.users.dto.UserDTO;
+import info.wade.users.entity.User;
 import info.wade.users.service.auth.AuthService;
 import info.wade.users.service.jwt.UserDetailsServiceImpl;
 import info.wade.users.util.JwtUtil;
@@ -48,9 +49,7 @@ public class AuthenticationController {
         }
 
         final UserDetails userDetails = userDetailsService.loadUserByUsername(loginDTO.getEmail());
-        Long id = userDetailsService.getUserId(loginDTO.getEmail());
-        LoginReturn loginReturn = new LoginReturn();
-        loginReturn.setId(id);
+        LoginReturn loginReturn = userDetailsService.getUser(loginDTO.getEmail());
         loginReturn.setJwt(jwtUtil.generateToken(userDetails.getUsername()));
 
         return new ResponseEntity<>(loginReturn, HttpStatus.OK);

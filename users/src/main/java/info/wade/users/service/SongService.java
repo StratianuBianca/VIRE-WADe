@@ -39,12 +39,7 @@ public class SongService {
             songDTO.setRelease_date(song.getRelease_date());
             songDTO.setId(song.getId());
             songDTO.setAlbumId(song.getAlbum().getId());
-            List<Playlist> playlists = song.getPlaylists();
             List<Long> ids = new ArrayList<>();
-            for(Playlist playlist:playlists){
-                ids.add(playlist.getPlaylist_id());
-            }
-            songDTO.setPlaylistIds(ids);
             songDTOS.add(songDTO);
         }
         return songDTOS;
@@ -60,13 +55,6 @@ public class SongService {
             songDTO.setTitle(song.getTitle());
             songDTO.setRelease_date(song.getRelease_date());
             songDTO.setId(song.getId());
-            songDTO.setAlbumId(song.getAlbum().getId());
-            List<Playlist> playlists = song.getPlaylists();
-            List<Long> ids = new ArrayList<>();
-            for(Playlist playlist:playlists){
-                ids.add(playlist.getPlaylist_id());
-            }
-            songDTO.setPlaylistIds(ids);
 
         }
         return songDTO;
@@ -76,11 +64,6 @@ public class SongService {
         Optional<Song> queryResult = songRepository.findById(songId);
         if(queryResult.isPresent()){
             Song song = queryResult.get();
-            List<Playlist> playlists = song.getPlaylists();
-            for(Playlist playlist:playlists){
-                playlist.getSongs().remove(song);
-                playlistRepository.save(playlist);
-            }
             songRepository.delete(song);
         }
     }
@@ -94,14 +77,11 @@ public class SongService {
             song.setTitle(songDTO.getTitle());
             song.setDescription(songDTO.getDescription());
             song.setRelease_date(songDTO.getRelease_date());
-//            List<Playlist> playlists = this.setPlaylist(songDTO.getPlaylistIds());
-//            song.setPlaylists(playlists);
             songRepository.save(song);
             Album album1 = album.get();
             album1.addToSongs(song);
             albumRepository.save(album1);
             songDTO.setId(song.getId());
-            this.addSongToPlaylist(songDTO.getPlaylistIds(), song);
         }
         return songDTO;
     }
@@ -115,37 +95,17 @@ public class SongService {
             song.setTitle(songDTO.getTitle());
             song.setDescription(songDTO.getDescription());
             song.setRelease_date(songDTO.getRelease_date());
-            song.setPlaylists(this.setPlaylist(songDTO.getPlaylistIds()));
             songRepository.save(song);
             Album album1 = album.get();
             album1.addToSongs(song);
             albumRepository.save(album1);
             songDTO.setId(song.getId());
-            this.addSongToPlaylist(songDTO.getPlaylistIds(), song);
         }
         return songDTO;
     }
     public List<PlaylistDTO> getAllPlaylistWithSong(Long songId){
         Optional<Song> queryResult = songRepository.findById(songId);
-        List<PlaylistDTO> playlistDTOS = new ArrayList<>();
-        if(queryResult.isPresent()){
-            List<Playlist> playlists = queryResult.get().getPlaylists();
-            for(Playlist playlist:playlists){
-                PlaylistDTO playlistDTO = new PlaylistDTO();
-                playlistDTO.setCategory(playlist.getCategory());
-                playlistDTO.setTitle(playlist.getTitle());
-                playlistDTO.setId(playlist.getPlaylist_id());
-                playlistDTO.setCreatedById(playlist.getCreatedBy().getId());
-                List<Song> songs = playlist.getSongs();
-                List<Long> ids = new ArrayList<>();
-                for(Song song:songs){
-                    ids.add(song.getId());
-                }
-                playlistDTO.setSongIds(ids);
-                playlistDTOS.add(playlistDTO);
-            }
-        }
-        return playlistDTOS;
+        return new ArrayList<>();
     }
 
     private List<Playlist> setPlaylist(List<Long> ids){

@@ -34,17 +34,6 @@ public class Song {
     @JoinColumn(name = "album_id", nullable = false)
     private Album album;
 
-    @ManyToMany(fetch = FetchType.LAZY, mappedBy = "songs")
-//    @OnDelete(action = OnDeleteAction.CASCADE)
-    private List<Playlist> playlists;
-
-    public void addPlaylist(Playlist playlist){
-        playlists.add(playlist);
-    }
-
-    public void deletePlaylist(Playlist playlist){
-        playlists.remove(playlist);
-    }
     public void deleteAlbum(){
         this.album = new Album();
     }

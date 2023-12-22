@@ -6,4 +6,5 @@ import lombok.Data;
 public class LoginReturn {
     private String jwt;
     private Long id;
+    private String username;
 }

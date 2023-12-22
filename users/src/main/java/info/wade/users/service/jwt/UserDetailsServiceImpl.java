@@ -29,8 +29,11 @@ public class UserDetailsServiceImpl implements UserDetailsService {
         }
         return new org.springframework.security.core.userdetails.User(user.getEmail(), user.getPassword(), new ArrayList<>());
     }
-    public Long getUserId(String email){
+    public LoginReturn getUser(String email){
         User user = userRepository.findFirstByEmail(email);
-        return user.getId();
+        LoginReturn loginReturn = new LoginReturn();
+        loginReturn.setId(user.getId());
+        loginReturn.setUsername(user.getName());
+        return loginReturn;
     }
 }

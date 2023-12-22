@@ -7,6 +7,7 @@ import lombok.Setter;
 import org.hibernate.annotations.OnDelete;
 import org.hibernate.annotations.OnDeleteAction;
 
+import java.util.Date;
 import java.util.List;
 
 @Entity
@@ -35,6 +36,8 @@ public class Playlist {
     @JoinColumn(name = "user_id", nullable = false)
     @OnDelete(action = OnDeleteAction.CASCADE)
     private User createdBy;
+
+    private Date create_date;
 
     public void addSong(Song song){
         this.songs.add(song);
