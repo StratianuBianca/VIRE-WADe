@@ -65,7 +65,8 @@
                         <li><a href="#data-integration">4.3 Data Integration</a></li>
                     </ul>
                 </li>
-                <li><a href="#linked-data-principles">5. Linked Data Principles</a></li>
+                <li><a href="#ontology-and-vocabularies">5. Ontology and Vocabularies</a></li>
+                <li><a href="#linked-data-principles">6. Linked Data Principles</a></li>
             </ul>
         </nav>
         <section id="abstract">
@@ -218,10 +219,36 @@
                 <h3>4.3 Data Integration</h3>
             </section>
         </section>
+        <section id="ontology-and-vocabularies">
+            <h2>Ontology and Vocabularies</h2>
+            <p>We employ established ontologies and vocabularies to organize our system effectively. These are essential for reinforcing the Music Ontology we utilize and are outlined as follows:</p>
+            <ul>
+                <li><b>PREFIX dc</b>: http://purl.org/dc/elements/1.1/</li>
+                <li><b>PREFIX foaf</b>: http://xmlns.com/foaf/0.1/</li>
+                <li><b>PREFIX ns1</b>: http://purl.org/ontology/mo/</li>
+                <li><b>PREFIX xsd</b>: http://www.w3.org/2001/XMLSchema# </li>
+            </ul>
+            <p>Representation of the vinyl:</p>
+            <ul>
+                <li><b>@type:</b> Specifies te entity's category</li>
+                <li><b>@id:</b> Assigns a unique resource indentifier URL</li>
+                <li><b>dc:date:</b> Specifies when the Vinyl was relased.</li>
+                <li><b>dc:title:</b> Indicates the name of the Vinyl.</li>
+                <li><b>ns1:genre</b> Indicates the genres of the vinyl. </li>
+                <li><b>foaf:name:</b> Indicates the name of the Artist </li>
+                <li><b>ns1:discogs</b> Indicates the discogs url of the vinyl</li>
+                <li><b>ns1:discogs_image</b> Indicate discogs url image of the vinyl</li>
+                
+            </ul>
+
+            <div class="item">
+                <img src="C3/vinyl.png" alt="vinyl" style="width:100%;">
+            </div>
+
+        </section>
 
         <section id="linked-data-principles">
-            <h2>5. Linked Data Principles</h2>
-
+            <h2>6. Linked Data Principles</h2>
             <section id="linked-data-explanation">
                 <h3>5.1 Explanation of Linked Data</h3>
                 <p>Linked Data is a set of principles and best practices for publishing, connecting, and interlinking structured data on the web.The key principles of Linked Data are designed to make data more discoverable, usable, and interconnected. </p>
