@@ -159,7 +159,12 @@
                         <p> We created a recommendation system endpoint that analyzes user playlists, sourced from either Spotify or an imported xspf file, to provide personalized recommendations.</p>
                         <p>Spotify: To receive the output from this endpoint, users must link application account with their Spotify account. We will receive a list of Tracks and Artists that user likes. 
                             For this data, we have separate tables to keep the artists and favorite songs in order to be able to recommend other vinyls to the user at any time without having to log in again on spotify </p>
-                            <p>File: Users can import an xspf file, and we will provide recommendations for additional vinyl records.</p>
+                            <p>File: Users can import an xspf file, and we will provide recommendations for additional vinyl records. The service will extract the artists and return vinyls recommendation</p>
+                            <p>Example of xspf file:</p>
+                            <div class="item">
+                                <img src="images/xspf.png" alt="spotify" style="width:100%;">
+                            </div>
+                            <p>Spotify architecture:</p>
                             <div class="item">
                                 <img src="C3/spotify.png" alt="spotify" style="width:100%;">
                             </div>
