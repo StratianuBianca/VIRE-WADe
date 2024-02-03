@@ -127,6 +127,16 @@
             <div class="item">
                 <img src="C3/database.png" alt="database" style="width:100%;">
             </div>
+            <p>Connection with stardog:</p>
+            <div class="item">
+                <img src="images/stardog.png" alt="stardog" style="width:100%;">
+            </div>
+            <p>During the actual implementation of this API, we opted to utilize Stardog for representing the Vinyl entity due to the convenient accessibility of data through the Stardog API.</p>
+            <p>Within the Stardog Platform, we established our database housing information about vinyl records in RDF format. Additionally, 
+                the Stardog platform provided us with an endpoint for querying our database. The Stardogs API will validate the query and after that the query is going to be executed on our data source.</p>
+                <p>For this we utilize Connection with the  endpoint='https://sd-a3138be8.stardog.cloud:5820 for stardog and select with the query we need.
+                    The response will entail numerous vinyl entities filtered according to the query we've recently dispatched.</p>
+
             <p>Use Case Diagram</p>
             <div>How the user will interact with the application:</div>
             <div class="item">
@@ -249,8 +259,6 @@
                 <li><b>dc:title:</b> Indicates the name of the Vinyl.</li>
                 <li><b>ns1:genre</b> Indicates the genres of the vinyl. </li>
                 <li><b>foaf:name:</b> Indicates the name of the Artist </li>
-                <li><b>ns1:discogs</b> Indicates the discogs url of the vinyl</li>
-                <li><b>ns1:discogs_image</b> Indicate discogs url image of the vinyl</li>
                 
             </ul>
 
