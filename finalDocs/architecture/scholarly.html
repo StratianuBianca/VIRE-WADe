@@ -43,7 +43,7 @@
             <h2>Table of Contents</h2>
             <ul>
                 <li><a href="#abstract">Abstract</a></li>
-                <li><a href="#introduction">1. Introduction</a></li>
+                <li><a href="#introduction">1. Project description</a></li>
                 <li><a href="#architecture">2. Architecture</a></li>
                 <li><a href="#internal-data-structures">3. Internal Data Structures/Models</a></li>
                     <ul>
@@ -75,8 +75,8 @@
         </section>
 
         <section id="introduction">  
-            <h2>1. Introduction</h2>
-            <p></p>
+            <h2>1. Project description</h2>
+            <p> Build a (micro-)service Web system able to "intelligently" recommend – by exposing a SPARQL endpoint – vinyl music records according to various criteria: user preferences (specified via controlled natural language constructs such as "I always like/love/prefer classical music, especially opera music by Rossini or Verdi and performed by Angela Gheorghiu or Juan Diego Flórez; I sometimes like progressive rock and post-rock; I like only metal albums released before 2000; I always dislike/hate rap and hip-hop; I dislike songs produced by Flood in the last 25 years"), past song purchases on various music stores, playlists – available online via music streaming services: Last.fm and alternative solutions – and/or locally – for instance, by uploading a JSPF/XSPF document. The playlists could be created by the user or shared by her/his virtual "friends" (consider at least one social network). The system will use several music-related knowledge models (e.g., Music Ontology or MusicRecording concept from schema.org) and available public resources: Discogs, MusicBrainz, Musicmoz Music Styles.</p>
         </section>
 
         <section id="architecture">  
@@ -115,6 +115,14 @@
                   <span class="carousel-control-next-icon"></span>
                 </a>
             </div>
+            <p>Database Architecture</p>
+            <p><b>users:</b>To retain details about user like email, name, password(encripted) and details about spotify token: refresh_token, spotify_token, and spotify_expiration_token to verify if token is expired. Each user is assigned a unique uuid</p>
+            <p><b>playlists:</b> To retain user playlist name, create_date, title and category.</p>
+            <p><b>songs:</b> To retain detalis about songs like album, creator, release date, discogs url, discogs image, genre, title and vinyl_label</p>
+            <p><b>songs_spotify:</b> To retain user top songs from spotify: artists, name, spotify_url, url for image and user_id</p>
+            <p><b>artists_spotify:</b> To retain user top artists from spotify: genres, url image, spotify url, name and user_id</p>
+            <p><b>playlist_user:</b> To associate playlist with user</p>
+            <p><b>playlist_song:</b> To associate song with playlist</p>
             <p>Database diagram:</p>
             <div class="item">
                 <img src="C3/database.png" alt="database" style="width:100%;">
