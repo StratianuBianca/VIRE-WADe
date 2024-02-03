@@ -183,7 +183,7 @@
     <div class="app-desc">More information: <a href="https://helloreverb.com">https://helloreverb.com</a></div>
     <div class="app-desc">Contact Info: <a href="hello@helloreverb.com">hello@helloreverb.com</a></div>
     <div class="app-desc">Version: v0</div>
-    <div class="app-desc">BasePath:/login</div>
+    
     <div class="license-info">All rights reserved</div>
     <div class="license-url">http://apache.org/licenses/LICENSE-2.0.html</div>
   <h2>Access</h2>
@@ -271,27 +271,44 @@
 
     <h3 class="field-label">Return type</h3>
     <div class="return-type">
+      <a href="#ArtistsSpotifyDTO">ArtistsSpotifyDTO</a>
       
-      Object
     </div>
 
     <!--Todo: process Response Object and its headers, schema, examples -->
 
     <h3 class="field-label">Example data</h3>
     <div class="example-data-content-type">Content-Type: application/json</div>
-    <pre class="example"><code>{ }</code></pre>
+    <pre class="example"><code>{
+  "artistSpotifyDTOList" : [ {
+    "urlSpotify" : "urlSpotify",
+    "genres" : "genres",
+    "name" : "name",
+    "artistSpotify_id" : "046b6c7f-0b8a-43b9-b35d-6489e6daee91",
+    "userId" : "046b6c7f-0b8a-43b9-b35d-6489e6daee91",
+    "url" : "url"
+  }, {
+    "urlSpotify" : "urlSpotify",
+    "genres" : "genres",
+    "name" : "name",
+    "artistSpotify_id" : "046b6c7f-0b8a-43b9-b35d-6489e6daee91",
+    "userId" : "046b6c7f-0b8a-43b9-b35d-6489e6daee91",
+    "url" : "url"
+  } ]
+}</code></pre>
 
     <h3 class="field-label">Produces</h3>
     This API call produces the following media types according to the <span class="header">Accept</span> request header;
     the media type will be conveyed by the <span class="header">Content-Type</span> response header.
     <ul>
-      <li><code>*/*</code></li>
+      <li><code>application/json</code></li>
+      <li><code>application/xml</code></li>
     </ul>
 
     <h3 class="field-label">Responses</h3>
     <h4 class="field-label">200</h4>
-    OK
-        <a href="#Object">Object</a>
+    successful operation
+        <a href="#ArtistsSpotifyDTO">ArtistsSpotifyDTO</a>
   </div> <!-- method -->
   <hr/>
   <div class="method"><a name="postArtistSpotify"></a>
@@ -318,29 +335,15 @@
 
 
 
-    <h3 class="field-label">Return type</h3>
-    <div class="return-type">
-      
-      Object
-    </div>
 
     <!--Todo: process Response Object and its headers, schema, examples -->
 
-    <h3 class="field-label">Example data</h3>
-    <div class="example-data-content-type">Content-Type: application/json</div>
-    <pre class="example"><code>{ }</code></pre>
 
-    <h3 class="field-label">Produces</h3>
-    This API call produces the following media types according to the <span class="header">Accept</span> request header;
-    the media type will be conveyed by the <span class="header">Content-Type</span> response header.
-    <ul>
-      <li><code>*/*</code></li>
-    </ul>
 
     <h3 class="field-label">Responses</h3>
     <h4 class="field-label">200</h4>
     OK
-        <a href="#Object">Object</a>
+        <a href="#"></a>
   </div> <!-- method -->
   <hr/>
   <div class="method"><a name="postArtistsSpotify"></a>
@@ -367,29 +370,15 @@
 
 
 
-    <h3 class="field-label">Return type</h3>
-    <div class="return-type">
-      
-      Object
-    </div>
 
     <!--Todo: process Response Object and its headers, schema, examples -->
 
-    <h3 class="field-label">Example data</h3>
-    <div class="example-data-content-type">Content-Type: application/json</div>
-    <pre class="example"><code>{ }</code></pre>
 
-    <h3 class="field-label">Produces</h3>
-    This API call produces the following media types according to the <span class="header">Accept</span> request header;
-    the media type will be conveyed by the <span class="header">Content-Type</span> response header.
-    <ul>
-      <li><code>*/*</code></li>
-    </ul>
 
     <h3 class="field-label">Responses</h3>
     <h4 class="field-label">200</h4>
     OK
-        <a href="#Object">Object</a>
+        <a href="#"></a>
   </div> <!-- method -->
   <hr/>
   <h1><a name="AuthenticationController">AuthenticationController</a></h1>
@@ -419,15 +408,19 @@
 
     <h3 class="field-label">Return type</h3>
     <div class="return-type">
+      <a href="#UserLogin">UserLogin</a>
       
-      Object
     </div>
 
     <!--Todo: process Response Object and its headers, schema, examples -->
 
     <h3 class="field-label">Example data</h3>
     <div class="example-data-content-type">Content-Type: application/json</div>
-    <pre class="example"><code>{ }</code></pre>
+    <pre class="example"><code>{
+  "name" : "name",
+  "jwtToken" : "046b6c7f-0b8a-43b9-b35d-6489e6daee91",
+  "id" : "046b6c7f-0b8a-43b9-b35d-6489e6daee91"
+}</code></pre>
 
     <h3 class="field-label">Produces</h3>
     This API call produces the following media types according to the <span class="header">Accept</span> request header;
@@ -439,7 +432,7 @@
     <h3 class="field-label">Responses</h3>
     <h4 class="field-label">200</h4>
     OK
-        <a href="#Object">Object</a>
+        <a href="#UserLogin">UserLogin</a>
   </div> <!-- method -->
   <hr/>
   <div class="method"><a name="signupUser"></a>
@@ -604,29 +597,15 @@
 
 
 
-    <h3 class="field-label">Return type</h3>
-    <div class="return-type">
-      
-      Object
-    </div>
 
     <!--Todo: process Response Object and its headers, schema, examples -->
 
-    <h3 class="field-label">Example data</h3>
-    <div class="example-data-content-type">Content-Type: application/json</div>
-    <pre class="example"><code>{ }</code></pre>
 
-    <h3 class="field-label">Produces</h3>
-    This API call produces the following media types according to the <span class="header">Accept</span> request header;
-    the media type will be conveyed by the <span class="header">Content-Type</span> response header.
-    <ul>
-      <li><code>*/*</code></li>
-    </ul>
 
     <h3 class="field-label">Responses</h3>
     <h4 class="field-label">200</h4>
     OK
-        <a href="#Object">Object</a>
+        <a href="#"></a>
   </div> <!-- method -->
   <hr/>
   <div class="method"><a name="getAllPlaylists"></a>
@@ -644,27 +623,44 @@
 
     <h3 class="field-label">Return type</h3>
     <div class="return-type">
+      <a href="#PlaylistDTOS">PlaylistDTOS</a>
       
-      Object
     </div>
 
     <!--Todo: process Response Object and its headers, schema, examples -->
 
     <h3 class="field-label">Example data</h3>
     <div class="example-data-content-type">Content-Type: application/json</div>
-    <pre class="example"><code>{ }</code></pre>
+    <pre class="example"><code>{
+  "playlist" : [ {
+    "createdDate" : "2000-01-23T04:56:07.000+00:00",
+    "songIds" : [ "046b6c7f-0b8a-43b9-b35d-6489e6daee91", "046b6c7f-0b8a-43b9-b35d-6489e6daee91" ],
+    "userIds" : [ "046b6c7f-0b8a-43b9-b35d-6489e6daee91", "046b6c7f-0b8a-43b9-b35d-6489e6daee91" ],
+    "id" : "046b6c7f-0b8a-43b9-b35d-6489e6daee91",
+    "title" : "title",
+    "username" : "username"
+  }, {
+    "createdDate" : "2000-01-23T04:56:07.000+00:00",
+    "songIds" : [ "046b6c7f-0b8a-43b9-b35d-6489e6daee91", "046b6c7f-0b8a-43b9-b35d-6489e6daee91" ],
+    "userIds" : [ "046b6c7f-0b8a-43b9-b35d-6489e6daee91", "046b6c7f-0b8a-43b9-b35d-6489e6daee91" ],
+    "id" : "046b6c7f-0b8a-43b9-b35d-6489e6daee91",
+    "title" : "title",
+    "username" : "username"
+  } ]
+}</code></pre>
 
     <h3 class="field-label">Produces</h3>
     This API call produces the following media types according to the <span class="header">Accept</span> request header;
     the media type will be conveyed by the <span class="header">Content-Type</span> response header.
     <ul>
-      <li><code>*/*</code></li>
+      <li><code>application/json</code></li>
+      <li><code>application/xml</code></li>
     </ul>
 
     <h3 class="field-label">Responses</h3>
     <h4 class="field-label">200</h4>
     OK
-        <a href="#Object">Object</a>
+        <a href="#PlaylistDTOS">PlaylistDTOS</a>
   </div> <!-- method -->
   <hr/>
   <div class="method"><a name="getAllSongOfPlaylist"></a>
@@ -687,27 +683,49 @@
 
     <h3 class="field-label">Return type</h3>
     <div class="return-type">
+      <a href="#SongsDTO">SongsDTO</a>
       
-      Object
     </div>
 
     <!--Todo: process Response Object and its headers, schema, examples -->
 
     <h3 class="field-label">Example data</h3>
     <div class="example-data-content-type">Content-Type: application/json</div>
-    <pre class="example"><code>{ }</code></pre>
+    <pre class="example"><code>{
+  "songs" : [ {
+    "date" : "2000-01-23T04:56:07.000+00:00",
+    "vinylLabel" : "vinylLabel",
+    "creator" : "creator",
+    "discogs_image" : "discogs_image",
+    "genre" : "genre",
+    "discogs" : "discogs",
+    "id" : "046b6c7f-0b8a-43b9-b35d-6489e6daee91"
+  }, {
+    "date" : "2000-01-23T04:56:07.000+00:00",
+    "vinylLabel" : "vinylLabel",
+    "creator" : "creator",
+    "discogs_image" : "discogs_image",
+    "genre" : "genre",
+    "discogs" : "discogs",
+    "id" : "046b6c7f-0b8a-43b9-b35d-6489e6daee91"
+  } ]
+}</code></pre>
 
     <h3 class="field-label">Produces</h3>
     This API call produces the following media types according to the <span class="header">Accept</span> request header;
     the media type will be conveyed by the <span class="header">Content-Type</span> response header.
     <ul>
-      <li><code>*/*</code></li>
+      <li><code>application/json</code></li>
+      <li><code>application/xml</code></li>
     </ul>
 
     <h3 class="field-label">Responses</h3>
     <h4 class="field-label">200</h4>
     OK
-        <a href="#Object">Object</a>
+        <a href="#SongsDTO">SongsDTO</a>
+    <h4 class="field-label">400</h4>
+    playlistId do not exists
+        <a href="#"></a>
   </div> <!-- method -->
   <hr/>
   <div class="method"><a name="getAllSongOfPlaylistByUserId"></a>
@@ -732,27 +750,49 @@
 
     <h3 class="field-label">Return type</h3>
     <div class="return-type">
+      <a href="#SongsDTO">SongsDTO</a>
       
-      Object
     </div>
 
     <!--Todo: process Response Object and its headers, schema, examples -->
 
     <h3 class="field-label">Example data</h3>
     <div class="example-data-content-type">Content-Type: application/json</div>
-    <pre class="example"><code>{ }</code></pre>
+    <pre class="example"><code>{
+  "songs" : [ {
+    "date" : "2000-01-23T04:56:07.000+00:00",
+    "vinylLabel" : "vinylLabel",
+    "creator" : "creator",
+    "discogs_image" : "discogs_image",
+    "genre" : "genre",
+    "discogs" : "discogs",
+    "id" : "046b6c7f-0b8a-43b9-b35d-6489e6daee91"
+  }, {
+    "date" : "2000-01-23T04:56:07.000+00:00",
+    "vinylLabel" : "vinylLabel",
+    "creator" : "creator",
+    "discogs_image" : "discogs_image",
+    "genre" : "genre",
+    "discogs" : "discogs",
+    "id" : "046b6c7f-0b8a-43b9-b35d-6489e6daee91"
+  } ]
+}</code></pre>
 
     <h3 class="field-label">Produces</h3>
     This API call produces the following media types according to the <span class="header">Accept</span> request header;
     the media type will be conveyed by the <span class="header">Content-Type</span> response header.
     <ul>
-      <li><code>*/*</code></li>
+      <li><code>application/json</code></li>
+      <li><code>application/xml</code></li>
     </ul>
 
     <h3 class="field-label">Responses</h3>
     <h4 class="field-label">200</h4>
     OK
-        <a href="#Object">Object</a>
+        <a href="#SongsDTO">SongsDTO</a>
+    <h4 class="field-label">400</h4>
+    playlistId or userId do not exists
+        <a href="#"></a>
   </div> <!-- method -->
   <hr/>
   <div class="method"><a name="getPlaylistById"></a>
@@ -775,27 +815,38 @@
 
     <h3 class="field-label">Return type</h3>
     <div class="return-type">
+      <a href="#PlaylistDTO">PlaylistDTO</a>
       
-      Object
     </div>
 
     <!--Todo: process Response Object and its headers, schema, examples -->
 
     <h3 class="field-label">Example data</h3>
     <div class="example-data-content-type">Content-Type: application/json</div>
-    <pre class="example"><code>{ }</code></pre>
+    <pre class="example"><code>{
+  "createdDate" : "2000-01-23T04:56:07.000+00:00",
+  "songIds" : [ "046b6c7f-0b8a-43b9-b35d-6489e6daee91", "046b6c7f-0b8a-43b9-b35d-6489e6daee91" ],
+  "userIds" : [ "046b6c7f-0b8a-43b9-b35d-6489e6daee91", "046b6c7f-0b8a-43b9-b35d-6489e6daee91" ],
+  "id" : "046b6c7f-0b8a-43b9-b35d-6489e6daee91",
+  "title" : "title",
+  "username" : "username"
+}</code></pre>
 
     <h3 class="field-label">Produces</h3>
     This API call produces the following media types according to the <span class="header">Accept</span> request header;
     the media type will be conveyed by the <span class="header">Content-Type</span> response header.
     <ul>
-      <li><code>*/*</code></li>
+      <li><code>application/json</code></li>
+      <li><code>application/xml</code></li>
     </ul>
 
     <h3 class="field-label">Responses</h3>
     <h4 class="field-label">200</h4>
     OK
-        <a href="#Object">Object</a>
+        <a href="#PlaylistDTO">PlaylistDTO</a>
+    <h4 class="field-label">400</h4>
+    playlistId do not exists
+        <a href="#"></a>
   </div> <!-- method -->
   <hr/>
   <div class="method"><a name="getPlaylistsByUserId"></a>
@@ -818,27 +869,47 @@
 
     <h3 class="field-label">Return type</h3>
     <div class="return-type">
+      <a href="#PlaylistDTOS">PlaylistDTOS</a>
       
-      Object
     </div>
 
     <!--Todo: process Response Object and its headers, schema, examples -->
 
     <h3 class="field-label">Example data</h3>
     <div class="example-data-content-type">Content-Type: application/json</div>
-    <pre class="example"><code>{ }</code></pre>
+    <pre class="example"><code>{
+  "playlist" : [ {
+    "createdDate" : "2000-01-23T04:56:07.000+00:00",
+    "songIds" : [ "046b6c7f-0b8a-43b9-b35d-6489e6daee91", "046b6c7f-0b8a-43b9-b35d-6489e6daee91" ],
+    "userIds" : [ "046b6c7f-0b8a-43b9-b35d-6489e6daee91", "046b6c7f-0b8a-43b9-b35d-6489e6daee91" ],
+    "id" : "046b6c7f-0b8a-43b9-b35d-6489e6daee91",
+    "title" : "title",
+    "username" : "username"
+  }, {
+    "createdDate" : "2000-01-23T04:56:07.000+00:00",
+    "songIds" : [ "046b6c7f-0b8a-43b9-b35d-6489e6daee91", "046b6c7f-0b8a-43b9-b35d-6489e6daee91" ],
+    "userIds" : [ "046b6c7f-0b8a-43b9-b35d-6489e6daee91", "046b6c7f-0b8a-43b9-b35d-6489e6daee91" ],
+    "id" : "046b6c7f-0b8a-43b9-b35d-6489e6daee91",
+    "title" : "title",
+    "username" : "username"
+  } ]
+}</code></pre>
 
     <h3 class="field-label">Produces</h3>
     This API call produces the following media types according to the <span class="header">Accept</span> request header;
     the media type will be conveyed by the <span class="header">Content-Type</span> response header.
     <ul>
-      <li><code>*/*</code></li>
+      <li><code>application/json</code></li>
+      <li><code>application/xml</code></li>
     </ul>
 
     <h3 class="field-label">Responses</h3>
     <h4 class="field-label">200</h4>
     OK
-        <a href="#Object">Object</a>
+        <a href="#PlaylistDTOS">PlaylistDTOS</a>
+    <h4 class="field-label">400</h4>
+    userId do not exists
+        <a href="#"></a>
   </div> <!-- method -->
   <hr/>
   <div class="method"><a name="postPlaylist"></a>
@@ -865,29 +936,18 @@
 
 
 
-    <h3 class="field-label">Return type</h3>
-    <div class="return-type">
-      
-      Object
-    </div>
 
     <!--Todo: process Response Object and its headers, schema, examples -->
 
-    <h3 class="field-label">Example data</h3>
-    <div class="example-data-content-type">Content-Type: application/json</div>
-    <pre class="example"><code>{ }</code></pre>
 
-    <h3 class="field-label">Produces</h3>
-    This API call produces the following media types according to the <span class="header">Accept</span> request header;
-    the media type will be conveyed by the <span class="header">Content-Type</span> response header.
-    <ul>
-      <li><code>*/*</code></li>
-    </ul>
 
     <h3 class="field-label">Responses</h3>
     <h4 class="field-label">200</h4>
     OK
-        <a href="#Object">Object</a>
+        <a href="#"></a>
+    <h4 class="field-label">400</h4>
+    userId not exists
+        <a href="#"></a>
   </div> <!-- method -->
   <hr/>
   <div class="method"><a name="postSongToPlaylist"></a>
@@ -970,15 +1030,22 @@
 
     <h3 class="field-label">Return type</h3>
     <div class="return-type">
+      <a href="#PlaylistDTO">PlaylistDTO</a>
       
-      Object
     </div>
 
     <!--Todo: process Response Object and its headers, schema, examples -->
 
     <h3 class="field-label">Example data</h3>
     <div class="example-data-content-type">Content-Type: application/json</div>
-    <pre class="example"><code>{ }</code></pre>
+    <pre class="example"><code>{
+  "createdDate" : "2000-01-23T04:56:07.000+00:00",
+  "songIds" : [ "046b6c7f-0b8a-43b9-b35d-6489e6daee91", "046b6c7f-0b8a-43b9-b35d-6489e6daee91" ],
+  "userIds" : [ "046b6c7f-0b8a-43b9-b35d-6489e6daee91", "046b6c7f-0b8a-43b9-b35d-6489e6daee91" ],
+  "id" : "046b6c7f-0b8a-43b9-b35d-6489e6daee91",
+  "title" : "title",
+  "username" : "username"
+}</code></pre>
 
     <h3 class="field-label">Produces</h3>
     This API call produces the following media types according to the <span class="header">Accept</span> request header;
@@ -990,7 +1057,7 @@
     <h3 class="field-label">Responses</h3>
     <h4 class="field-label">200</h4>
     OK
-        <a href="#Object">Object</a>
+        <a href="#PlaylistDTO">PlaylistDTO</a>
   </div> <!-- method -->
   <hr/>
   <div class="method"><a name="verifyIfUserIsOk"></a>
@@ -1102,27 +1169,33 @@
 
     <h3 class="field-label">Return type</h3>
     <div class="return-type">
+      <a href="#PlaylistsDTO">PlaylistsDTO</a>
       
-      Object
     </div>
 
     <!--Todo: process Response Object and its headers, schema, examples -->
 
     <h3 class="field-label">Example data</h3>
     <div class="example-data-content-type">Content-Type: application/json</div>
-    <pre class="example"><code>{ }</code></pre>
+    <pre class="example"><code>{
+  "playlistIds" : [ "046b6c7f-0b8a-43b9-b35d-6489e6daee91", "046b6c7f-0b8a-43b9-b35d-6489e6daee91" ]
+}</code></pre>
 
     <h3 class="field-label">Produces</h3>
     This API call produces the following media types according to the <span class="header">Accept</span> request header;
     the media type will be conveyed by the <span class="header">Content-Type</span> response header.
     <ul>
-      <li><code>*/*</code></li>
+      <li><code>application/json</code></li>
+      <li><code>application/xml</code></li>
     </ul>
 
     <h3 class="field-label">Responses</h3>
     <h4 class="field-label">200</h4>
     OK
-        <a href="#Object">Object</a>
+        <a href="#PlaylistsDTO">PlaylistsDTO</a>
+    <h4 class="field-label">400</h4>
+    playlistId do not exists
+        <a href="#"></a>
   </div> <!-- method -->
   <hr/>
   <div class="method"><a name="getAllSongs"></a>
@@ -1140,15 +1213,33 @@
 
     <h3 class="field-label">Return type</h3>
     <div class="return-type">
+      <a href="#SongsDTO">SongsDTO</a>
       
-      Object
     </div>
 
     <!--Todo: process Response Object and its headers, schema, examples -->
 
     <h3 class="field-label">Example data</h3>
     <div class="example-data-content-type">Content-Type: application/json</div>
-    <pre class="example"><code>{ }</code></pre>
+    <pre class="example"><code>{
+  "songs" : [ {
+    "date" : "2000-01-23T04:56:07.000+00:00",
+    "vinylLabel" : "vinylLabel",
+    "creator" : "creator",
+    "discogs_image" : "discogs_image",
+    "genre" : "genre",
+    "discogs" : "discogs",
+    "id" : "046b6c7f-0b8a-43b9-b35d-6489e6daee91"
+  }, {
+    "date" : "2000-01-23T04:56:07.000+00:00",
+    "vinylLabel" : "vinylLabel",
+    "creator" : "creator",
+    "discogs_image" : "discogs_image",
+    "genre" : "genre",
+    "discogs" : "discogs",
+    "id" : "046b6c7f-0b8a-43b9-b35d-6489e6daee91"
+  } ]
+}</code></pre>
 
     <h3 class="field-label">Produces</h3>
     This API call produces the following media types according to the <span class="header">Accept</span> request header;
@@ -1160,7 +1251,7 @@
     <h3 class="field-label">Responses</h3>
     <h4 class="field-label">200</h4>
     OK
-        <a href="#Object">Object</a>
+        <a href="#SongsDTO">SongsDTO</a>
   </div> <!-- method -->
   <hr/>
   <div class="method"><a name="getAllSongsPag"></a>
@@ -1185,27 +1276,46 @@
 
     <h3 class="field-label">Return type</h3>
     <div class="return-type">
+      <a href="#SongsDTO">SongsDTO</a>
       
-      Object
     </div>
 
     <!--Todo: process Response Object and its headers, schema, examples -->
 
     <h3 class="field-label">Example data</h3>
     <div class="example-data-content-type">Content-Type: application/json</div>
-    <pre class="example"><code>{ }</code></pre>
+    <pre class="example"><code>{
+  "songs" : [ {
+    "date" : "2000-01-23T04:56:07.000+00:00",
+    "vinylLabel" : "vinylLabel",
+    "creator" : "creator",
+    "discogs_image" : "discogs_image",
+    "genre" : "genre",
+    "discogs" : "discogs",
+    "id" : "046b6c7f-0b8a-43b9-b35d-6489e6daee91"
+  }, {
+    "date" : "2000-01-23T04:56:07.000+00:00",
+    "vinylLabel" : "vinylLabel",
+    "creator" : "creator",
+    "discogs_image" : "discogs_image",
+    "genre" : "genre",
+    "discogs" : "discogs",
+    "id" : "046b6c7f-0b8a-43b9-b35d-6489e6daee91"
+  } ]
+}</code></pre>
 
     <h3 class="field-label">Produces</h3>
     This API call produces the following media types according to the <span class="header">Accept</span> request header;
     the media type will be conveyed by the <span class="header">Content-Type</span> response header.
     <ul>
-      <li><code>*/*</code></li>
+      <li><code>application/json</code></li>
+      <li><code>application/xml</code></li>
     </ul>
 
     <h3 class="field-label">Responses</h3>
     <h4 class="field-label">200</h4>
     OK
-        <a href="#Object">Object</a>
+        <a href="#SongsDTO">SongsDTO</a>
   </div> <!-- method -->
   <hr/>
   <div class="method"><a name="getSongById"></a>
@@ -1228,15 +1338,23 @@
 
     <h3 class="field-label">Return type</h3>
     <div class="return-type">
+      <a href="#SongDTO">SongDTO</a>
       
-      Object
     </div>
 
     <!--Todo: process Response Object and its headers, schema, examples -->
 
     <h3 class="field-label">Example data</h3>
     <div class="example-data-content-type">Content-Type: application/json</div>
-    <pre class="example"><code>{ }</code></pre>
+    <pre class="example"><code>{
+  "date" : "2000-01-23T04:56:07.000+00:00",
+  "vinylLabel" : "vinylLabel",
+  "creator" : "creator",
+  "discogs_image" : "discogs_image",
+  "genre" : "genre",
+  "discogs" : "discogs",
+  "id" : "046b6c7f-0b8a-43b9-b35d-6489e6daee91"
+}</code></pre>
 
     <h3 class="field-label">Produces</h3>
     This API call produces the following media types according to the <span class="header">Accept</span> request header;
@@ -1248,7 +1366,7 @@
     <h3 class="field-label">Responses</h3>
     <h4 class="field-label">200</h4>
     OK
-        <a href="#Object">Object</a>
+        <a href="#SongDTO">SongDTO</a>
   </div> <!-- method -->
   <hr/>
   <div class="method"><a name="postSong"></a>
@@ -1277,15 +1395,23 @@
 
     <h3 class="field-label">Return type</h3>
     <div class="return-type">
+      <a href="#SongDTO">SongDTO</a>
       
-      Object
     </div>
 
     <!--Todo: process Response Object and its headers, schema, examples -->
 
     <h3 class="field-label">Example data</h3>
     <div class="example-data-content-type">Content-Type: application/json</div>
-    <pre class="example"><code>{ }</code></pre>
+    <pre class="example"><code>{
+  "date" : "2000-01-23T04:56:07.000+00:00",
+  "vinylLabel" : "vinylLabel",
+  "creator" : "creator",
+  "discogs_image" : "discogs_image",
+  "genre" : "genre",
+  "discogs" : "discogs",
+  "id" : "046b6c7f-0b8a-43b9-b35d-6489e6daee91"
+}</code></pre>
 
     <h3 class="field-label">Produces</h3>
     This API call produces the following media types according to the <span class="header">Accept</span> request header;
@@ -1297,7 +1423,7 @@
     <h3 class="field-label">Responses</h3>
     <h4 class="field-label">200</h4>
     OK
-        <a href="#Object">Object</a>
+        <a href="#SongDTO">SongDTO</a>
   </div> <!-- method -->
   <hr/>
   <div class="method"><a name="postSongToMultiplePlaylists"></a>
@@ -1431,27 +1557,46 @@
 
     <h3 class="field-label">Return type</h3>
     <div class="return-type">
+      <a href="#SongsDTO">SongsDTO</a>
       
-      Object
     </div>
 
     <!--Todo: process Response Object and its headers, schema, examples -->
 
     <h3 class="field-label">Example data</h3>
     <div class="example-data-content-type">Content-Type: application/json</div>
-    <pre class="example"><code>{ }</code></pre>
+    <pre class="example"><code>{
+  "songs" : [ {
+    "date" : "2000-01-23T04:56:07.000+00:00",
+    "vinylLabel" : "vinylLabel",
+    "creator" : "creator",
+    "discogs_image" : "discogs_image",
+    "genre" : "genre",
+    "discogs" : "discogs",
+    "id" : "046b6c7f-0b8a-43b9-b35d-6489e6daee91"
+  }, {
+    "date" : "2000-01-23T04:56:07.000+00:00",
+    "vinylLabel" : "vinylLabel",
+    "creator" : "creator",
+    "discogs_image" : "discogs_image",
+    "genre" : "genre",
+    "discogs" : "discogs",
+    "id" : "046b6c7f-0b8a-43b9-b35d-6489e6daee91"
+  } ]
+}</code></pre>
 
     <h3 class="field-label">Produces</h3>
     This API call produces the following media types according to the <span class="header">Accept</span> request header;
     the media type will be conveyed by the <span class="header">Content-Type</span> response header.
     <ul>
-      <li><code>*/*</code></li>
+      <li><code>application/json</code></li>
+      <li><code>application/xml</code></li>
     </ul>
 
     <h3 class="field-label">Responses</h3>
     <h4 class="field-label">200</h4>
     OK
-        <a href="#Object">Object</a>
+        <a href="#SongsDTO">SongsDTO</a>
   </div> <!-- method -->
   <hr/>
   <div class="method"><a name="postSongSpotify"></a>
@@ -1604,7 +1749,7 @@
 
     <h3 class="field-label">Return type</h3>
     <div class="return-type">
-      array[<a href="#Artist">Artist</a>]
+      <a href="#SongsSpotifyDTO">SongsSpotifyDTO</a>
       
     </div>
 
@@ -1612,71 +1757,36 @@
 
     <h3 class="field-label">Example data</h3>
     <div class="example-data-content-type">Content-Type: application/json</div>
-    <pre class="example"><code>[ {
-  "images" : [ {
-    "width" : 6,
-    "url" : "url",
-    "height" : 0
+    <pre class="example"><code>{
+  "songSpotifyDTOList" : [ {
+    "spotifyUrl" : "spotifyUrl",
+    "artists" : "artists",
+    "songSpotify_id" : "046b6c7f-0b8a-43b9-b35d-6489e6daee91",
+    "name" : "name",
+    "userId" : "046b6c7f-0b8a-43b9-b35d-6489e6daee91",
+    "url" : "url"
   }, {
-    "width" : 6,
-    "url" : "url",
-    "height" : 0
-  } ],
-  "followers" : {
-    "total" : 0,
-    "href" : "href"
-  },
-  "genres" : [ "genres", "genres" ],
-  "popularity" : 6,
-  "name" : "name",
-  "externalUrls" : {
-    "externalUrls" : {
-      "key" : "externalUrls"
-    }
-  },
-  "href" : "href",
-  "id" : "id",
-  "type" : "ALBUM",
-  "uri" : "uri"
-}, {
-  "images" : [ {
-    "width" : 6,
-    "url" : "url",
-    "height" : 0
-  }, {
-    "width" : 6,
-    "url" : "url",
-    "height" : 0
-  } ],
-  "followers" : {
-    "total" : 0,
-    "href" : "href"
-  },
-  "genres" : [ "genres", "genres" ],
-  "popularity" : 6,
-  "name" : "name",
-  "externalUrls" : {
-    "externalUrls" : {
-      "key" : "externalUrls"
-    }
-  },
-  "href" : "href",
-  "id" : "id",
-  "type" : "ALBUM",
-  "uri" : "uri"
-} ]</code></pre>
+    "spotifyUrl" : "spotifyUrl",
+    "artists" : "artists",
+    "songSpotify_id" : "046b6c7f-0b8a-43b9-b35d-6489e6daee91",
+    "name" : "name",
+    "userId" : "046b6c7f-0b8a-43b9-b35d-6489e6daee91",
+    "url" : "url"
+  } ]
+}</code></pre>
 
     <h3 class="field-label">Produces</h3>
     This API call produces the following media types according to the <span class="header">Accept</span> request header;
     the media type will be conveyed by the <span class="header">Content-Type</span> response header.
     <ul>
-      <li><code>*/*</code></li>
+      <li><code>application/json</code></li>
+      <li><code>application/xml</code></li>
     </ul>
 
     <h3 class="field-label">Responses</h3>
     <h4 class="field-label">200</h4>
     OK
-        
+        <a href="#SongsSpotifyDTO">SongsSpotifyDTO</a>
   </div> <!-- method -->
   <hr/>
   <div class="method"><a name="getUserTopTracks"></a>
@@ -1884,26 +1994,27 @@
     <h3 class="field-label">Return type</h3>
     <div class="return-type">
       
-      Object
+      String
     </div>
 
     <!--Todo: process Response Object and its headers, schema, examples -->
 
     <h3 class="field-label">Example data</h3>
     <div class="example-data-content-type">Content-Type: application/json</div>
-    <pre class="example"><code>{ }</code></pre>
+    <pre class="example"><code>""</code></pre>
 
     <h3 class="field-label">Produces</h3>
     This API call produces the following media types according to the <span class="header">Accept</span> request header;
     the media type will be conveyed by the <span class="header">Content-Type</span> response header.
     <ul>
-      <li><code>*/*</code></li>
+      <li><code>application/xml</code></li>
+      <li><code>application/json</code></li>
     </ul>
 
     <h3 class="field-label">Responses</h3>
     <h4 class="field-label">200</h4>
     OK
-        <a href="#Object">Object</a>
+        <a href="#String">String</a>
   </div> <!-- method -->
   <hr/>
   <div class="method"><a name="verifySpotifyToken"></a>
@@ -1970,27 +2081,33 @@
 
     <h3 class="field-label">Return type</h3>
     <div class="return-type">
+      <a href="#UpdateUserDTO">UpdateUserDTO</a>
       
-      Object
     </div>
 
     <!--Todo: process Response Object and its headers, schema, examples -->
 
     <h3 class="field-label">Example data</h3>
     <div class="example-data-content-type">Content-Type: application/json</div>
-    <pre class="example"><code>{ }</code></pre>
+    <pre class="example"><code>{
+  "password" : "password",
+  "name" : "name",
+  "id" : "046b6c7f-0b8a-43b9-b35d-6489e6daee91",
+  "email" : "email"
+}</code></pre>
 
     <h3 class="field-label">Produces</h3>
     This API call produces the following media types according to the <span class="header">Accept</span> request header;
     the media type will be conveyed by the <span class="header">Content-Type</span> response header.
     <ul>
-      <li><code>*/*</code></li>
+      <li><code>application/json</code></li>
+      <li><code>application/xml</code></li>
     </ul>
 
     <h3 class="field-label">Responses</h3>
     <h4 class="field-label">200</h4>
     OK
-        <a href="#Object">Object</a>
+        <a href="#UpdateUserDTO">UpdateUserDTO</a>
   </div> <!-- method -->
   <hr/>
   <div class="method"><a name="updateUser"></a>
@@ -2049,25 +2166,26 @@
   <h3>Table of Contents</h3>
   <ol>
     <li><a href="#AlbumSimplified"><code>AlbumSimplified</code></a></li>
-    <li><a href="#Artist"><code>Artist</code></a></li>
     <li><a href="#ArtistSimplified"><code>ArtistSimplified</code></a></li>
     <li><a href="#ArtistSpotifyDTO"><code>ArtistSpotifyDTO</code></a></li>
     <li><a href="#ArtistsSpotifyDTO"><code>ArtistsSpotifyDTO</code></a></li>
     <li><a href="#ExternalId"><code>ExternalId</code></a></li>
     <li><a href="#ExternalUrl"><code>ExternalUrl</code></a></li>
-    <li><a href="#Followers"><code>Followers</code></a></li>
     <li><a href="#Image"><code>Image</code></a></li>
     <li><a href="#LoginDTO"><code>LoginDTO</code></a></li>
     <li><a href="#PlaylistDTO"><code>PlaylistDTO</code></a></li>
+    <li><a href="#PlaylistDTOS"><code>PlaylistDTOS</code></a></li>
     <li><a href="#PlaylistsDTO"><code>PlaylistsDTO</code></a></li>
     <li><a href="#RegisterDTO"><code>RegisterDTO</code></a></li>
     <li><a href="#Restrictions"><code>Restrictions</code></a></li>
     <li><a href="#SongDTO"><code>SongDTO</code></a></li>
     <li><a href="#SongSpotifyDTO"><code>SongSpotifyDTO</code></a></li>
+    <li><a href="#SongsDTO"><code>SongsDTO</code></a></li>
     <li><a href="#SongsSpotifyDTO"><code>SongsSpotifyDTO</code></a></li>
     <li><a href="#Track"><code>Track</code></a></li>
     <li><a href="#TrackLink"><code>TrackLink</code></a></li>
     <li><a href="#UpdateUserDTO"><code>UpdateUserDTO</code></a></li>
+    <li><a href="#UserLogin"><code>UserLogin</code></a></li>
   </ol>
 
   <div class="model">
@@ -2094,24 +2212,6 @@
         <div class="param-enum-header">Enum:</div>
         <div class="param-enum">DAY</div><div class="param-enum">MONTH</div><div class="param-enum">YEAR</div>
 <div class="param">restrictions (optional)</div><div class="param-desc"><span class="param-type"><a href="#Restrictions">Restrictions</a></span>  </div>
-<div class="param">type (optional)</div><div class="param-desc"><span class="param-type"><a href="#string">String</a></span>  </div>
-        <div class="param-enum-header">Enum:</div>
-        <div class="param-enum">ALBUM</div><div class="param-enum">ARTIST</div><div class="param-enum">AUDIO_FEATURES</div><div class="param-enum">EPISODE</div><div class="param-enum">GENRE</div><div class="param-enum">PLAYLIST</div><div class="param-enum">SHOW</div><div class="param-enum">TRACK</div><div class="param-enum">USER</div>
-<div class="param">uri (optional)</div><div class="param-desc"><span class="param-type"><a href="#string">String</a></span>  </div>
-    </div>  <!-- field-items -->
-  </div>
-  <div class="model">
-    <h3><a name="Artist"><code>Artist</code></a> <a class="up" href="#__Models">Up</a></h3>
-    
-    <div class="field-items">
-      <div class="param">externalUrls (optional)</div><div class="param-desc"><span class="param-type"><a href="#ExternalUrl">ExternalUrl</a></span>  </div>
-<div class="param">followers (optional)</div><div class="param-desc"><span class="param-type"><a href="#Followers">Followers</a></span>  </div>
-<div class="param">genres (optional)</div><div class="param-desc"><span class="param-type"><a href="#string">array[String]</a></span>  </div>
-<div class="param">href (optional)</div><div class="param-desc"><span class="param-type"><a href="#string">String</a></span>  </div>
-<div class="param">id (optional)</div><div class="param-desc"><span class="param-type"><a href="#string">String</a></span>  </div>
-<div class="param">images (optional)</div><div class="param-desc"><span class="param-type"><a href="#Image">array[Image]</a></span>  </div>
-<div class="param">name (optional)</div><div class="param-desc"><span class="param-type"><a href="#string">String</a></span>  </div>
-<div class="param">popularity (optional)</div><div class="param-desc"><span class="param-type"><a href="#integer">Integer</a></span>  format: int32</div>
 <div class="param">type (optional)</div><div class="param-desc"><span class="param-type"><a href="#string">String</a></span>  </div>
         <div class="param-enum-header">Enum:</div>
         <div class="param-enum">ALBUM</div><div class="param-enum">ARTIST</div><div class="param-enum">AUDIO_FEATURES</div><div class="param-enum">EPISODE</div><div class="param-enum">GENRE</div><div class="param-enum">PLAYLIST</div><div class="param-enum">SHOW</div><div class="param-enum">TRACK</div><div class="param-enum">USER</div>
@@ -2166,14 +2266,6 @@
     </div>  <!-- field-items -->
   </div>
   <div class="model">
-    <h3><a name="Followers"><code>Followers</code></a> <a class="up" href="#__Models">Up</a></h3>
-    
-    <div class="field-items">
-      <div class="param">href (optional)</div><div class="param-desc"><span class="param-type"><a href="#string">String</a></span>  </div>
-<div class="param">total (optional)</div><div class="param-desc"><span class="param-type"><a href="#integer">Integer</a></span>  format: int32</div>
-    </div>  <!-- field-items -->
-  </div>
-  <div class="model">
     <h3><a name="Image"><code>Image</code></a> <a class="up" href="#__Models">Up</a></h3>
     
     <div class="field-items">
@@ -2199,6 +2291,14 @@
 <div class="param">songIds (optional)</div><div class="param-desc"><span class="param-type"><a href="#UUID">array[UUID]</a></span>  format: uuid</div>
 <div class="param">userIds (optional)</div><div class="param-desc"><span class="param-type"><a href="#UUID">array[UUID]</a></span>  format: uuid</div>
 <div class="param">createdDate (optional)</div><div class="param-desc"><span class="param-type"><a href="#DateTime">Date</a></span>  format: date-time</div>
+<div class="param">username (optional)</div><div class="param-desc"><span class="param-type"><a href="#string">String</a></span>  </div>
+    </div>  <!-- field-items -->
+  </div>
+  <div class="model">
+    <h3><a name="PlaylistDTOS"><code>PlaylistDTOS</code></a> <a class="up" href="#__Models">Up</a></h3>
+    
+    <div class="field-items">
+      <div class="param">playlist (optional)</div><div class="param-desc"><span class="param-type"><a href="#PlaylistDTO">array[PlaylistDTO]</a></span>  </div>
     </div>  <!-- field-items -->
   </div>
   <div class="model">
@@ -2247,6 +2347,13 @@
 <div class="param">artists (optional)</div><div class="param-desc"><span class="param-type"><a href="#string">String</a></span>  </div>
 <div class="param">spotifyUrl (optional)</div><div class="param-desc"><span class="param-type"><a href="#string">String</a></span>  </div>
 <div class="param">userId (optional)</div><div class="param-desc"><span class="param-type"><a href="#UUID">UUID</a></span>  format: uuid</div>
+    </div>  <!-- field-items -->
+  </div>
+  <div class="model">
+    <h3><a name="SongsDTO"><code>SongsDTO</code></a> <a class="up" href="#__Models">Up</a></h3>
+    
+    <div class="field-items">
+      <div class="param">songs (optional)</div><div class="param-desc"><span class="param-type"><a href="#SongDTO">array[SongDTO]</a></span>  </div>
     </div>  <!-- field-items -->
   </div>
   <div class="model">
@@ -2306,6 +2413,15 @@
 <div class="param">name (optional)</div><div class="param-desc"><span class="param-type"><a href="#string">String</a></span>  </div>
 <div class="param">email (optional)</div><div class="param-desc"><span class="param-type"><a href="#string">String</a></span>  </div>
 <div class="param">password (optional)</div><div class="param-desc"><span class="param-type"><a href="#string">String</a></span>  </div>
+    </div>  <!-- field-items -->
+  </div>
+  <div class="model">
+    <h3><a name="UserLogin"><code>UserLogin</code></a> <a class="up" href="#__Models">Up</a></h3>
+    
+    <div class="field-items">
+      <div class="param">id (optional)</div><div class="param-desc"><span class="param-type"><a href="#UUID">UUID</a></span>  format: uuid</div>
+<div class="param">name (optional)</div><div class="param-desc"><span class="param-type"><a href="#string">String</a></span>  </div>
+<div class="param">jwtToken (optional)</div><div class="param-desc"><span class="param-type"><a href="#UUID">UUID</a></span>  format: uuid</div>
     </div>  <!-- field-items -->
   </div>
   </body>
