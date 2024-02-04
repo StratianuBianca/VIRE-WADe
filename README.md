@@ -22,3 +22,9 @@ Build a (micro-)service Web system able to "intelligently" recommend – by expo
 ## Project final progress:
 * https://github.com/StratianuBianca/VIRE-WADe/wiki/Record-the-solution's-final-progress
 
+## Github Repositories:
+* https://github.com/GOvidiu20/vinyl-frontend
+* https://github.com/GOvidiu20/vinyl-wade-recommender
+
+## Video:
+* https://www.youtube.com/watch?v=IP_zsuKmnUM

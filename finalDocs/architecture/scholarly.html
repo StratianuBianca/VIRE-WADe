@@ -146,6 +146,10 @@
             <div class="item">
                 <img src="useCase/Taskflows.png" alt="Taskflows" style="width:100%;">
             </div>
+            <p>Arhitecrual diagram:</p>
+            <div class="item">
+                <img src="images/arhitectural.png" alt="Taskflows" class="w-75">
+            </div>
         </section>
 
         <section id="internal-data-structures">
@@ -176,12 +180,15 @@
                             </div>
                             <p>Spotify architecture:</p>
                             <div class="item">
-                                <img src="C3/spotify.png" alt="spotify" style="width:100%;">
+                                <img src="C3/spotify.png" alt="spotify" style="width:50%;">
                             </div>
                         </section>
                     <section id="recommandationText">
                         <h4>3.3.2 Recommandation based on text</h4>
-                        <p></p>
+                        <p>We created a recommendation system that process a text input received from users and converte it to vinyl recomandations. For that we firstly process the text, extracting usefull informations regarding user preferences.
+                            For a convenient and efficient processing of the text, we use Controlled Language, meaning that we have a set of predefined words and phrases that we can use to extract the user preferences. For example for 
+                            expriming the user preferences we expect words like: love,like,hate,dislike. Also we expect to receive the genre of the music and the artist. Based on these informations we will build a spark query and receive recommendations.
+                        </p>
                     </section>
                 </section>
 
@@ -189,36 +196,40 @@
                 <h3>3.4 User Interface</h3>
                 <p>We will design an intuitive and user-friendly interface where users can input preferences, view recommendations, create and share playlists with friends.
                 Also will provide a visually appealing display of recommended vinyl records with cover images, song information, and any other significant details</p>
-                <div id="myCarousel" class="carousel slide" data-ride="carousel">
+                <div id="myCarousel1" class="carousel slide" data-ride="carousel">
                     <!-- Indicators -->
                     <ul class="carousel-indicators">
-                      <li data-target="#myCarousel" data-slide-to="0" class="active"></li>
-                      <li data-target="#myCarousel" data-slide-to="1"></li>
-                      <li data-target="#myCarousel" data-slide-to="2"></li>
-                      <li data-target="#myCarousel" data-slide-to="3"></li>
+                      <li data-target="#myCarousel1" data-slide-to="0" class="active"></li>
+                      <li data-target="#myCarousel1" data-slide-to="1"></li>
+                      <li data-target="#myCarousel1" data-slide-to="2"></li>
+                      <li data-target="#myCarousel1" data-slide-to="3"></li>
+                      <li data-target="#myCarousel1" data-slide-to="4"></li>
                     </ul>
                   
                     <!-- Slides -->
                     <div class="carousel-inner">
                       <div class="carousel-item active">
-                        <img src="user-interface/home.PNG" alt="Image 1">
+                        <img src="user-interface/home.PNG" class="w-100" alt="Image 1">
                       </div>
                       <div class="carousel-item">
-                        <img src="user-interface/playlists.PNG" alt="Image 2">
+                        <img src="user-interface/playlists.PNG" class="w-100" alt="Image 2">
                       </div>
                       <div class="carousel-item">
-                        <img src="user-interface/recommandation.PNG" alt="Image 3">
+                        <img src="user-interface/edit-playlist.PNG" class="w-100" alt="Image 3">
                       </div>
                       <div class="carousel-item">
-                        <img src="user-interface/history.PNG" alt="Image 4">
+                        <img src="user-interface/recommandation.PNG" class="w-100" alt="Image 4">
+                      </div>
+                      <div class="carousel-item">
+                        <img src="user-interface/profile.PNG" class="w-100" alt="Image 5">
                       </div>
                     </div>
                   
                     <!-- Controls -->
-                    <a class="carousel-control-prev" href="#myCarousel" data-slide="prev">
+                    <a class="carousel-control-prev" href="#myCarousel1" data-slide="prev">
                       <span class="carousel-control-prev-icon"></span>
                     </a>
-                    <a class="carousel-control-next" href="#myCarousel" data-slide="next">
+                    <a class="carousel-control-next" href="#myCarousel1" data-slide="next">
                       <span class="carousel-control-next-icon"></span>
                     </a>
                 </div>
@@ -234,8 +245,8 @@
             
                    <section id="data-source">
                 <h3>4.2 Data Source</h3>
-                    <p>Last.fm and Spotify are music recommendation services that track user listening habits and provide personalized recommendations. Also allows to fetch user data including playlists and user recommendations. So we are gonna use these for receiving vinyl recomandations based on playlist that user build or share in common with his network.</p>
-                    <p>Discogs is a comprehensive database of music releases, including vinyl records. We will use Discogs API that allows us to access and retrive informations such as album cover, genres, realease dates and tracklists.</p>
+                    <p>Spotify is a music recommendation service that track user listening habits and provide personalized recommendations. Also allows to fetch user data including playlists and user recommendations. So we used these for receiving vinyl recomandations based on playlist that user build or share in common with his network.</p>
+                    <p>Discogs is a comprehensive database of music releases, including vinyl records. We used Discogs API for receiving informations about vinyls and insert them in our knowledge base.</p>
                 </section>
 
             <section id="data-integration">
@@ -271,7 +282,7 @@
         <section id="linked-data-principles">
             <h2>6. Linked Data Principles</h2>
             <section id="linked-data-explanation">
-                <h3>5.1 Explanation of Linked Data</h3>
+                <h3>6.1 Explanation of Linked Data</h3>
                 <p>Linked Data is a set of principles and best practices for publishing, connecting, and interlinking structured data on the web.The key principles of Linked Data are designed to make data more discoverable, usable, and interconnected. </p>
                 Here are the core principles:
                     <ul>
@@ -284,23 +295,23 @@
             </section>
 
             <section id="conformance-explanation">
-                <h3>5.2 How the Solution Conforms</h3>
-                <p>We are gonna use these principles in the following manners:</p>
+                <h3>6.2 How the Solution Conforms</h3>
+                <p>We used these principles in the following manners:</p>
                 <ul>
                     <li>
-                        1.We are gonna use proper and specific names to our pages routes which is gonna help for searching
+                        1.We used proper and specific names to our pages routes which is gonna help for searching
                     </li>
                     <li>
-                        2.We will expose our application through HTTP witch will allow more recognision from external serivices and application.
+                        2.We exposed our application through HTTP witch will allow more recognision from external serivices and application.
                     </li>
                     <li>
-
+                        3.We provide RDF description for all our data managed by the application.
                     </li>
                     <li>
-                        4.We will offer links to anothers services which will allow user to view more information about their favorite songs and artists.
+                        4.We offer links to anothers services which will allow user to view more information about their favorite songs and artists.
                     </li>
                     <li>
-                        5.We will provide link to our used external data APIs so that user can find more details on how our recomandations system works.
+                        5.We provide link to our used external data APIs so that user can find more details on how our recomandations system works.
                     </li>
                 </ul>
             </section>
