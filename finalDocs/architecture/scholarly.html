@@ -189,6 +189,14 @@
                             For a convenient and efficient processing of the text, we use Controlled Language, meaning that we have a set of predefined words and phrases that we can use to extract the user preferences. For example for 
                             expriming the user preferences we expect words like: love,like,hate,dislike. Also we expect to receive the genre of the music and the artist. Based on these informations we will build a spark query and receive recommendations.
                         </p>
+                        <p>If we have the text: "I like Brothers and Jim Croce released before 1978 but only blues genre" . Query will be:</p>
+                        <div class="item">
+                            <img src="images/queryExample.png" alt="spotify" style="width:50%;">
+                        </div>
+                        <p>And result:</p>
+                        <div class="item">
+                            <img src="images/queryResult.png" alt="spotify" style="width:50%;">
+                        </div>
                     </section>
                 </section>
 
@@ -246,8 +254,26 @@
                    <section id="data-source">
                 <h3>4.2 Data Source</h3>
                     <p>Spotify is a music recommendation service that track user listening habits and provide personalized recommendations. Also allows to fetch user data including playlists and user recommendations. So we used these for receiving vinyl recomandations based on playlist that user build or share in common with his network.</p>
-                    <p>Discogs is a comprehensive database of music releases, including vinyl records. We used Discogs API for receiving informations about vinyls and insert them in our knowledge base.</p>
+                    <p>Discogs is a comprehensive database of music releases, including vinyl records. We used Discogs API for receiving informations about vinyls and transform them in ttl format and leter insert them in our knowledge base.</p>
+                    <p>We utilize DBpedia, a resource offering details on diverse music-related entities like artists, albums, genres, and more</p>
+                    <p>Query to Wikidata:</p>
+                    <div class="item">
+                        <img src="images/wikidata.png" alt="vinyl" style="width:100%;">
+                    </div>
+                    <p>The query return disctict vinyl with title, artist, genre and release date</p>
+                    <div class="item">
+                        <img src="images/resultWikidata.png" alt="vinyl" style="width:100%;">
+                    </div>
+                    <ul>
+                        <li><b>wd:Q178588</b>: property who link to vinyl record</li>
+                        <li><b>wdt:P175 ?artist</b> link vinyl to artist</li>
+                        <li><b>wdt:P136 ?genre</b>: link vinyl to genre</li>
+                        <li><b>wdt:P577 ?date</b>: link vinyl to release date</li>
+                    </ul>
+                    <p>Since Wikidata does not allow downloading the result in ttl format, I downloaded it in csv and converted the result in ttl format.</p>
+
                 </section>
+                
 
             <section id="data-integration">
                 <h3>4.3 Data Integration</h3>
@@ -255,6 +281,10 @@
         </section>
         <section id="ontology-and-vocabularies">
             <h2>Ontology and Vocabularies</h2>
+            <p>Example from our ttl file</p>
+            <div class="item">
+                <img src="images/ttlFile.png" alt="vinyl" style="width:100%;">
+            </div>
             <p>We employ established ontologies and vocabularies to organize our system effectively. These are essential for reinforcing the Music Ontology we utilize and are outlined as follows:</p>
             <ul>
                 <li><b>PREFIX dc</b>: http://purl.org/dc/elements/1.1/</li>
@@ -274,7 +304,12 @@
             </ul>
 
             <div class="item">
-                <img src="C3/vinyl.png" alt="vinyl" style="width:100%;">
+                <img src="C3/vinyl.png" alt="vinyl" style="width:130%;">
+            </div>
+            <p>We created a SPARQLQueryBuilder where we added different functions to add constraints. </p>
+            <p>For example this will add at query favorite artists and genres</p>
+            <div class="item">
+                <img src="images/filters.png" alt="vinyl" style="width:130%;">
             </div>
 
         </section>
