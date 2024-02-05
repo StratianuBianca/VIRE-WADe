@@ -19,12 +19,11 @@ Build a (micro-)service Web system able to "intelligently" recommend – by expo
 * Technical report: https://stratianubianca.github.io/VIRE-WADe/finalDocs/architecture/scholarly.html
 * OpenAPI specification : for user: https://stratianubianca.github.io/VIRE-WADe/finalDocs/OpenAPI%20specification/UserAPI/index.html , for recommender: https://stratianubianca.github.io/VIRE-WADe/finalDocs/OpenAPI%20specification/RecommenderAPI/index.html
 
-## Project final progress:
-* https://github.com/StratianuBianca/VIRE-WADe/wiki/Record-the-solution's-final-progress
 
 ## Github Repositories:
 * https://github.com/GOvidiu20/vinyl-frontend
 * https://github.com/GOvidiu20/vinyl-wade-recommender
+* https://github.com/StratianuBianca/vire-wade-users
 
 ## Video:
 * https://www.youtube.com/watch?v=IP_zsuKmnUM
